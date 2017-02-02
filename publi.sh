@@ -1,6 +1,6 @@
 # publi.sh
 git checkout site
-git merge master
+# git merge master
 rm -rf _site/
 bundle exec jekyll build --baseurl /cuentas-anuales
 git add --all
