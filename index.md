@@ -62,7 +62,7 @@ title: Home
       <li class="list-item card">
         <a href="#" class="card-inner">
           <div class="card-media">
-            <img src="assets/dummy-list.png" />
+            <img src="{{site.baseurl}}/assets/dummy-list.png" />
           </div>
           <div class="card-txt">
             <div>
