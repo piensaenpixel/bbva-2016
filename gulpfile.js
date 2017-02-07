@@ -51,16 +51,17 @@ gulp.task('fonts', () => {
     .pipe(gulp.dest('_site/stylesheets/fonts'));
 });
 
+
 gulp.task('js', () => {
   return gulp.src('_javascripts/main.js')
     .pipe(webpack())
     .on('error', swallowError)
     .pipe(rename('main.js'))
-    .pipe(gulp.dest('_site/javascripts'))
+    .pipe(gulp.dest('javascripts'))
     .pipe(reload({stream: true}))
     .pipe(uglify())
     .on('error', swallowError)
-    .pipe(gulp.dest('javascripts'));
+    .pipe(gulp.dest('_site/javascripts'));
 });
 
 gulp.task('serve', () => {

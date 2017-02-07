@@ -1,0 +1,11 @@
+.u-txt-center {
+  text-align: center;
+}
+
+.u-flex {
+  @include display-flex;
+}
+
+.u-space-between {
+  @include justify-content(space-between);
+}
