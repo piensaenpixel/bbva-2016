@@ -9,3 +9,10 @@
 .u-space-between {
   @include justify-content(space-between);
 }
+.u-hcenter {
+  @include justify-content(center);
+}
+
+.u-upperCase {
+  text-transform: uppercase;
+}
