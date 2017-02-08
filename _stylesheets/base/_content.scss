@@ -18,7 +18,7 @@
 .section--header {
   @include display-flex;
   @include align-items(center);
-  background-image: url('../assets/header-background.png');
+  background-image: url('../images/header-background.png');
   background-position: left center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -29,7 +29,7 @@
 
 
 .section--letter {
-  background-image: url('../assets/bg-letter.svg');
+  background-image: url('../images/bg-letter.svg');
   background-position: left center;
   background-repeat: no-repeat;
   background-size: auto 102%;
@@ -42,7 +42,7 @@
   right: 0;
   bottom: 0;
   left: 0;
-  background-image: url('../assets/bg-letter-opacity.svg');
+  background-image: url('../images/bg-letter-opacity.svg');
   background-position: left top;
   background-repeat: no-repeat;
   background-size: cover;
@@ -50,7 +50,7 @@
 }
 
 .section--estrategia {
-  background-image: url('../assets/bg-estrategia.png');
+  background-image: url('../images/bg-estrategia.png');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -425,7 +425,7 @@
 }
 
 .bg-interior--sociedad {
-  background-image: url('../assets/bg-sociedad.jpg');
+  background-image: url('../images/bg-sociedad.jpg');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;

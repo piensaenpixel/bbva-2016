@@ -40,9 +40,9 @@ title: Home
       <h2>Carta del presidente</h2>
       <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
          width="89.833px" height="69.667px" viewBox="0 0 89.833 69.667" enable-background="new 0 0 89.833 69.667" xml:space="preserve">
-        <polygon fill-rule="evenodd" clip-rule="evenodd" fill="#0087CC" points="67.833,0 49.5,29.332 49.5,69.667 89.833,69.667 
+        <polygon fill-rule="evenodd" clip-rule="evenodd" fill="#0087CC" points="67.833,0 49.5,29.332 49.5,69.667 89.833,69.667
         89.833,29.332 67.833,29.332 86.166,0 "/>
-        <polygon fill-rule="evenodd" clip-rule="evenodd" fill="#0087CC" points="18.333,0 0,29.332 0,69.667 40.333,69.667 40.333,29.332 
+        <polygon fill-rule="evenodd" clip-rule="evenodd" fill="#0087CC" points="18.333,0 0,29.332 0,69.667 40.333,69.667 40.333,29.332
         18.333,29.332 36.666,0 "/>
       </svg>
       <h3>BBVA ha avanzado mucho en 2016. Sobre la base de un modelo de negocio muy sólido y con gran potencial de crecimiento</h3>
@@ -50,7 +50,7 @@ title: Home
       <a href="#">Leer más</a>
     </div>
     <div class="letter-media">
-      <img src="assets/francisco-gonzalez.png" />
+      <img src="{{site.baseurl}}/images/francisco-gonzalez.png" />
     </div>
   </div>
 </section>
@@ -62,7 +62,7 @@ title: Home
       <li class="list-item card">
         <a href="#" class="card-inner">
           <div class="card-media">
-            <img src="{{site.baseurl}}/assets/dummy-list.png" />
+            <img src="{{site.baseurl}}/images/dummy-list.png" />
           </div>
           <div class="card-txt">
             <div>
@@ -76,7 +76,7 @@ title: Home
       <li class="list-item card">
         <a href="#" class="card-inner">
           <div class="card-media">
-            <img src="assets/dummy-list.png" />
+            <img src="{{site.baseurl}}/images/dummy-list.png" />
           </div>
           <div class="card-txt">
             <div>
@@ -90,7 +90,7 @@ title: Home
       <li class="list-item card">
         <a href="#" class="card-inner">
           <div class="card-media">
-            <img src="assets/dummy-list.png" />
+            <img src="{{site.baseurl}}/images/dummy-list.png" />
           </div>
           <div class="card-txt">
             <div>
@@ -104,7 +104,7 @@ title: Home
       <li class="list-item card">
         <a href="#" class="card-inner">
           <div class="card-media">
-            <img src="assets/dummy-list.png" />
+            <img src="{{site.baseurl}}/images/dummy-list.png" />
           </div>
           <div class="card-txt">
             <div>
@@ -118,7 +118,7 @@ title: Home
       <li class="list-item card">
         <a href="#" class="card-inner">
           <div class="card-media">
-            <img src="assets/dummy-list.png" />
+            <img src="{{site.baseurl}}/images/dummy-list.png" />
           </div>
           <div class="card-txt">
             <div>
@@ -132,7 +132,7 @@ title: Home
       <li class="list-item card">
         <a href="#" class="card-inner">
           <div class="card-media">
-            <img src="assets/dummy-list.png" />
+            <img src="{{site.baseurl}}/images/dummy-list.png" />
           </div>
           <div class="card-txt">
             <div>
@@ -146,7 +146,7 @@ title: Home
       <li class="list-item card">
         <a href="#" class="card-inner">
           <div class="card-media">
-            <img src="assets/dummy-list.png" />
+            <img src="{{site.baseurl}}/images/dummy-list.png" />
           </div>
           <div class="card-txt">
             <div>
@@ -160,7 +160,7 @@ title: Home
       <li class="list-item card">
         <a href="#" class="card-inner">
           <div class="card-media">
-            <img src="assets/dummy-list.png" />
+            <img src="{{site.baseurl}}/images/dummy-list.png" />
           </div>
           <div class="card-txt">
             <div>
@@ -174,7 +174,7 @@ title: Home
       <li class="list-item card">
         <a href="#" class="card-inner">
           <div class="card-media">
-            <img src="assets/dummy-list.png" />
+            <img src="{{site.baseurl}}/images/dummy-list.png" />
           </div>
           <div class="card-txt">
             <div>
@@ -247,7 +247,7 @@ title: Home
 <section class="section">
   <div class="container">
     <h2 class="u-txt-center title-section">Área de negocio</h2>
-    <img src="assets/map.svg" />
+    <img src="{{site.baseurl}}/images/map.svg" />
   </div>
 </section>
 
@@ -266,7 +266,7 @@ title: Home
     <ul class="list list--twoItems">
       <li class="list-item">
         <a href="#" class="card-highlight">
-          <img src="assets/dummy-grups.png" />
+          <img src="{{site.baseurl}}/images/dummy-grups.png" />
           <div class="card-highlightTxt">
             <h2>Clientes</h2>
             <p>Buscamos el mejor Banco para nuestros clientes y convertirnos en la entidad de referencia en satisfacción de la clientela</p>
@@ -275,7 +275,7 @@ title: Home
       </li>
       <li class="list-item">
         <a href="#" class="card-highlight">
-          <img src="assets/dummy-grups.png" />
+          <img src="{{site.baseurl}}/images/dummy-grups.png" />
           <div class="card-highlightTxt">
             <h2>Accionistas</h2>
             <p>Buscamos el mejor Banco para nuestros clientes y convertirnos en la entidad de referencia en satisfacción de la clientela</p>
@@ -284,7 +284,7 @@ title: Home
       </li>
       <li class="list-item">
         <a href="#" class="card-highlight">
-          <img src="assets/dummy-grups.png" />
+          <img src="{{site.baseurl}}/images/dummy-grups.png" />
           <div class="card-highlightTxt">
             <h2>Equipo</h2>
             <p>Buscamos el mejor Banco para nuestros clientes y convertirnos en la entidad de referencia en satisfacción de la clientela</p>
@@ -293,7 +293,7 @@ title: Home
       </li>
       <li class="list-item">
         <a href="#" class="card-highlight">
-          <img src="assets/dummy-grups.png" />
+          <img src="{{site.baseurl}}/images/dummy-grups.png" />
           <div class="card-highlightTxt">
             <h2>Sociedad</h2>
             <p>Buscamos el mejor Banco para nuestros clientes y convertirnos en la entidad de referencia en satisfacción de la clientela</p>
@@ -302,7 +302,7 @@ title: Home
       </li>
       <li class="list-item">
         <a href="#" class="card-highlight">
-          <img src="assets/dummy-grups.png" />
+          <img src="{{site.baseurl}}/images/dummy-grups.png" />
           <div class="card-highlightTxt">
             <h2>Reguladores</h2>
             <p>Buscamos el mejor Banco para nuestros clientes y convertirnos en la entidad de referencia en satisfacción de la clientela</p>
@@ -311,7 +311,7 @@ title: Home
       </li>
       <li class="list-item">
         <a href="#" class="card-highlight">
-          <img src="assets/dummy-grups.png" />
+          <img src="{{site.baseurl}}/images/dummy-grups.png" />
           <div class="card-highlightTxt">
             <h2>Proveedores</h2>
             <p>Buscamos el mejor Banco para nuestros clientes y convertirnos en la entidad de referencia en satisfacción de la clientela</p>
