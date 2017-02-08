@@ -2,6 +2,9 @@
   background: $white;
   padding: 80px 0;
 }
+.section--small {
+  padding: 60px 0;
+}
 
 .section--grey {
   background: $lightgrey;
@@ -140,6 +143,36 @@
   }
   .number {
     font: 60px/1 'BentonLight';
+  }
+}
+
+.list-numbers--simple {
+  padding: 30px 0 60px;
+
+  .list-item {
+    margin-right: 130px;
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+
+  h3 {
+    font: 20px/1 'BentonBold';
+    margin-bottom: 32px;
+    span {
+      font-family: 'BentonLight';
+    }
+  }
+
+  h4 {
+    font: 16px/1 'BentonBook';
+    margin-bottom: 24px;
+  }
+
+  .list-numbersItem {
+    border-top: 0;
+    padding-top: 0;
+    margin-bottom: 0;
   }
 }
 
@@ -311,3 +344,89 @@
 }
 
 
+.icon-margin {
+  margin-bottom: 8px;
+}
+
+.progress {
+  margin-bottom: 30px;
+}
+
+.progress-start {
+  font: 60px/1 'BentonLight';
+
+  small {
+    font-size: 20px;
+    line-height: 1;
+    margin-left: 4px;
+  }
+}
+
+.progress-end {
+  color: rgba($txtgrey, 0.4);
+  font: 16px 'BentonMedium';
+}
+
+.progress-header {
+  @include display-flex;
+  @include justify-content(space-between);
+  @include align-items(flex-end);
+  margin-bottom: 4px;
+}
+
+.progress-rail {
+  height: 20px;
+  background: $white;
+}
+
+.progress-bar {
+  display: block;
+  height: 20px;
+  background: $darkblue;
+}
+
+
+.section-option {
+  padding: 14px 0;
+  border-bottom: 1px solid $tableborder;
+}
+
+.download-option {
+  font: 14px 'BentonMedium';
+  a {
+    @include display-flex;
+    @include align-items(center);
+    color: $bbvablue;
+    svg {
+      margin-right: 8px;
+    }
+  }
+}
+
+.share-item {
+  margin-left: 10px;
+  &:first-child {
+    margin-left: 0;
+  }
+}
+
+.bg-interior {
+  position: relative;
+  padding: 150px 0;
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.2);
+  }
+}
+
+.bg-interior--sociedad {
+  background-image: url('../assets/bg-sociedad.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
