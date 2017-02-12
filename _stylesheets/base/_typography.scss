@@ -33,9 +33,16 @@
 }
 
 .tit-principal {
-  position: relative;
   color: $white;
   font: 66px 'BentonBold';
+  position: relative;
+}
+
+.tit-letter {
+  color: $dark;
+  font: 38px 'BentonBold';
+  padding: 60px 0 40px;
+  position: relative;
 }
 
 .link-more {
