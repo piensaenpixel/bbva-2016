@@ -443,21 +443,6 @@
     font: 14px/1.2 'BentonLight';
     margin-bottom: 15px;
   }
-  blockquote {
-    font: 30px/1.2 'TiempoItalic';
-    padding: 70px 150px 50px 40px;
-    background: $lightgrey;
-    margin: 65px 0 55px;
-    position: relative;
-    &::before {
-      content: '';
-      position: absolute;
-      width: 78px;
-      height: 61px;
-      background-image: url('../images/quote.svg');
-      top: -35px;
-    }
-  }
   .letter-info {
     @include display-flex;
     @include justify-content(space-between);
@@ -493,6 +478,21 @@
         }
       }
     }
+  }
+}
+.blockquote {
+  font: 30px/1.2 'TiempoItalic';
+  padding: 70px 150px 50px 40px;
+  background: $lightgrey;
+  margin: 65px 0 55px;
+  position: relative;
+  &::before {
+    content: '';
+    position: absolute;
+    width: 78px;
+    height: 61px;
+    background-image: url('../images/quote.svg');
+    top: -35px;
   }
 }
 .letter-sign {

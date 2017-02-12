@@ -113,7 +113,7 @@ title: Carta del presidente
     <p>El ejercicio 2014 ha sido dificil, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.</p>
 
 
-    <blockquote>
+    <blockquote class="blockquote">
       La nueva organización de BBVA está centrada en ser un mejor banco para nuestros clientes, con el propósito de poner al alcance de todas las oportunidades de esta nueva era
     </blockquote>
 
