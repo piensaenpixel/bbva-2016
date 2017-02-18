@@ -18,13 +18,31 @@
 .section--header {
   @include display-flex;
   @include align-items(center);
-  background-image: url('../images/header-background.png');
-  background-position: left center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-color: $blueHeader;
+  // background-image: url('../images/header-background.png');
+  // background-position: left center;
+  // background-repeat: no-repeat;
+  // background-size: cover;
+  // background-color: $blueHeader;
+  background-color: transparent;
   padding: 154px 0 0 0;
   height: 820px;
+  position: relative;
+
+  &::before {
+    background: $blueHeader;
+    bottom: 0;
+    content: '';
+    display: block;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+
+  .container {
+    position: relative;
+    z-index: 2;
+  }
 }
 
 
@@ -50,10 +68,7 @@
 }
 
 .section--estrategia {
-  background-image: url('../images/bg-estrategia.png');
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  background: transparent;
   color: $white;
   padding: 90px 0 57px;
   position: relative;
