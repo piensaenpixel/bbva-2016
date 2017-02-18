@@ -10779,7 +10779,7 @@
 	};
 
 	var generatePermalinks = function () {
-	  $('h2, h3').each(function (i, el) {
+	  $('h2').each(function (i, el) {
 	    var $el;
 	    var id;
 	    var title;
