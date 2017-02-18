@@ -4,11 +4,18 @@
 }
 
 .Home .header {
+  backface-visibility: hidden;
   background: transparent;
-  position: absolute; 
+  position: fixed;
   top: 0;
   right: 0;
   left: 0;
+  z-index: 10;
+  transition: background-color 0.5s ease;
+
+  &.is-visible {
+    background: $darkblue;
+  }
 }
 
 .header-container {

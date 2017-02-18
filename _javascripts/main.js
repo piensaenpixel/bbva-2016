@@ -10,3 +10,5 @@ require('./vendor/jquery.tablehover')($);
 require('./components/dropdown').init();
 require('./components/table').init();
 require('./components/search').init();
+require('./components/scroll-observer').init();
+require('./components/header').init();
