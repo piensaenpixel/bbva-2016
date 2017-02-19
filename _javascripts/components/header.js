@@ -18,3 +18,16 @@ module.exports = {
     $w.on('scroll', scrollHandler);
   }
 };
+
+$( ".js-searchAction" ).click(function() {
+  /*$( "body" ).addClass('block');*/
+  $( ".search" ).addClass('is-active');
+  $( ".header" ).addClass('is-search');
+  $( ".search-form input" ).focus();
+});
+
+$( ".js-searchClose" ).click(function() {
+  /*$( "body" ).addClass('block');*/
+  $( ".search" ).removeClass('is-active');
+  $( ".header" ).removeClass('is-search');
+});
