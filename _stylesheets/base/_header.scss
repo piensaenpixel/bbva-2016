@@ -1,26 +1,47 @@
 .header {
   background: $darkblue;
   padding: 23px 0 26px;
+  backface-visibility: hidden;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 10;
+  transition: background-color 0.5s ease;
 }
 
 .Home .header {
   background: transparent;
-  position: absolute; 
-  top: 0;
-  right: 0;
-  left: 0;
+
+  &.is-visible,
+  &.is-search {
+    background: $darkblue;
+  }
+}
+
+.header ~.principal {
+  margin: 142px 0 0 0;
 }
 
 .header-container {
   @include display-flex;
-  @include justify-content(space-between);
   @include align-items(flex-end);
   margin-bottom: 4px;
   margin-top: 23px;
+  position: relative;
+}
+
+.is-search .header-containerLogo {
+  opacity: 0;
 }
 
 .menu {
   @include display-flex;
+  opacity: 1;
+}
+
+.is-search .menu {
+  opacity: 0;
 }
 
 .header-title {
@@ -89,14 +110,98 @@
 
 .navigation {
   @include display-flex();
-  @include align-items(flex-end);
-  @include justify-content(space-between);
+  margin-left: 70px;
 }
 
 .search {
-  margin-left: 50px;
+  position: absolute;
+  right: 0;
+  bottom: -3px;
+  left: auto;
+
+  &.is-active {
+    @include display-flex();
+    left: 0;
+    .search-item {
+      margin-right: 12px;
+    }
+    .search-result {
+      display: block;
+      &:empty {
+        display: none;
+       }
+    }
+  }
 }
 
 .search-item {
   cursor: pointer;
+}
+
+.search-form {
+  @include flex(1);
+  margin-right: 70px;
+  display: none;
+  opacity: 0;
+  input {
+  width: 100%;
+  background: none;
+  border: 0;
+  font-family: 'BentonBook';
+  font-size: 15px;
+  color: $white;
+    &:focus {
+      outline: none;
+    }
+  }
+}
+
+.search-info {
+  cursor: pointer;
+  display: none;
+  opacity: 0;
+}
+
+.is-active {
+  .search-info,
+  .search-form {
+    display: block;
+    opacity: 1;
+    transition: opacity 300ms 500ms;
+  }
+}
+
+
+
+
+.search-result {
+  position: absolute;
+  top: 52px;
+  left: 0;
+  right: 0;
+  padding: 24px;
+  background: $white;
+  display: none;
+  border-right: 1px solid $tableborder;
+  border-bottom: 1px solid $tableborder;
+  border-left: 1px solid $tableborder;
+  &:empty {
+    display: none;
+  }
+  li {
+    @include display-flex();
+    margin-bottom: 24px;
+    font-family: 'BentonLight';
+    font-size: 15px;
+    background: $white;
+    color: #666;
+    &:last-child {
+      margin-bottom: 0;
+    }
+    a {
+      color: $bbvablue;
+      font-family: 'BentonMedium';
+      margin-right: 8px,
+    }
+  }
 }

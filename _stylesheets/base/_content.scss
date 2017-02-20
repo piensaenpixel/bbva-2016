@@ -18,13 +18,31 @@
 .section--header {
   @include display-flex;
   @include align-items(center);
-  background-image: url('../images/header-background.png');
-  background-position: left center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-color: $blueHeader;
+  // background-image: url('../images/header-background.png');
+  // background-position: left center;
+  // background-repeat: no-repeat;
+  // background-size: cover;
+  // background-color: $blueHeader;
+  background-color: transparent;
   padding: 154px 0 0 0;
   height: 820px;
+  position: relative;
+
+  &::before {
+    background: $blueHeader;
+    bottom: 0;
+    content: '';
+    display: block;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+
+  .container {
+    position: relative;
+    z-index: 2;
+  }
 }
 
 
@@ -35,6 +53,14 @@
   background-size: auto 102%;
   padding-bottom: 0;
   position: relative;
+
+  // ejemplo para scroll-observer
+  opacity: 0;
+  transition: opacity 2s ease-out;
+
+  &.is-visible {
+    opacity: 1;
+  }
 }
 .section--letterBg {
   position: absolute;
@@ -50,10 +76,7 @@
 }
 
 .section--estrategia {
-  background-image: url('../images/bg-estrategia.png');
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  background: transparent;
   color: $white;
   padding: 90px 0 57px;
   position: relative;
@@ -425,8 +448,96 @@
 }
 
 .bg-interior--sociedad {
-  background-image: url('../images/bg-sociedad.jpg');
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-color: transparent;
+  // background-image: url('../images/bg-sociedad.jpg');
+  // background-position: center center;
+  // background-repeat: no-repeat;
+  // background-size: cover;
+}
+
+
+.letter-image {
+  background: #f5f5f5;
+  height: 450px;
+}
+
+.letter-txt{
+  > p {
+    color: $txtgrey;
+    font: 14px/1.2 'BentonLight';
+    margin-bottom: 15px;
+  }
+  .letter-info {
+    @include display-flex;
+    @include justify-content(space-between);
+    @include align-items(center);
+    margin: 65px 0 55px;
+    border-bottom: 2px solid rgba($bbvablue, 0.5);
+    padding-bottom: 20px;
+    h2 {
+      font: 14px/1.2 'BentonLight';
+      color: $bbvablue;
+      flex: 200px;
+      max-width: 200px;
+    }
+    ul {
+      @include display-flex;
+      @include justify-content(flex-start);
+      li {
+        margin-left: 120px;
+        &:first-child {
+          margin-left: 0;
+        }
+        h3 {
+          @include display-flex();
+          color: $bbvablue;
+          font: 38px/1 'BentonBold';
+          small {
+            font: 22px/1 'BentonBold';
+            margin-left: 4px;
+          }
+          svg {
+            margin-right: 8px;
+          }
+        }
+      }
+    }
+  }
+}
+.blockquote {
+  font: 30px/1.2 'TiempoItalic';
+  padding: 70px 150px 50px 40px;
+  background: $lightgrey;
+  margin: 65px 0 55px;
+  position: relative;
+  &::before {
+    content: '';
+    position: absolute;
+    width: 78px;
+    height: 61px;
+    background-image: url('../images/quote.svg');
+    top: -35px;
+  }
+}
+.letter-sign {
+  margin-top: 40px;
+}
+.letter-signMedia {
+  margin-bottom: 24px;
+  img {
+    display: block;
+  }
+}
+.letter-signDate{
+  color: $txtgrey;
+  font: 14px/1.2 'BentonLight';
+  margin-bottom: 6px;
+}
+.letter-signAuthor{
+  color: $dark;
+  font: 14px/1.2 'BentonBold';
+}
+
+.parallax-mirror {
+  mix-blend-mode: multiply;
 }

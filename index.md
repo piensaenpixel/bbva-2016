@@ -2,8 +2,8 @@
 layout: home
 title: Home
 ---
-<section class="section section--header">
-  <div class="container u-txt-center">
+<section class="section section--header" data-parallax="scroll" data-value="principal" data-speed=".4" data-image-src="images/header-background.png" data-z-index="1">
+  <div class="container u-txt-center" data-header-control>
     <h1>BBVA en 2016</h1>
     <h2>Información financiera y no financiera</h2>
     <p>
@@ -33,7 +33,7 @@ title: Home
   </div>
 </section>
 
-<section class="section section--letter">
+<section class="section section--letter" data-monitor="is-visible">
   <div class="section--letterBg"></div>
   <div class="container container-letter">
     <div class="letter">
@@ -251,7 +251,7 @@ title: Home
   </div>
 </section>
 
-<section class="section section--estrategia">
+<section class="section section--estrategia" data-parallax="scroll" data-speed=".4" data-image-src="images/bg-estrategia.png">
   <div class="container u-txt-center">
     <h2 class="title-section">Estrategia</h2>
     <h3>Creando Oportunidades</h3>

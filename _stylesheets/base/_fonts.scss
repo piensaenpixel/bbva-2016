@@ -29,3 +29,20 @@
     font-weight: normal;
     font-style: normal;
 }
+
+
+@font-face {
+    font-family: 'TiempoRegular';
+    src: url('./fonts/TiemposTextWeb-Regular.woff2') format('woff2'),
+         url('./fonts/TiemposTextWeb-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TiempoItalic';
+    src: url('./fonts/TiemposTextWeb-RegularItalic.woff2') format('woff2'),
+         url('./fonts/TiemposTextWeb-RegularItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
