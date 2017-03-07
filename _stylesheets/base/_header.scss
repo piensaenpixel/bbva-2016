@@ -1,22 +1,26 @@
 .header {
   background: $darkblue;
   padding: 23px 0 26px;
-}
-
-.Home .header {
   backface-visibility: hidden;
-  background: transparent;
   position: fixed;
   top: 0;
   right: 0;
   left: 0;
   z-index: 10;
   transition: background-color 0.5s ease;
+}
+
+.Home .header {
+  background: transparent;
 
   &.is-visible,
-  &.is-search { 
+  &.is-search {
     background: $darkblue;
   }
+}
+
+.header ~.principal {
+  margin: 142px 0 0 0;
 }
 
 .header-container {

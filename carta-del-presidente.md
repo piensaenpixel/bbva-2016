@@ -5,7 +5,7 @@ title: Carta del presidente
 ---
 
 <section class="principal">
-  <div class="container container--small">
+  <div class="container container--small" data-header-control>
     <h1 class="tit-letter">Carta del presidente</h1>
   </div>
   <div class="letter-image">
@@ -79,7 +79,7 @@ title: Carta del presidente
 
     <div class="letter-info">
       <h2>Crecimiento del Producto  Interior Bruto mundial en 2014</h2>
-      <ul> 
+      <ul>
         <li>
           <h3>
             3,3<small>%</small>
@@ -94,7 +94,7 @@ title: Carta del presidente
 
     <div class="letter-info">
       <h2>Crecimiento del Producto  Interior Bruto mundial en 2014</h2>
-      <ul> 
+      <ul>
         <li>
           <h3>
             9,6<small>%</small>
@@ -135,7 +135,7 @@ title: Carta del presidente
 
     <div class="letter-info">
       <h2>Crecimiento del Producto  Interior Bruto mundial en 2014</h2>
-      <ul> 
+      <ul>
         <li>
           <h3>
             <svg width="41px" height="31px" viewBox="693 1371 41 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
