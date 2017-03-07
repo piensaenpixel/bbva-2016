@@ -16,3 +16,14 @@
 .u-upperCase {
   text-transform: uppercase;
 }
+
+.u-blue {
+  color: $bbvablue;
+}
+
+.columns {
+  column-gap: 30px;
+}
+.columns--2 {
+  column-count: 2;
+}

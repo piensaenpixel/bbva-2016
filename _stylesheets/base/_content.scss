@@ -75,6 +75,41 @@
   z-index: 1;
 }
 
+.section--figures {
+  position: relative;
+
+  &:after {
+    content: '';
+    position: absolute;
+    background: rgba(0, 0, 0, 0.5);
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+  .container {
+    position: relative;
+    z-index: 3;
+    padding: 120px 0 0 0;
+  }
+  .figures-title {
+    font: 72px 'BentonBold';
+    color: $white;
+    margin-bottom: 40px;
+  }
+  .figures-text {
+    @include display-flex;
+    @include align-items(center);
+    @include justify-content(center);
+    font: 15px 'BentonBold';
+    color: $white;
+    margin-bottom: 120px;
+    svg {
+      margin: 0 12px;
+    }
+  }
+}
+
 .section--estrategia {
   background: transparent;
   color: $white;
@@ -101,6 +136,7 @@
     font-size: 72px;
     line-height: 1;
     margin-bottom: 40px;
+    font-family: 'TiempoItalic';
   }
   p {
     font: 18px 'BentonLight';
@@ -347,6 +383,28 @@
   }
 }
 
+.link-more {
+  text-align: center;
+  margin-top: 40px;
+  &.is-white {
+    a {
+      color: $white;
+    }
+  }
+  a {
+    @include display-flex();
+    @include align-items(center);
+    font: 15px 'BentonBold'; 
+    color: $bbvablue;
+    svg {
+      margin-right: 8px;
+    }
+  }
+  &.is-left a {
+    @include justify-content(flex-start);
+  }
+}
+
 .list-features {
 
   .list-item {
@@ -355,6 +413,7 @@
   .list-featuresMedia {
     margin-bottom: 10px;
   }
+
   h2 {
     font: 15px 'BentonMedium';
     margin-bottom: 20px;
@@ -457,7 +516,10 @@
 
 .letter-image {
   background: #f5f5f5;
-  height: 450px;
+  img {
+    width: 100%;
+    display: block;
+  }
 }
 
 .letter-txt{
@@ -539,4 +601,31 @@
 
 .parallax-mirror {
   mix-blend-mode: multiply;
+}
+
+
+.list-buttons {
+  @include display-flex;
+  @include justify-content(center);
+  margin-top: 50px;
+
+  .list-buttonsItem {
+    @include display-flex;
+    @include align-items(center);
+    margin-right: 30px;
+    width: 280px;
+    height: 80px;
+    background: $green;
+    padding: 20px;
+
+    &:last-child {
+      margin-right: 0;
+    }
+    a {
+      @include flex(1);
+      font: 14px/1.2 'BentonBold';
+      color: $white;
+      text-align: center;
+    }
+  }
 }
