@@ -2,6 +2,7 @@ var $ = require('jquery');
 window.jQuery = $;
 
 require('jquery-parallax.js');
+require('swipebox');
 
 // Revamp plugin again
 $('[data-parallax="scroll"]').parallax();
