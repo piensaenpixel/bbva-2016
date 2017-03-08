@@ -40,9 +40,11 @@
         <ul class="menu">
           {% for menu in site.data.header.menu %}
             <li class="menu-item">
-              <a href="{{site.baseurl}}{{ menu.url }}">
-                {{ menu.title }}
-              </a>
+              {% if page.url == menu.url %}
+                <a href="{{site.baseurl}}{{mennu.url}}" class="active">{{menu.title}}</a>
+              {% else %}
+                <a href="{{site.baseurl}}{{menu.url}}">{{menu.title}}</a>
+              {% endif %}
             </li>
           {% endfor %}
         </ul>
