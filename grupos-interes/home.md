@@ -4,7 +4,8 @@ layout: default
 title: Home
 lang: es
 permalink: /grupos-interes/
-submenu: Home
+submenu: grupos
+hidden: true
 ---
 
 <section class="principal">

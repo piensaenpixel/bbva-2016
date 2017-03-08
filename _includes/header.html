@@ -71,7 +71,7 @@
       <ul class="menu">
         {% assign sorted_pages = (site.pages | sort: 'order') %}
         {% for node in sorted_pages %}
-          {% if page.submenu == node.submenu %}
+          {% if page.submenu == node.submenu and node.hidden == nil or node.hidden == false %}
             <li class="menu-item">
             {% if page.url == node.url %}
               <a href="{{site.baseurl}}{{node.url}}" class="active">{{node.title}}</a>

@@ -5,6 +5,7 @@ title: Sociedad
 lang: en
 permalink: /grupos-interes/
 submenu: grupos
+hidden: true
 ---
 
 <section class="principal">
