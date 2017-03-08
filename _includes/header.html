@@ -65,5 +65,26 @@
 
 
   </div>
-
+{% unless page.submenu == null %}
+  <nav class="subnavigation">
+    <div class="container">
+      <ul class="menu">
+        {% assign sorted_pages = (site.pages | sort: 'order') %}
+        {% for node in sorted_pages %}
+          {% if page.submenu == node.submenu %}
+            <li class="menu-item">
+            {% if page.url == node.url %}
+              <a href="{{site.baseurl}}{{node.url}}" class="active">{{node.title}}</a>
+            {% else %}
+              <a href="{{site.baseurl}}{{node.url}}">{{node.title}}</a>
+            {% endif %}
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+  </nav>
+{% endunless %}
 </header>
+
+
