@@ -76,6 +76,7 @@
 }
 
 .section--figures {
+  background: 0 0;
   position: relative;
 
   &:after {
@@ -394,7 +395,7 @@
   a {
     @include display-flex();
     @include align-items(center);
-    font: 15px 'BentonBold'; 
+    font: 15px 'BentonBold';
     color: $bbvablue;
     svg {
       margin-right: 8px;

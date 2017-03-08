@@ -65,7 +65,7 @@ gulp.task('js', () => {
     .pipe(gulp.dest('_site/javascripts'));
 });
 
-gulp.task('serve', () => {
+gulp.task('serve', ['search'], () => {
   browserSync.init({
     files: [siteRoot + '/**'],
     port: 4000,
@@ -77,10 +77,10 @@ gulp.task('serve', () => {
   gulp.watch(cssFiles, ['css']);
   gulp.watch(jsFiles, ['js']);
   gulp.watch(assetsFiles, ['assets']);
-  gulp.watch(['**/*.md', '_layouts/**/*', '_includes/**/*', '_data/**/*'], ['build:reload', 'search']);
+  gulp.watch(['**/*.md', '_layouts/**/*', '_includes/**/*', '_data/**/*'], ['build:reload']);
 });
 
-gulp.task('build:reload', ['build'], () => { reload(); });
+gulp.task('build:reload', ['build', 'search'], () => { reload(); });
 gulp.task('build', done => {
   return child.spawn('bundle', ['exec', 'jekyll', 'build', '--drafts'], {stdio: 'inherit'}).on('close', done);
 });
@@ -228,7 +228,6 @@ gulp.task('wadus', () => {
 gulp.task('search', () => {
   return gulp.src('_site/**/*.html')
     .pipe(adjustSearch())
-    .pipe(reload({stream: true}))
     .pipe(gulp.dest('_site'));
 });
 

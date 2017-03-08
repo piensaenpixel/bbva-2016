@@ -4,12 +4,14 @@ window.jQuery = $;
 require('jquery-parallax.js');
 require('swipebox');
 
-// Revamp plugin again
-$('[data-parallax="scroll"]').parallax();
+$(function () {
+  // Revamp plugin again
+  $('[data-parallax="scroll"]').parallax();
 
-require('./vendor/jquery.tablehover')($);
-require('./components/dropdown').init();
-require('./components/table').init();
-require('./components/search').init();
-require('./components/scroll-observer').init();
-require('./components/header').init();
+  require('./vendor/jquery.tablehover')($);
+  require('./components/dropdown').init();
+  require('./components/table').init();
+  require('./components/search').init();
+  require('./components/scroll-observer').init();
+  require('./components/header').init();
+});
