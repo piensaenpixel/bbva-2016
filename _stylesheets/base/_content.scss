@@ -14,6 +14,10 @@
   background: $bbvablue;
   color: $white;
 }
+.section--blueDark {
+  background: #004481;
+  color: $white;
+}
 
 .section--header {
   @include display-flex;
@@ -45,6 +49,21 @@
   }
 }
 
+.section--pilares {
+  position: relative;
+  &:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: rgba(#F2F2F2, 0.9);
+  }
+  .container {
+    position: relative;
+  }
+}
 
 .section--letter {
   background-image: url('../images/bg-letter.svg');
@@ -164,6 +183,39 @@
   .list-item {
     margin: 0 15px 30px;
     width: calc(33.33% - 30px);
+  }
+  &.list--images {
+    margin: 0 -10px 0 0;
+    background-image: url('../images/bg-definida.png');
+    background-size: cover;
+    .paragraph {
+      color: #fff;
+      font-family: 'BentonBold';
+      position: relative;
+      padding: 0 40px;
+      text-align: center;
+    }
+
+    .list-item {
+      @include display-flex;
+      @include align-items(center);
+      @include justify-content(center);
+      margin: 0;
+      border-bottom: 10px solid #fff;
+      border-right: 10px solid #fff;
+      width: 33.3333%;
+      position: relative;
+      height: 162px;
+      &:before {
+        content: '';
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        background: rgba(#00CCCD, 0.65);
+      }
+    }
   }
 }
 .list--twoItems {
@@ -661,8 +713,57 @@
 
 .list-media {
   margin-bottom: 30px;
+  &.is-left {
+    svg, img {
+      margin: 0;
+    }
+  }
+  &.is-small {
+    margin-bottom: 20px;
+  }
   svg, img {
     margin: 0 auto;
     display: block;
   }
+}
+
+.section-map {
+  margin: 0 auto;
+  position: relative;
+  > svg {
+    width: 100%;
+  }
+  .btn-map:hover {
+    cursor: pointer;
+    fill-opacity: 0.8;
+  }
+}
+
+.map-info {
+  background: #F1F1F1;
+  padding: 26px;
+  position: absolute;
+  top: -100px;
+  left: 50%;
+  width: 550px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+  transform: translateX(-50%);
+}
+.map-infoTitle {
+  margin-bottom: 20px;
+  font: 18px/25px 'BentonBook';
+}
+.map-infoSubtitle {
+  font: 15px/18px 'BentonBook';
+  color: #0086CE;
+  margin-bottom: 4px;
+}
+.map-close {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  cursor: pointer;
+}
+.map-infoMedia {
+  margin-bottom: 20px;
 }

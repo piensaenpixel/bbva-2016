@@ -6,22 +6,14 @@ lang: es
 permalink: /desempeno-en-2016/
 ---
 
-<section class="principal">
+<section class="principal"  data-parallax="scroll" data-speed=".4" data-image-src="{{site.baseurl}}/images/background-desempeno.png">
   <div class="section-header section-header--strategy">
-    <h1>Estrategia</h1>
+    <h1>BBVA en cifras</h1>
   </div>
 </section>
 
 <section class="section-option">
-  <div class="container container--small u-flex u-space-between">
-    <p class="download-option">
-      <a href="#">
-        <svg width="30px" height="30px" viewBox="-7 -1741 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-          <path d="M8,-1741 C-0.318181818,-1741 -7,-1734.31818 -7,-1726 C-7,-1717.68182 -0.318181818,-1711 8,-1711 C16.3181818,-1711 23,-1717.68182 23,-1726 C23,-1734.31818 16.3181818,-1741 8,-1741 Z M14.6136364,-1723.47727 L8.47727273,-1717.34091 C8.34090909,-1717.20455 8.13636364,-1717.13636 8,-1717.13636 C7.79545455,-1717.13636 7.65909091,-1717.20455 7.52272727,-1717.34091 L1.38636364,-1723.47727 C1.25,-1723.61364 1.18181818,-1723.75 1.18181818,-1723.95455 C1.18181818,-1724.15909 1.25,-1724.29545 1.38636364,-1724.43182 L2.34090909,-1725.38636 C2.61363636,-1725.65909 3.02272727,-1725.65909 3.29545455,-1725.38636 L6.02272727,-1722.65909 C6.22727273,-1722.45455 6.63636364,-1722.59091 6.63636364,-1722.93182 L6.63636364,-1734.18182 C6.63636364,-1734.59091 6.90909091,-1734.86364 7.31818182,-1734.86364 L8.68181818,-1734.86364 C9.09090909,-1734.86364 9.36363636,-1734.59091 9.36363636,-1734.18182 L9.36363636,-1722.86364 C9.36363636,-1722.59091 9.70454545,-1722.38636 9.97727273,-1722.59091 L12.7045455,-1725.31818 C12.9772727,-1725.59091 13.3863636,-1725.59091 13.6590909,-1725.31818 L14.6136364,-1724.36364 C14.75,-1724.22727 14.8181818,-1724.09091 14.8181818,-1723.88636 C14.8181818,-1723.75 14.75,-1723.61364 14.6136364,-1723.47727 Z" id="Shape" stroke="none" fill="#0085D3" fill-rule="evenodd"></path>
-        </svg>
-        Descargar capítulo
-      </a>
-    </p>
+  <div class="container container--small u-flex u-hend">
     <ul class="share u-flex">
       <li class="share-item">
         <a href="#">
@@ -68,68 +60,202 @@ permalink: /desempeno-en-2016/
   </div>
 </section>
 
-<section class="section section--small">
-  <div class="container container--small letter-txt">
-    <p>Estimada/o accionista:</p>
-
-    <p>En 2016 la economía mundial creció un 3,0%, algo menos que en 2015. El entorno macroeconómico estuvo afectado por una elevada volatilidad de los mercados financieros, fundamentalmente durante el primer trimestre del año, con fuertes caídas de los precios de las materias primas e incertidumbres sobre las economías de Estados Unidos y de China. A lo largo del ejercicio se produjo una recuperación lenta que estuvo marcada por la materialización de escenarios políticos inesperados, las depreciaciones cambiarias en algunos países emergentes y las tensiones geopolíticas en Oriente Medio.</p>
-
-    <p>Las economías emergentes, en su conjunto, registraron un crecimiento del 4% frente al 4,1% de 2015; y en las desarrolladas, el crecimiento disminuyó al 1,6% frente al 2,2% de 2015, debido en gran medida a la desaceleración de Estados Unidos. </p>
-
-
-    <blockquote class="blockquote">
-     El beneficio atribuido de BBVA ascendió a 3.475 millones de euros, la cifra más alta desde 2010, lo que supone un crecimiento interanual de casi el 32% en euros corrientes y del 61% en euros constantes
-    </blockquote>
+<section class="section">
+  <div class="container container--small">
+    <p class="paragraph is-xl">El <strong>papel de un banco en la sociedad</strong> es sencillo: captar ahorro de familias, empresas y otros agentes, con el objetivo de preservarlo y hacerlo crecer, y prestarlo, con rigor y prudencia, a terceros. Con estos préstamos se pueden desarrollar proyectos personales, empresariales 
+  y de carácter público que hacen posible mejorar nuestro presente 
+  y nuestro futuro. </p>
+  </div>
+</section>
 
 
-    <p>En este contexto, el beneficio atribuido de BBVA ascendió a 3.475 millones de euros, la cifra más alta desde 2010, lo que supone un crecimiento interanual de casi el 32% en euros corrientes y del 61% en euros constantes; esto es, sin tener en cuenta las variaciones del tipo de cambio. BBVA alcanzó estos resultados gracias al avance de los ingresos, al control de gastos y a la disminución de los saneamientos.</p>
+<section class="section section--blue section--blueDark">
+  <div class="container container--small">
+    <h2 class="title-section title-section--inside u-txt-center">Desempeño financiero </h2>
+    <p class="paragraph paragraph--big">La diferencia entre lo que el banco paga por los depósitos y el interés que cobra por los préstamos, el margen de intereses, es su fuente de ingresos principal. Los ingresos recurrentes, que suman el margen de intereses y las comisiones, le permiten hacer frente a los costes de su actividad - como los salarios o el pago a proveedores - y obtener un beneficio, que luego distribuye con el pago de impuestos y dividendos. Es, por tanto, un papel con un impacto positivo en la sociedad. Para desempeñar este papel es necesario tener unos niveles de capital adecuados que mantengan la solvencia de la Entidad.</p>
+    <ul class="tabs is-blue">
+      <li class="tabs-item"><a href="#" class="is-active">Resultados</a></li>
+      <li class="tabs-item"><a href="#">Balance y actividad</a></li>
+      <li class="tabs-item"><a href="#">Rentabilidad/Eficiencia</a></li>
+      <li class="tabs-item"><a href="#">Gestión del riesgo</a></li>
+      <li class="tabs-item"><a href="#">Solvencia</a></li>
+    </ul>
+    <div class="tabs-container">
+      <div class="tabs-item">
+        <div class="tabs-header">
+          <h3 class="tabs-title">Resultados</h3>
+          <p class="paragraph paragraph--big u-txt-center">Crecimiento de ingresos, control de gastos y reducción de saneamientos</p>
+          <ul class="list list--threeItems">
+            <li class="list-item">
+              <h4 class="txt-number">24.653</h4>
+              <h5 class="txt-numberDescription">MARGEN BRUTO (M€)</h5>
+              <p class="paragraph is-l u-flex u-alignCenter">
+                <svg width="19px" height="20px" viewBox="0 -1 19 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <path d="M13.9761,7.8098 L12.8781,8.9078 L10.0061,6.0278 L10.0371,15.3578 L8.5,15.3578 L8.5241,6.0048 L5.5751,8.9378 L4.4691,7.8398 L9.2381,3.0718 L13.9761,7.8098 Z M9.2151,18.4298 C14.3061,18.4298 18.4301,14.3058 18.4301,9.2148 C18.4301,4.1238 14.3061,-0.0002 9.2151,-0.0002 C4.1241,-0.0002 0.0001,4.1238 0.0001,9.2148 C0.0001,14.3058 4.1241,18.4298 9.2151,18.4298 Z" id="Fill-1" stroke="none" fill="#2ECDCD" fill-rule="evenodd"></path>
+                </svg>&nbsp;
+                <b>+14,2%</b>
+              </p>
+            </li>
+            <li class="list-item">
+              <h4 class="txt-number">11.862</h4>
+              <h5 class="txt-numberDescription">MARGEN NETO (M€)</h5>
+              <p class="paragraph is-l u-flex u-alignCenter">
+                <svg width="19px" height="20px" viewBox="0 -1 19 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <path d="M13.9761,7.8098 L12.8781,8.9078 L10.0061,6.0278 L10.0371,15.3578 L8.5,15.3578 L8.5241,6.0048 L5.5751,8.9378 L4.4691,7.8398 L9.2381,3.0718 L13.9761,7.8098 Z M9.2151,18.4298 C14.3061,18.4298 18.4301,14.3058 18.4301,9.2148 C18.4301,4.1238 14.3061,-0.0002 9.2151,-0.0002 C4.1241,-0.0002 0.0001,4.1238 0.0001,9.2148 C0.0001,14.3058 4.1241,18.4298 9.2151,18.4298 Z" id="Fill-1" stroke="none" fill="#2ECDCD" fill-rule="evenodd"></path>
+                </svg>&nbsp;
+                <b>+16,9%</b>
+              </p>
+            </li>
+            <li class="list-item">
+              <h4 class="txt-number">3.475</h4>
+              <h5 class="txt-numberDescription">BENEFICIO ATRIBUÍDO (M€)</h5>
+              <p class="paragraph is-l u-flex u-alignCenter">
+                <svg width="19px" height="20px" viewBox="0 -1 19 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <path d="M13.9761,7.8098 L12.8781,8.9078 L10.0061,6.0278 L10.0371,15.3578 L8.5,15.3578 L8.5241,6.0048 L5.5751,8.9378 L4.4691,7.8398 L9.2381,3.0718 L13.9761,7.8098 Z M9.2151,18.4298 C14.3061,18.4298 18.4301,14.3058 18.4301,9.2148 C18.4301,4.1238 14.3061,-0.0002 9.2151,-0.0002 C4.1241,-0.0002 0.0001,4.1238 0.0001,9.2148 C0.0001,14.3058 4.1241,18.4298 9.2151,18.4298 Z" id="Fill-1" stroke="none" fill="#2ECDCD" fill-rule="evenodd"></path>
+                </svg>&nbsp;
+                <b>+61,2%</b>
+              </p>
+            </li>
+          </ul>
 
-    <p>Durante 2016 también mejoraron los principales indicadores de riesgo del Grupo. La tasa de cobertura se mantuvo en niveles elevados, la tasa de mora descendió hasta el 4,9% y el coste de riesgo retrocedió 22 puntos básicos hasta el 0,84%.</p>
 
-    <p>En cuanto al capital, BBVA finalizó el ejercicio con una posición muy sólida, con un ratio de capital CET1 <i>fully-loaded</i> del 10,9%, muy por encima de los niveles de capital exigidos por el regulador y con un incremento de 58 puntos básicos sobre el cierre de 2015.</p>
-
-
-    <blockquote class="blockquote">
-     Todos estos años hemos gestionado las dificultades que se presentaban en el corto plazo sin perder el foco en el medio y largo plazo. Nos hemos enfrentado a todos los retos encontrados en el camino, sin desviarnos de nuestro gran proyecto: la transformación de BBVA
-    </blockquote>
-
-
-
-<p>Durante 2016 hemos seguido avanzando en nuestro proceso de transformación. Un proceso que comenzó hace varios años, anticipándonos al resto de la industria, con una visión multidimensional que incluye nuevas plataformas y procesos, nuevas capacidades y talento, una nueva cultura corporativa, nuevos espacios y formas de trabajo, una nueva estructura organizativa, nuevos productos y negocios y una participación activa en el ecosistema digital. 
-</p>
-<p>Todos estos años hemos gestionado las dificultades que se presentaban en el corto plazo sin perder el foco en el medio y largo plazo. Nos hemos enfrentado a todos los retos encontrados en el camino, sin desviarnos de nuestro gran proyecto: la transformación de BBVA. 
-</p>
-<p>Nuestro proceso de transformación se está acelerando. En 2016 hemos entrado de lleno en fase de ejecución, creando las nuevas capacidades que requiere la banca del siglo XXI y definiendo un nuevo estándar de relación con nuestros clientes, que son los grandes beneficiarios del proyecto de BBVA, con resultados muy tangibles.
-</p>
-<p>En España, según una encuesta de Accenture realizada entre clientes retail, somos el Banco, entre entidades comparables, con mayor porcentaje de clientes con un perfil digital, un 41%, cifra que está creciendo rápidamente. BBVA ocupa, asimismo, la primera posición en valoración de banca online, sucursales, cajeros automáticos y de app de banca móvil en España. La encuesta muestra que los clientes de banca retail valoran a BBVA muy positivamente frente a entidades comparables en productos como cuentas corrientes, depósitos, valores, tarjetas y seguros y nos dan la nota más alta a la hora de valorar la transformación digital que cada entidad está acometiendo.
- </p> 
-<p>En otros países, BBVA ocupa posiciones destacadas en distintas encuestas de valoración y seguimos trabajando muy intensamente para llegar a ser los primeros en todos los mercados en los que operamos.
-</p>
-
-    <blockquote class="blockquote">
-     En 2016, BBVA ha fijado sus prioridades en banca responsable para los próximos años en el marco de un nuevo Plan Estratégico y ha seguido desarrollando en todo el mundo programas en el ámbito educativo, económico, cultural y científico
-    </blockquote>
-
-<p>En 2016, BBVA ha fijado sus prioridades en banca responsable para los próximos años en el marco de un nuevo Plan Estratégico que incluye la creación de relaciones transparentes, claras y responsables con nuestros clientes, la integración de la educación financiera en las soluciones que les ofrecemos, la promoción de un crecimiento responsable y sostenible y la inversión en la comunidad, con iniciativas de educación financiera para la sociedad, el emprendimiento y el conocimiento.</p>
-
-<p>La Fundación BBVA, a su vez, siguió desarrollando programas en el ámbito económico, cultural y científico. Por su parte, la Fundación Microfinanzas BBVA, que en 2017 cumplirásu décimo aniversario, fue reconocida por Naciones Unidas por su contribución a los Objetivos de Desarrollo Sostenible. Asimismo, en 2016, BBVA reiteró su compromiso con los principios del Pacto Mundial de las Naciones Unidas.
-</p>
-
-    <blockquote class="blockquote">
-     2016 ha sido un buen ejercicio para BBVA en el que hemos incrementado los beneficios y hemos avanzado mucho en nuestras Prioridades Estratégicas
-    </blockquote>
-
-<p>2016 ha sido un buen ejercicio para BBVA, en el que hemos incrementado los beneficios y hemos avanzado mucho en nuestras Prioridades Estratégicas: hemos dado un salto cualitativo en experiencia de cliente, han crecido las ventas digitales, hemos desarrollado nuevos modelos de negocio, hemos fortalecido el capital, ha mejorado la eficiencia y hemos reforzado el equipo humano, combinando el mejor talento bancario con nuevos perfiles digitales.
-</p>
-<p>Quiero felicitar a los más de 134.000 hombres y mujeres que trabajan en el Grupo BBVA en todo el mundo y que hacen que seamos un banco mejor. Les animo a seguir trabajando con el mismo entusiasmo y dedicación.
-</p>
-<p>Y a ustedes, señoras y señores accionistas, quiero agradecerles el apoyo que nos proporcionan. Su confianza es lo que nos motiva para seguir trabajando con la mayor ilusión y esfuerzo, construyendo un nuevo estándar de servicio en banca y creando oportunidades para todos.
-</p>
-    <div class="letter-sign">
-      <img src="{{site.baseurl}}/images/sign.png" />
-      <p class="letter-signDate">1 de marzo de 2017</p>
-      <p class="letter-signAuthor">Francisco González Rodríguez</p>
+          <p class="paragraph u-txt-center">Tasas de variación interanual a tipos de cambio constantes</p>
+        </div>
+      </div>
+      <div class="tabs-item">
+        <div class="tabs-header">
+          <h3 class="tabs-title">Balance y actividad</h3>
+          <p class="paragraph u-txt-center">Actividad en niveles similares a los del año anterior en un entorno adverso. Reducción de los créditos dudosos</p>
+          <img src="{{site.baseurl}}/images/des_financiero_balance.svg" />
+        </div>
+      </div>
+      <div class="tabs-item">
+        <div class="tabs-header">
+          <h3 class="tabs-title">Rentabilidad/ Eficiencia</h3>
+          <p class="paragraph u-txt-center">Mejora en los ratios de rentabilidad y eficiencia</p>
+          <img src="{{site.baseurl}}/images/des_financiero_rentabilidad.svg" />
+        </div>
+      </div>
+      <div class="tabs-item">
+        <div class="tabs-header">
+          <h3 class="tabs-title">Gestión del riesgo</h3>
+          <p class="paragraph u-txt-center">Mejora de los indicadores de riesgo</p>
+          <img src="{{site.baseurl}}/images/des_financiero_riesgo.svg" />
+        </div>
+      </div>
+      <div class="tabs-item">
+        <div class="tabs-header">
+          <h3 class="tabs-title">Solvencia</h3>
+          <p class="paragraph u-txt-center">Fortaleza de la base de capital</p>
+          <img src="{{site.baseurl}}/images/des_financiero_solvencia.svg" />
+        </div>
+      </div>
     </div>
+
+  </div>
+</section>
+
+<section class="section section--grey">
+  <div class="container container--small">
+    <h2 class="title-section title-section--inside u-txt-center">Impacto en las personas</h2>
+    <p class="paragraph paragraph--big">Además de su papel como banco, BBVA tiene el Propósito de poner al alcance de todos las oportunidades de esta nueva era y la aspiración de afianzar la relación con sus clientes. Ayudamos a las personas y a las empresas a tomar las mejores decisiones financieras, ofreciéndoles un asesoramiento y una información transparentes, claros y responsables. Y ello porque consideramos que somos más que un banco; somos creadores  de oportunidades. De este modo, nuestro Propósito y nuestra aspiración tienen un impacto positivo en la vida de las personas. <strong>BBVA, Creando oportunidades.</strong></p>
+    <ul class="tabs">
+      <li class="tabs-item"><a href="#" class="is-active">Riqueza</a></li>
+      <li class="tabs-item"><a href="#">Desarrollo y bienestar social</a></li>
+      <li class="tabs-item"><a href="#">Aportación a la sociedad</a></li>
+      <li class="tabs-item"><a href="#">Desarrollo sostenible</a></li>
+    </ul>
+    <div class="tabs-container">
+      <div class="tabs-item">
+        <div class="tabs-header"><h3 class="tabs-title">Generación de riqueza</h3></div>
+        <ul class="list list--threeItems u-txt-center">
+          <li class="list-item">
+            <div class="list-media is-small">
+              <svg width="33px" height="36px" viewBox="369 -107 33 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <g id="Group-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(369.000000, -106.000000)">
+                  <path d="M16.6637,15.8316 C21.0357,15.8316 24.5797,12.2876 24.5797,7.9156 C24.5797,3.5436 21.0357,-0.0004 16.6637,-0.0004 C12.2917,-0.0004 8.7477,3.5436 8.7477,7.9156 C8.7477,12.2876 12.2917,15.8316 16.6637,15.8316" id="Fill-10" fill="#2ECDCD"></path>
+                    <path d="M21.6235,17.8219 C20.5785,18.3469 19.3955,18.7119 18.2455,18.8839 L18.2455,18.9979 L19.8295,30.0809 L16.6635,33.2469 L13.4975,30.0809 L15.0815,18.9979 L15.0815,18.8839 C13.7875,18.7119 12.7465,18.3459 11.7015,17.8219 C5.4585,19.3419 0.8445,24.9619 0.8445,31.6639 L0.8445,34.8009 L32.4825,34.8009 L32.4825,31.6639 C32.4825,24.9619 27.8595,19.3429 21.6235,17.8219" id="Fill-11" fill="#2ECDCD"></path>
+                </g>
+              </svg>
+            </div>
+            <h4 class="txt-number is-small">934.244</h4>
+            <p class="paragraph"><b>accionistas particulares</b> que recibieron xx de  remuneración en efectivo</p>
+          </li>
+          <li class="list-item">
+            <div class="list-media is-small">
+              <svg width="36px" height="33px" viewBox="633 -103 36 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <g id="Group-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(633.000000, -103.000000)">
+                  <path d="M11.965,6.24 L23.802,6.24 L23.802,3.281 L11.965,3.281 L11.965,6.24 Z M14.925,15.117 L6.047,15.117 L6.047,12.158 L17.884,12.158 L14.925,15.117 Z M34.158,6.24 L26.762,6.24 L26.762,1.805 C26.762,0.969 26.097,0.321 25.278,0.321 L10.49,0.321 C9.681,0.321 9.006,0.986 9.006,1.805 L9.006,6.24 L1.609,6.24 C0.791,6.24 0.129,6.898 0.129,7.71 L0.129,31.403 C0.129,32.214 0.792,32.873 1.609,32.873 L34.158,32.873 C34.977,32.873 35.639,32.214 35.639,31.403 L35.639,7.71 C35.639,6.898 34.976,6.24 34.158,6.24 L34.158,6.24 Z" id="Fill-5" fill="#2ECDCD"></path>
+                </g>
+              </svg>
+            </div>
+            <h4 class="txt-number is-small">137.968</h4>
+            <p class="paragraph"><b>empleados</b> que percibieron xx en sueldos y salarios</p>
+          </li>
+          <li class="list-item">
+            <div class="list-media is-small">
+              <svg width="43px" height="36px" viewBox="901 -104 43 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <g id="Group-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(901.000000, -104.000000)">
+                      <path d="M21.5264,0.315 L0.1624,11.994 L21.5264,23.673 L39.0054,14.116 L39.0054,27.566 L42.8904,27.566 L42.8904,11.994 L21.5264,0.315 Z M7.9314,20.13 L7.9314,27.917 L21.5264,35.352 L35.1214,27.917 L35.1214,20.13 L21.5264,27.566 L7.9314,20.13 Z" id="Fill-12" fill="#2ECDCD"></path>
+                  </g>
+              </svg>
+            </div>
+            <h4 class="txt-number is-small">11.363</h4>
+            <p class="paragraph"><b>horas de formación</b> al año por empleado con una inversión de xx euros</p>
+          </li>
+          <li class="list-item">
+            <div class="list-media is-small">
+              <svg width="36px" height="33px" viewBox="368 101 36 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <g id="Group-5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(368.000000, 101.000000)">
+                      <path d="M11.837,6.357 L23.674,6.357 L23.674,3.398 L11.837,3.398 L11.837,6.357 Z M14.796,15.234 L5.918,15.234 L5.918,12.275 L17.755,12.275 L14.796,15.234 Z M34.03,6.357 L26.633,6.357 L26.633,1.922 C26.633,1.087 25.969,0.439 25.15,0.439 L10.361,0.439 C9.552,0.439 8.878,1.103 8.878,1.922 L8.878,6.357 L1.481,6.357 C0.662,6.357 0,7.015 0,7.827 L0,31.52 C0,32.332 0.663,32.99 1.481,32.99 L34.03,32.99 C34.848,32.99 35.51,32.332 35.51,31.52 L35.51,7.827 C35.51,7.015 34.847,6.357 34.03,6.357 L34.03,6.357 Z" id="Fill-9" fill="#2ECDCD"></path>
+                  </g>
+              </svg>
+            </div>
+            <h4 class="txt-number is-small">4.598</h4>
+            <p class="paragraph"><b>proveedores</b> que facturaron xx</p>
+          </li>
+          <li class="list-item">
+            <div class="list-media is-small">
+              <svg width="29px" height="35px" viewBox="639 100 29 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <g id="Group-6" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(639.000000, 100.000000)">
+                      <path d="M16.2642,15.651 C20.5702,15.651 24.0612,12.16 24.0612,7.854 C24.0612,3.548 20.5702,0.058 16.2642,0.058 C11.9582,0.058 8.4672,3.548 8.4672,7.854 C8.4672,12.16 11.9582,15.651 16.2642,15.651" id="Fill-7" fill="#2ECDCD"></path>
+                      <path d="M21.3058,28.4137 C21.3058,24.9507 24.1108,22.1447 27.5748,22.1447 C27.9168,22.1447 28.2498,22.1797 28.5768,22.2327 C26.6868,19.9807 24.1058,18.3307 21.1568,17.6107 C19.6848,18.3507 18.0238,18.7697 16.2638,18.7697 C14.5038,18.7697 12.8428,18.3507 11.3708,17.6107 C5.2218,19.1077 0.6708,24.6427 0.6708,31.2437 L0.6708,34.3627 L25.6048,34.3627 C23.1078,33.5367 21.3058,31.1887 21.3058,28.4137" id="Fill-8" fill="#2ECDCD"></path>
+                  </g>
+              </svg>
+            </div>
+            <h4 class="txt-number is-small">8.157 <small>M€</small></h4>
+            <p class="paragraph"><b>de impuestos devengados</b> y recaudados por la actividad de BBVA</p>
+          </li>
+          <li class="list-item">
+            <div class="list-media is-small">
+              <svg width="35px" height="35px" viewBox="905 101 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <g id="Group-7" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(905.000000, 101.000000)">
+                      <polyline id="Fill-1" fill="#2ECDCD" points="16.3165 18.5592 16.3165 11.5322 19.1275 8.7212 19.1275 18.5592"></polyline>
+                      <polygon id="Fill-2" fill="#2ECDCD" points="15.8245 21.8014 11.8445 21.8064 17.1395 16.5114 19.1275 18.4984"></polygon>
+                      <path d="M17.7217,0.8507 C12.1057,0.8507 7.1327,3.5977 4.0677,7.8197 L0.8567,5.0667 L0.8567,16.3107 L10.6947,13.4997 L7.2827,10.5747 C9.5617,7.2497 13.3857,5.0667 17.7217,5.0667 C24.7077,5.0667 30.3707,10.7297 30.3707,17.7157 C30.3707,24.7017 24.7077,30.3647 17.7217,30.3647 C12.1347,30.3647 7.3937,26.7417 5.7197,21.7167 L1.7187,23.0507 C3.9507,29.7497 10.2717,34.5807 17.7217,34.5807 C27.0357,34.5807 34.5867,27.0307 34.5867,17.7157 C34.5867,8.4017 27.0357,0.8507 17.7217,0.8507 Z" id="Fill-3" fill="#2ECDCD"></path>
+                  </g>
+              </svg>
+            </div>
+            <h4 class="txt-number is-small">22.246  <small>M€</small></h4>
+            <p class="paragraph"><b>valor económico generado</b>, supone el 0,5% del PIB de las economías en la que opera</p>
+          </li>
+        </ul>
+      </div>
+      <div class="tabs-item">
+        <div class="tabs-header"><h3 class="tabs-title">Contribución al crecimiento y bienestar social</h3></div>
+      </div>
+      <div class="tabs-item">
+        <div class="tabs-header">
+          <h3 class="tabs-title">Aportación directa a la sociedad</h3>
+        </div>
+      </div>
+      <div class="tabs-item">
+        <div class="tabs-header">
+          <h3 class="tabs-title">Contribución al desarrollo sostenible </h3>
+        </div>
+      </div>
+    </div>
+
   </div>
 </section>
 
@@ -137,5 +263,31 @@ permalink: /desempeno-en-2016/
 
 
 
+<section class="section">
+  <div class="container container--small">
+    <h2 class="u-txt-center title-section title-section--inside">Área de negocio</h2>
+    <p class="paragraph u-txt-center paragraph--big">(Margen bruto. En millones de euros. Variaciones interanuales)</p>
+    <div class="section-map">
+      {% include mapa-es.html %}
+    </div>
 
-
+    <p class="link-more">
+      <a href="#">
+        <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+           viewBox="0 0 15.2 20.3" style="enable-background:new 0 0 15.2 20.3;" xml:space="preserve" width="18">
+        <style type="text/css">
+          .st0{fill-rule:evenodd;clip-rule:evenodd;fill:#2E86C8;}
+        </style>
+        <g>
+          <path class="st0" d="M10.2,0h-3H0.5C0.2,0,0,0.2,0,0.5v19.3c0,0.3,0.2,0.5,0.5,0.5h14.2c0.3,0,0.5-0.2,0.5-0.5V5.1L10.2,0z
+             M3.4,11.3H2.9v1.4H1.7V8.2h1.7c1,0,2,0.2,2,1.5C5.3,11.1,4.3,11.3,3.4,11.3z M7.4,12.7H5.8V8.2h1.5c1.3,0,2.5,0.5,2.5,2.2
+            C9.8,12.2,8.7,12.7,7.4,12.7z M13.6,9.2h-1.9v0.8H13v1h-1.3v1.6h-1.3V8.2h3.1V9.2z"/>
+          <path class="st0" d="M3.4,9.1H2.9v1.2h0.5c0.6,0,0.7-0.3,0.7-0.6C4.1,9.4,4,9.1,3.4,9.1z"/>
+          <path class="st0" d="M7.4,9.2H7.1v2.5h0.3c0.9,0,1.2-0.3,1.2-1.3C8.6,9.6,8.3,9.2,7.4,9.2z"/>
+        </g>
+        </svg>
+        Leer más
+      </a>
+    </p>
+  </div>
+</section>

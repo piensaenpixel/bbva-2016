@@ -19,6 +19,10 @@
   @include justify-content(flex-start);
 }
 
+.u-alignCenter {
+  @include align-items(center);
+}
+
 .u-upperCase {
   text-transform: uppercase;
 }

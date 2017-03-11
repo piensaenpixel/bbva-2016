@@ -1,7 +1,11 @@
 .button {
   display: inline-block;
   padding: 24px;
+  &.is-small {
+    padding: 19px;
+  }
 }
+
 
 .button--green {
   background: $green;

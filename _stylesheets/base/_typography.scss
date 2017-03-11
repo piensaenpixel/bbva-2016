@@ -23,6 +23,10 @@
     color: $txtgrey;
     font: 18px/25px 'BentonLight';
   }
+  &.is-xl {
+    color: #000;
+    font: 20px/27px 'BentonLight';
+  }
   b {
     font-family:'BentonBold';
   }
@@ -88,5 +92,39 @@
     color: $white;
   }
 }
+
+.tabs-title {
+  font: 26px/31px 'BentonBold';
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.tabs-header {
+  margin-bottom: 40px;
+}
+
+.txt-number {
+  font: 60px/72px 'BentonLight';
+  margin-bottom: 10px;
+  &.is-small {
+    font-size: 40px;
+    line-height: 44px;
+    small {
+      font-size: 20px;
+    }
+  }
+}
+
+.txt-numberDescription {
+  font: 15px/18px 'BentonBold';
+  margin-bottom: 12px;
+  color: #666;
+}
+
+.section--blue .txt-numberDescription,
+.section--blueDark .txt-numberDescription {
+  color: #0086CD;
+}
+
 
 
