@@ -1,6 +1,10 @@
 .title-section {
   font: 36px/43px 'BentonLight';
   margin-bottom: 70px;
+  &.is-small {
+    font-size: 24px;
+    line-height: 31px;
+  }
 }
 
 .title-section--inside {
@@ -30,8 +34,14 @@
     color: #000;
     font: 20px/27px 'BentonLight';
   }
+  &.is-huge {
+    font: 22px/29px 'BentonLight';
+  }
   b {
     font-family:'BentonBold';
+  }
+  &.is-dark {
+    color: #000;
   }
 }
 .paragraph--big {
@@ -136,4 +146,8 @@
 }
 
 
+
+.txt-cite {
+  font: 32px/38px 'TiempoItalic';
+}
 

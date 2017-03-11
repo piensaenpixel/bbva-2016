@@ -2,6 +2,12 @@
   background: $white;
   padding: 80px 0;
 }
+.section--client {
+  padding-bottom: 150px;
+  .container {
+    position: relative;
+  }
+}
 .section--small {
   padding: 60px 0;
 }
@@ -17,6 +23,13 @@
 .section--blueDark {
   background: #004481;
   color: $white;
+}
+
+.section--piramids {
+  background-color: #004481;
+  background-image: url('../images/bg-piramids.svg');
+  background-size: cover;
+  background-position: top center;
 }
 
 .section--header {
@@ -737,6 +750,12 @@
     margin: 0 auto;
     display: block;
   }
+  &.is-mini {
+    margin-bottom: 10px;
+  }
+  &.f-26 {
+    height: 26px;
+  }
 }
 
 .section-map {
@@ -750,6 +769,14 @@
     fill-opacity: 0.8;
   }
 }
+
+.section-media {
+  margin: 0 auto;
+}
+.section-media--negocio {
+  margin-top: -368px;
+}
+
 
 .map-info {
   background: #F1F1F1;
@@ -778,4 +805,20 @@
 }
 .map-infoMedia {
   margin-bottom: 20px;
+}
+
+.list-solutions {
+  > li {
+    margin-bottom: 40px;
+  }
+  .list-solutionsTitle {
+    font: 15px/18px 'BentonBold';
+    color: $white;
+    margin-bottom: 4px;
+  }
+  .list-solutionsCountry {
+    font: 11px/13px 'BentonBold';
+    color: #2ECDCD;
+    text-transform: uppercase;
+  }
 }

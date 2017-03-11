@@ -251,3 +251,21 @@
     }
   }
 }
+
+.subnavigation {
+  background: #004481;
+  padding: 20px 0;
+  margin-top: 26px;
+  margin-bottom: -26px;
+  .menu-item {
+    text-transform: none;
+    font-size: 16px;
+    font-family: 'BentonBook';
+    a {
+      color: rgba($white, 0.6);
+      &.active {
+        color: $white;
+      }
+    }
+  }
+}
