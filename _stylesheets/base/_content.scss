@@ -524,10 +524,11 @@
   }
 }
 
-.letter-txt{
+.letter-txt {
+  padding-bottom: 130px;
   > p {
     color: $txtgrey;
-    font: 14px/1.2 'BentonLight';
+    font: 15px/23px 'BentonLight';
     margin-bottom: 15px;
   }
   .letter-info {
@@ -584,6 +585,7 @@
 }
 .letter-sign {
   margin-top: 40px;
+  text-align: right;
 }
 .letter-signMedia {
   margin-bottom: 24px;
@@ -629,5 +631,38 @@
       color: $white;
       text-align: center;
     }
+  }
+}
+
+
+.section-header {
+  @include display-flex;
+  align-items: center;
+  justify-content: center;
+  height: 460px;
+  position: relative;
+  &:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.39);
+  }
+  h1 {
+    max-width: 1140px;
+    font: 68px/81px 'BentonBold';
+    letter-spacing: -1px;
+    position: relative;
+    color: #fff;
+  }
+}
+
+.list-media {
+  margin-bottom: 30px;
+  svg, img {
+    margin: 0 auto;
+    display: block;
   }
 }

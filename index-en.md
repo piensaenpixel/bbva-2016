@@ -1,141 +1,34 @@
-<!DOCTYPE HTML>
-<html lang="es">
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+---
+layout: home
+title: Home
+lang: en
+permalink: /
+---
 
-  <title>Your awesome title | Home</title>
-  <meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-">
-
-  <meta http-equiv="Content-Language" content="es"><link rel="alternate" i18n="es" href="/" />
-<link rel="alternate" i18n="en" href="/en/" />
-
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
-  <link rel="stylesheet" href="/stylesheets/main.css">
-  <link rel="canonical" href="/">
-</head>
-  <body class="Home">
-    
-<header class="header" data-header="is-visible">
-
-  <div class="container">
-
-    <nav class="options">
-      <ul class="options-list">
-        
-          <li class="options-listitem">
-          
-            
-              
-            
-              
-                <a href=" /en/ ">
-                  EN
-                </a>
-              
-            
-          
-          </li>
-        
-          <li class="options-listitem">
-          
-            <a href="/">
-              Descargar
-            </a>
-          
-          </li>
-        
-      </ul>
-    </nav>
-
-    <div class="header-container">
-      <a href="/" class="header-containerLogo">
-      <svg width="140px" height="43px" viewBox="159 -788 94 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-        <g id="Logotipo_de_BBVA" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(159.000000, -788.000000)">
-          <path d="M82.5300619,18.4846 L74.542,18.4846 L78.5064742,5.26543333 L82.5300619,18.4846 L82.5300619,18.4846 Z M81.2731753,0.0058 C83.4216082,0.0058 83.9739794,0.541333333 84.7909072,2.9609 L93.6055876,28.9787333 L85.7531959,28.9787333 L83.8383093,22.7244 L73.2686392,22.7244 L71.3634433,28.9787333 L66.8320619,28.9787333 L75.7213608,0.00386666667 L81.2731753,0.0058 Z" id="Shape" fill="#FFFFFF"></path>
-          <path d="M35.3284948,12.7542 L37.7531134,9.14756667 C38.3665361,8.2418 38.4944536,7.67436667 38.4944536,7.03926667 C38.4944536,5.2693 36.9361856,3.78256667 35.1356495,3.78256667 L31.409567,3.78256667 L31.409567,25.0985333 L33.4746598,25.0985333 C36.9294021,25.0985333 39.5507423,23.2377 39.5507423,18.879 C39.5507423,15.2859 37.8606804,13.3661 35.3284948,12.7542 L35.3284948,12.7542 Z M36.7791959,28.9903333 L24.5776082,28.9903333 L24.5776082,0 L37.224,0 C43.1547216,0 45.2198144,4.82076667 42.2185979,9.26646667 L40.7979381,11.368 C50.7474021,16.5193667 47.510701,28.9903333 36.7791959,28.9903333 Z" id="Shape" fill="#FFFFFF"></path>
-          <path d="M10.7547629,12.7542 L13.1774433,9.14756667 C13.7898969,8.2418 13.9187835,7.67436667 13.9187835,7.03926667 C13.9187835,5.2693 12.3576082,3.78256667 10.5628866,3.78256667 L6.83389691,3.78256667 L6.83389691,25.0985333 L8.89802062,25.0985333 C12.3527629,25.0985333 14.9741031,23.2377 14.9741031,18.879 C14.9741031,15.2859 13.2821031,13.3661 10.7547629,12.7542 L10.7547629,12.7542 Z M12.2035258,28.9903333 L0,28.9903333 L0,0 L12.650268,0 C18.5790515,0 20.6460825,4.82076667 17.6429278,9.26646667 L16.222268,11.368 C26.1697938,16.5193667 22.9350309,28.9903333 12.2035258,28.9903333 Z" id="Shape" fill="#FFFFFF"></path>
-            <path d="M65.6449485,0 L70.2325361,0 L61.3781237,28.9758333 L54.4056495,28.9719667 L44.9058351,0.00386666667 L50.0409485,0 C52.0207629,0 52.5430928,0.509433333 53.58,3.79223333 L59.0775464,22.0100333 L65.6449485,0" id="Shape" fill="#FFFFFF"></path>
-        </g>
-      </svg>
-      </a>
-      <nav class="navigation">
-        <ul class="menu">
-          
-            <li class="menu-item">
-              
-                <a href="/carta-del-presidente/">Carta del presidente</a>
-              
-            </li>
-          
-            <li class="menu-item">
-              
-                <a href="/desempeno-en-2016/">Desempeño</a>
-              
-            </li>
-          
-            <li class="menu-item">
-              
-                <a href="/estrategia/">Estrategia</a>
-              
-            </li>
-          
-            <li class="menu-item">
-              
-                <a href="/grupos-interes/">Grupos de interés</a>
-              
-            </li>
-          
-        </ul>
-        <div class="search">
-          <span class="search-item js-searchAction">
-            <svg width="21px" height="20px" viewBox="6701 -669 21 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-              <path d="M6715.29975,-654.286033 C6713.78099,-652.867899 6711.74185,-652 6709.5,-652 C6704.80558,-652 6701,-655.80558 6701,-660.5 C6701,-665.19442 6704.80558,-669 6709.5,-669 C6714.19442,-669 6718,-665.19442 6718,-660.5 C6718,-658.770159 6717.48326,-657.161007 6716.59573,-655.818485 L6721.91421,-650.5 L6720.5,-649.085786 L6715.29975,-654.286033 Z M6710.02604,-665.160658 C6710.10747,-665.112198 6710.2521,-665.024262 6710.43866,-664.907617 C6710.74962,-664.713185 6711.06043,-664.511348 6711.3494,-664.313234 C6711.47244,-664.228883 6711.58898,-664.146903 6711.69799,-664.06786 C6712.0706,-663.797665 6712.34183,-663.570659 6712.46832,-663.421542 C6712.58581,-663.283049 6712.74883,-663.025877 6712.93782,-662.682596 C6713.0113,-662.54914 6713.08785,-662.404311 6713.1668,-662.249886 C6713.32588,-661.938696 6713.48694,-661.603983 6713.64138,-661.269098 C6713.73405,-661.068157 6713.80369,-660.912335 6713.84199,-660.824514 L6714.75859,-661.224314 C6714.71768,-661.318126 6714.64526,-661.48016 6714.54946,-661.687891 C6714.38978,-662.034128 6714.22309,-662.380536 6714.0572,-662.705059 C6713.97382,-662.868163 6713.89254,-663.021931 6713.81384,-663.164881 C6713.59499,-663.562391 6713.40223,-663.866475 6713.23089,-664.068448 C6713.0384,-664.295357 6712.71861,-664.563008 6712.28503,-664.877417 C6712.16855,-664.961878 6712.04486,-665.048883 6711.91486,-665.138012 C6711.61303,-665.34494 6711.29085,-665.554164 6710.96881,-665.755517 C6710.77557,-665.876343 6710.6248,-665.968015 6710.53743,-666.020006 L6710.02604,-665.160658 Z" id="Combined-Shape" stroke="none" fill="#00BFFF" fill-rule="evenodd"></path>
-            </svg>
-          </span>
-          <form class="search-form js-search">
-            <input type="text" class="search-box" id="search" />
-          </form>
-          <ul class="search-result js-search-results"></ul>
-          <div class="search-info">
-            <img class="js-searchClose" src="/images/close-white.svg" />
-          </div>
-        </div>
-      </nav>
-    </div>
-
-
-  </div>
-
-</header>
-
-
-
-    <section class="section section--header" data-parallax="scroll" data-value="principal" data-speed=".4" data-image-src="images/header-background.png" data-z-index="1">
-  <div class="container u-txt-center" data-header-control="">
+<section class="section section--header" data-parallax="scroll" data-value="principal" data-speed=".4" data-image-src="{{site.baseurl}}/images/header-background.png" data-z-index="1">
+  <div class="container u-txt-center" data-header-control>
     <h1>BBVA en 2016</h1>
     <h2>Información financiera y no financiera</h2>
     <p>
-      UN GRUPO FINANCIERO GLOBAL
+      UN GRUPO FINANCIERO GLOBAL ENGLISH
       <span>
-        <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="46px" height="46px" viewBox="0 0 46 46" enable-background="new 0 0 46 46" xml:space="preserve">
+        <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+           width="46px" height="46px" viewBox="0 0 46 46" enable-background="new 0 0 46 46" xml:space="preserve">
           <g>
             <defs>
-              <rect id="SVGID_1_" x="-777" y="-3433.813" width="1600" height="6913" />
+              <rect id="SVGID_1_" x="-777" y="-3433.813" width="1600" height="6913"/>
             </defs>
             <clipPath id="SVGID_2_">
-              <use xlink:href="#SVGID_1_" overflow="visible" />
+              <use xlink:href="#SVGID_1_"  overflow="visible"/>
             </clipPath>
             <path clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M23-2795c-12.696,0-23,10.304-23,23
               c0,12.696,10.304,23,23,23c12.695,0,23-10.304,23-23C46-2784.696,35.695-2795,23-2795 M23-2752.833
               c-10.58,0-19.166-8.587-19.166-19.167s8.586-19.166,19.166-19.166s19.167,8.586,19.167,19.166S33.58-2752.833,23-2752.833
-               M19.55-2762.348v-19.263l12.842,9.632L19.55-2762.348z" />
+               M19.55-2762.348v-19.263l12.842,9.632L19.55-2762.348z"/>
           </g>
           <path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M23,0C10.304,0,0,10.304,0,23c0,12.696,10.304,23,23,23
             c12.695,0,23-10.304,23-23C46,10.304,35.695,0,23,0 M23,42.167C12.42,42.167,3.834,33.58,3.834,23S12.42,3.834,23,3.834
-            S42.167,12.42,42.167,23S33.58,42.167,23,42.167 M19.55,32.652V13.389l12.842,9.632L19.55,32.652z" />
+            S42.167,12.42,42.167,23S33.58,42.167,23,42.167 M19.55,32.652V13.389l12.842,9.632L19.55,32.652z"/>
         </svg>
       </span>
       CON UNA VISIÓN CENTRADA EN EL CLIENTE
@@ -148,18 +41,19 @@
   <div class="container container-letter">
     <div class="letter">
       <h2>Carta del presidente</h2>
-      <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="89.833px" height="69.667px" viewBox="0 0 89.833 69.667" enable-background="new 0 0 89.833 69.667" xml:space="preserve">
+      <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+         width="89.833px" height="69.667px" viewBox="0 0 89.833 69.667" enable-background="new 0 0 89.833 69.667" xml:space="preserve">
         <polygon fill-rule="evenodd" clip-rule="evenodd" fill="#0087CC" points="67.833,0 49.5,29.332 49.5,69.667 89.833,69.667
-        89.833,29.332 67.833,29.332 86.166,0 " />
+        89.833,29.332 67.833,29.332 86.166,0 "/>
         <polygon fill-rule="evenodd" clip-rule="evenodd" fill="#0087CC" points="18.333,0 0,29.332 0,69.667 40.333,69.667 40.333,29.332
-        18.333,29.332 36.666,0 " />
+        18.333,29.332 36.666,0 "/>
       </svg>
       <h3>BBVA ha avanzado mucho en 2016. Sobre la base de un modelo de negocio muy sólido y con gran potencial de crecimiento</h3>
       <p>Francisco González - Presidente de BBVA</p>
       <a href="#">Leer más</a>
     </div>
     <div class="letter-media">
-      <img src="/images/francisco-gonzalez.png" />
+      <img src="{{site.baseurl}}/images/francisco-gonzalez.png" />
     </div>
   </div>
 </section>
@@ -171,7 +65,7 @@
       <li class="list-item card">
         <a href="#" class="card-inner">
           <div class="card-media">
-            <img src="/images/dummy-list.png" />
+            <img src="{{site.baseurl}}/images/dummy-list.png" />
           </div>
           <div class="card-txt">
             <div>
@@ -185,7 +79,7 @@
       <li class="list-item card">
         <a href="#" class="card-inner">
           <div class="card-media">
-            <img src="/images/dummy-list.png" />
+            <img src="{{site.baseurl}}/images/dummy-list.png" />
           </div>
           <div class="card-txt">
             <div>
@@ -199,7 +93,7 @@
       <li class="list-item card">
         <a href="#" class="card-inner">
           <div class="card-media">
-            <img src="/images/dummy-list.png" />
+            <img src="{{site.baseurl}}/images/dummy-list.png" />
           </div>
           <div class="card-txt">
             <div>
@@ -213,7 +107,7 @@
       <li class="list-item card">
         <a href="#" class="card-inner">
           <div class="card-media">
-            <img src="/images/dummy-list.png" />
+            <img src="{{site.baseurl}}/images/dummy-list.png" />
           </div>
           <div class="card-txt">
             <div>
@@ -227,7 +121,7 @@
       <li class="list-item card">
         <a href="#" class="card-inner">
           <div class="card-media">
-            <img src="/images/dummy-list.png" />
+            <img src="{{site.baseurl}}/images/dummy-list.png" />
           </div>
           <div class="card-txt">
             <div>
@@ -241,7 +135,7 @@
       <li class="list-item card">
         <a href="#" class="card-inner">
           <div class="card-media">
-            <img src="/images/dummy-list.png" />
+            <img src="{{site.baseurl}}/images/dummy-list.png" />
           </div>
           <div class="card-txt">
             <div>
@@ -255,7 +149,7 @@
       <li class="list-item card">
         <a href="#" class="card-inner">
           <div class="card-media">
-            <img src="/images/dummy-list.png" />
+            <img src="{{site.baseurl}}/images/dummy-list.png" />
           </div>
           <div class="card-txt">
             <div>
@@ -269,7 +163,7 @@
       <li class="list-item card">
         <a href="#" class="card-inner">
           <div class="card-media">
-            <img src="/images/dummy-list.png" />
+            <img src="{{site.baseurl}}/images/dummy-list.png" />
           </div>
           <div class="card-txt">
             <div>
@@ -283,7 +177,7 @@
       <li class="list-item card">
         <a href="#" class="card-inner">
           <div class="card-media">
-            <img src="/images/dummy-list.png" />
+            <img src="{{site.baseurl}}/images/dummy-list.png" />
           </div>
           <div class="card-txt">
             <div>
@@ -309,10 +203,11 @@
     <p class="figures-text">
       Resumen del
       <a href="#">
-        <svg version="1.1" width="46" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 46 46" style="enable-background:new 0 0 46 46;" xml:space="preserve">
+        <svg version="1.1" width="46" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+           viewBox="0 0 46 46" style="enable-background:new 0 0 46 46;" xml:space="preserve">
 
         <path fill="#FFFFFF" d="M23,0C10.3,0,0,10.3,0,23s10.3,23,23,23s23-10.3,23-23S35.7,0,23,0 M23,42.2C12.4,42.2,3.8,33.6,3.8,23
-          S12.4,3.8,23,3.8S42.2,12.4,42.2,23S33.6,42.2,23,42.2 M19.5,32.7V13.4L32.4,23L19.5,32.7z" />
+          S12.4,3.8,23,3.8S42.2,12.4,42.2,23S33.6,42.2,23,42.2 M19.5,32.7V13.4L32.4,23L19.5,32.7z"/>
         </svg>
       </a>
       año 2016
@@ -323,9 +218,9 @@
           <g>
             <path fill="#FFF" d="M10.2,0h-3H0.5C0.2,0,0,0.2,0,0.5v19.3c0,0.3,0.2,0.5,0.5,0.5h14.2c0.3,0,0.5-0.2,0.5-0.5V5.1L10.2,0z
                M3.4,11.3H2.9v1.4H1.7V8.2h1.7c1,0,2,0.2,2,1.5C5.3,11.1,4.3,11.3,3.4,11.3z M7.4,12.7H5.8V8.2h1.5c1.3,0,2.5,0.5,2.5,2.2
-              C9.8,12.2,8.7,12.7,7.4,12.7z M13.6,9.2h-1.9v0.8H13v1h-1.3v1.6h-1.3V8.2h3.1V9.2z" />
-            <path class="#FFF" d="M3.4,9.1H2.9v1.2h0.5c0.6,0,0.7-0.3,0.7-0.6C4.1,9.4,4,9.1,3.4,9.1z" />
-            <path class="#FFF" d="M7.4,9.2H7.1v2.5h0.3c0.9,0,1.2-0.3,1.2-1.3C8.6,9.6,8.3,9.2,7.4,9.2z" />
+              C9.8,12.2,8.7,12.7,7.4,12.7z M13.6,9.2h-1.9v0.8H13v1h-1.3v1.6h-1.3V8.2h3.1V9.2z"/>
+            <path class="#FFF" d="M3.4,9.1H2.9v1.2h0.5c0.6,0,0.7-0.3,0.7-0.6C4.1,9.4,4,9.1,3.4,9.1z"/>
+            <path class="#FFF" d="M7.4,9.2H7.1v2.5h0.3c0.9,0,1.2-0.3,1.2-1.3C8.6,9.6,8.3,9.2,7.4,9.2z"/>
           </g>
           </svg>
           Leer más
@@ -386,19 +281,20 @@
     <h2 class="u-txt-center title-section title-section--inside">Área de negocio</h2>
     <p class="paragraph u-txt-center paragraph--big">(Margen bruto. En millones de euros. Variaciones interanuales)</p>
 
-    <img src="/images/map.svg" />
+    <img src="{{site.baseurl}}/images/map.svg" />
     <p class="link-more">
       <a href="#">
-        <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 15.2 20.3" style="enable-background:new 0 0 15.2 20.3;" xml:space="preserve" width="18">
+        <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+           viewBox="0 0 15.2 20.3" style="enable-background:new 0 0 15.2 20.3;" xml:space="preserve" width="18">
         <style type="text/css">
           .st0{fill-rule:evenodd;clip-rule:evenodd;fill:#2E86C8;}
         </style>
         <g>
           <path class="st0" d="M10.2,0h-3H0.5C0.2,0,0,0.2,0,0.5v19.3c0,0.3,0.2,0.5,0.5,0.5h14.2c0.3,0,0.5-0.2,0.5-0.5V5.1L10.2,0z
              M3.4,11.3H2.9v1.4H1.7V8.2h1.7c1,0,2,0.2,2,1.5C5.3,11.1,4.3,11.3,3.4,11.3z M7.4,12.7H5.8V8.2h1.5c1.3,0,2.5,0.5,2.5,2.2
-            C9.8,12.2,8.7,12.7,7.4,12.7z M13.6,9.2h-1.9v0.8H13v1h-1.3v1.6h-1.3V8.2h3.1V9.2z" />
-          <path class="st0" d="M3.4,9.1H2.9v1.2h0.5c0.6,0,0.7-0.3,0.7-0.6C4.1,9.4,4,9.1,3.4,9.1z" />
-          <path class="st0" d="M7.4,9.2H7.1v2.5h0.3c0.9,0,1.2-0.3,1.2-1.3C8.6,9.6,8.3,9.2,7.4,9.2z" />
+            C9.8,12.2,8.7,12.7,7.4,12.7z M13.6,9.2h-1.9v0.8H13v1h-1.3v1.6h-1.3V8.2h3.1V9.2z"/>
+          <path class="st0" d="M3.4,9.1H2.9v1.2h0.5c0.6,0,0.7-0.3,0.7-0.6C4.1,9.4,4,9.1,3.4,9.1z"/>
+          <path class="st0" d="M7.4,9.2H7.1v2.5h0.3c0.9,0,1.2-0.3,1.2-1.3C8.6,9.6,8.3,9.2,7.4,9.2z"/>
         </g>
         </svg>
         Leer más
@@ -418,9 +314,9 @@
           <g>
             <path fill="#FFF" d="M10.2,0h-3H0.5C0.2,0,0,0.2,0,0.5v19.3c0,0.3,0.2,0.5,0.5,0.5h14.2c0.3,0,0.5-0.2,0.5-0.5V5.1L10.2,0z
                M3.4,11.3H2.9v1.4H1.7V8.2h1.7c1,0,2,0.2,2,1.5C5.3,11.1,4.3,11.3,3.4,11.3z M7.4,12.7H5.8V8.2h1.5c1.3,0,2.5,0.5,2.5,2.2
-              C9.8,12.2,8.7,12.7,7.4,12.7z M13.6,9.2h-1.9v0.8H13v1h-1.3v1.6h-1.3V8.2h3.1V9.2z" />
-            <path class="#FFF" d="M3.4,9.1H2.9v1.2h0.5c0.6,0,0.7-0.3,0.7-0.6C4.1,9.4,4,9.1,3.4,9.1z" />
-            <path class="#FFF" d="M7.4,9.2H7.1v2.5h0.3c0.9,0,1.2-0.3,1.2-1.3C8.6,9.6,8.3,9.2,7.4,9.2z" />
+              C9.8,12.2,8.7,12.7,7.4,12.7z M13.6,9.2h-1.9v0.8H13v1h-1.3v1.6h-1.3V8.2h3.1V9.2z"/>
+            <path class="#FFF" d="M3.4,9.1H2.9v1.2h0.5c0.6,0,0.7-0.3,0.7-0.6C4.1,9.4,4,9.1,3.4,9.1z"/>
+            <path class="#FFF" d="M7.4,9.2H7.1v2.5h0.3c0.9,0,1.2-0.3,1.2-1.3C8.6,9.6,8.3,9.2,7.4,9.2z"/>
           </g>
           </svg>
           Leer más
@@ -436,7 +332,7 @@
     <ul class="list list--twoItems">
       <li class="list-item">
         <a href="#" class="card-highlight">
-          <img src="/images/dummy-grups.png" />
+          <img src="{{site.baseurl}}/images/dummy-grups.png" />
           <div class="card-highlightTxt">
             <h2>Clientes</h2>
             <p>Buscamos el mejor Banco para nuestros clientes y convertirnos en la entidad de referencia en satisfacción de la clientela</p>
@@ -445,7 +341,7 @@
       </li>
       <li class="list-item">
         <a href="#" class="card-highlight">
-          <img src="/images/dummy-grups.png" />
+          <img src="{{site.baseurl}}/images/dummy-grups.png" />
           <div class="card-highlightTxt">
             <h2>Accionistas</h2>
             <p>Buscamos el mejor Banco para nuestros clientes y convertirnos en la entidad de referencia en satisfacción de la clientela</p>
@@ -454,7 +350,7 @@
       </li>
       <li class="list-item">
         <a href="#" class="card-highlight">
-          <img src="/images/dummy-grups.png" />
+          <img src="{{site.baseurl}}/images/dummy-grups.png" />
           <div class="card-highlightTxt">
             <h2>Equipo</h2>
             <p>Buscamos el mejor Banco para nuestros clientes y convertirnos en la entidad de referencia en satisfacción de la clientela</p>
@@ -463,7 +359,7 @@
       </li>
       <li class="list-item">
         <a href="#" class="card-highlight">
-          <img src="/images/dummy-grups.png" />
+          <img src="{{site.baseurl}}/images/dummy-grups.png" />
           <div class="card-highlightTxt">
             <h2>Sociedad</h2>
             <p>Buscamos el mejor Banco para nuestros clientes y convertirnos en la entidad de referencia en satisfacción de la clientela</p>
@@ -472,7 +368,7 @@
       </li>
       <li class="list-item">
         <a href="#" class="card-highlight">
-          <img src="/images/dummy-grups.png" />
+          <img src="{{site.baseurl}}/images/dummy-grups.png" />
           <div class="card-highlightTxt">
             <h2>Reguladores</h2>
             <p>Buscamos el mejor Banco para nuestros clientes y convertirnos en la entidad de referencia en satisfacción de la clientela</p>
@@ -481,7 +377,7 @@
       </li>
       <li class="list-item">
         <a href="#" class="card-highlight">
-          <img src="/images/dummy-grups.png" />
+          <img src="{{site.baseurl}}/images/dummy-grups.png" />
           <div class="card-highlightTxt">
             <h2>Proveedores</h2>
             <p>Buscamos el mejor Banco para nuestros clientes y convertirnos en la entidad de referencia en satisfacción de la clientela</p>
@@ -491,16 +387,17 @@
     </ul>
     <p class="link-more">
       <a href="#">
-        <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 15.2 20.3" style="enable-background:new 0 0 15.2 20.3;" xml:space="preserve" width="18">
+        <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+           viewBox="0 0 15.2 20.3" style="enable-background:new 0 0 15.2 20.3;" xml:space="preserve" width="18">
         <style type="text/css">
           .st0{fill-rule:evenodd;clip-rule:evenodd;fill:#2E86C8;}
         </style>
         <g>
           <path class="st0" d="M10.2,0h-3H0.5C0.2,0,0,0.2,0,0.5v19.3c0,0.3,0.2,0.5,0.5,0.5h14.2c0.3,0,0.5-0.2,0.5-0.5V5.1L10.2,0z
              M3.4,11.3H2.9v1.4H1.7V8.2h1.7c1,0,2,0.2,2,1.5C5.3,11.1,4.3,11.3,3.4,11.3z M7.4,12.7H5.8V8.2h1.5c1.3,0,2.5,0.5,2.5,2.2
-            C9.8,12.2,8.7,12.7,7.4,12.7z M13.6,9.2h-1.9v0.8H13v1h-1.3v1.6h-1.3V8.2h3.1V9.2z" />
-          <path class="st0" d="M3.4,9.1H2.9v1.2h0.5c0.6,0,0.7-0.3,0.7-0.6C4.1,9.4,4,9.1,3.4,9.1z" />
-          <path class="st0" d="M7.4,9.2H7.1v2.5h0.3c0.9,0,1.2-0.3,1.2-1.3C8.6,9.6,8.3,9.2,7.4,9.2z" />
+            C9.8,12.2,8.7,12.7,7.4,12.7z M13.6,9.2h-1.9v0.8H13v1h-1.3v1.6h-1.3V8.2h3.1V9.2z"/>
+          <path class="st0" d="M3.4,9.1H2.9v1.2h0.5c0.6,0,0.7-0.3,0.7-0.6C4.1,9.4,4,9.1,3.4,9.1z"/>
+          <path class="st0" d="M7.4,9.2H7.1v2.5h0.3c0.9,0,1.2-0.3,1.2-1.3C8.6,9.6,8.3,9.2,7.4,9.2z"/>
         </g>
         </svg>
         Leer más
@@ -533,28 +430,30 @@
     <ul class="list list--twoItems list-features">
       <li class="list-item">
         <div class="list-featuresMedia">
-          <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="21.662px" height="22.646px" viewBox="0 0 21.662 22.646" enable-background="new 0 0 21.662 22.646" xml:space="preserve">
-            <rect y="20.677" fill="#0087CC" width="21.66" height="1.969" />
-            <rect x="1.969" y="9.847" fill="#0087CC" width="3.938" height="8.86" />
-            <rect x="8.862" y="9.847" fill="#0087CC" width="3.938" height="8.86" />
-            <rect x="15.753" y="9.847" fill="#0087CC" width="3.938" height="8.86" />
-            <polygon fill="#0087CC" points="10.791,0 0,5.908 0,7.877 21.662,7.877 21.662,5.908 " />
+          <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+             width="21.662px" height="22.646px" viewBox="0 0 21.662 22.646" enable-background="new 0 0 21.662 22.646" xml:space="preserve">
+            <rect y="20.677" fill="#0087CC" width="21.66" height="1.969"/>
+            <rect x="1.969" y="9.847" fill="#0087CC" width="3.938" height="8.86"/>
+            <rect x="8.862" y="9.847" fill="#0087CC" width="3.938" height="8.86"/>
+            <rect x="15.753" y="9.847" fill="#0087CC" width="3.938" height="8.86"/>
+            <polygon fill="#0087CC" points="10.791,0 0,5.908 0,7.877 21.662,7.877 21.662,5.908 "/>
           </svg>
         </div>
         <h2>Gobierno corporativo</h2>
         <p>BBVA cuenta con un sistema de gobierno corporativo que orienta la estructura y funcionamiento en interés de la Sociedad y de sus accionistas</p>
         <p class="link-more is-left">
           <a href="#">
-            <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 15.2 20.3" style="enable-background:new 0 0 15.2 20.3;" xml:space="preserve" width="18">
+            <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+               viewBox="0 0 15.2 20.3" style="enable-background:new 0 0 15.2 20.3;" xml:space="preserve" width="18">
             <style type="text/css">
               .st0{fill-rule:evenodd;clip-rule:evenodd;fill:#2E86C8;}
             </style>
             <g>
               <path class="st0" d="M10.2,0h-3H0.5C0.2,0,0,0.2,0,0.5v19.3c0,0.3,0.2,0.5,0.5,0.5h14.2c0.3,0,0.5-0.2,0.5-0.5V5.1L10.2,0z
                  M3.4,11.3H2.9v1.4H1.7V8.2h1.7c1,0,2,0.2,2,1.5C5.3,11.1,4.3,11.3,3.4,11.3z M7.4,12.7H5.8V8.2h1.5c1.3,0,2.5,0.5,2.5,2.2
-                C9.8,12.2,8.7,12.7,7.4,12.7z M13.6,9.2h-1.9v0.8H13v1h-1.3v1.6h-1.3V8.2h3.1V9.2z" />
-              <path class="st0" d="M3.4,9.1H2.9v1.2h0.5c0.6,0,0.7-0.3,0.7-0.6C4.1,9.4,4,9.1,3.4,9.1z" />
-              <path class="st0" d="M7.4,9.2H7.1v2.5h0.3c0.9,0,1.2-0.3,1.2-1.3C8.6,9.6,8.3,9.2,7.4,9.2z" />
+                C9.8,12.2,8.7,12.7,7.4,12.7z M13.6,9.2h-1.9v0.8H13v1h-1.3v1.6h-1.3V8.2h3.1V9.2z"/>
+              <path class="st0" d="M3.4,9.1H2.9v1.2h0.5c0.6,0,0.7-0.3,0.7-0.6C4.1,9.4,4,9.1,3.4,9.1z"/>
+              <path class="st0" d="M7.4,9.2H7.1v2.5h0.3c0.9,0,1.2-0.3,1.2-1.3C8.6,9.6,8.3,9.2,7.4,9.2z"/>
             </g>
             </svg>
             Leer más
@@ -563,26 +462,28 @@
       </li>
       <li class="list-item">
         <div class="list-featuresMedia">
-          <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="20.907px" height="20.907px" viewBox="0 0 20.907 20.907" enable-background="new 0 0 20.907 20.907" xml:space="preserve">
+          <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+             width="20.907px" height="20.907px" viewBox="0 0 20.907 20.907" enable-background="new 0 0 20.907 20.907" xml:space="preserve">
           <path fill="#0087CC" d="M19.957,0H0.95C0.418,0,0,0.428,0,0.95v19.007c0,0.532,0.428,0.95,0.95,0.95h19.007
             c0.531,0,0.95-0.428,0.95-0.95V0.95C20.916,0.418,20.488,0,19.957,0 M6.661,18.057H2.86v-3.802l3.801-3.801V18.057z M12.363,18.057
-            H8.562V6.652l3.801-3.801V18.057z M18.065,18.057h-3.802v-7.603l3.802-3.802V18.057z" />
+            H8.562V6.652l3.801-3.801V18.057z M18.065,18.057h-3.802v-7.603l3.802-3.802V18.057z"/>
           </svg>
         </div>
         <h2>Gestion del riesgo</h2>
         <p>BBVA vigila periódicamente los riesgos financieros y no financieros susceptibles de afectar al éxito de las actividades del Grupo</p>
         <p class="link-more is-left">
           <a href="#">
-            <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 15.2 20.3" style="enable-background:new 0 0 15.2 20.3;" xml:space="preserve" width="18">
+            <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+               viewBox="0 0 15.2 20.3" style="enable-background:new 0 0 15.2 20.3;" xml:space="preserve" width="18">
             <style type="text/css">
               .st0{fill-rule:evenodd;clip-rule:evenodd;fill:#2E86C8;}
             </style>
             <g>
               <path class="st0" d="M10.2,0h-3H0.5C0.2,0,0,0.2,0,0.5v19.3c0,0.3,0.2,0.5,0.5,0.5h14.2c0.3,0,0.5-0.2,0.5-0.5V5.1L10.2,0z
                  M3.4,11.3H2.9v1.4H1.7V8.2h1.7c1,0,2,0.2,2,1.5C5.3,11.1,4.3,11.3,3.4,11.3z M7.4,12.7H5.8V8.2h1.5c1.3,0,2.5,0.5,2.5,2.2
-                C9.8,12.2,8.7,12.7,7.4,12.7z M13.6,9.2h-1.9v0.8H13v1h-1.3v1.6h-1.3V8.2h3.1V9.2z" />
-              <path class="st0" d="M3.4,9.1H2.9v1.2h0.5c0.6,0,0.7-0.3,0.7-0.6C4.1,9.4,4,9.1,3.4,9.1z" />
-              <path class="st0" d="M7.4,9.2H7.1v2.5h0.3c0.9,0,1.2-0.3,1.2-1.3C8.6,9.6,8.3,9.2,7.4,9.2z" />
+                C9.8,12.2,8.7,12.7,7.4,12.7z M13.6,9.2h-1.9v0.8H13v1h-1.3v1.6h-1.3V8.2h3.1V9.2z"/>
+              <path class="st0" d="M3.4,9.1H2.9v1.2h0.5c0.6,0,0.7-0.3,0.7-0.6C4.1,9.4,4,9.1,3.4,9.1z"/>
+              <path class="st0" d="M7.4,9.2H7.1v2.5h0.3c0.9,0,1.2-0.3,1.2-1.3C8.6,9.6,8.3,9.2,7.4,9.2z"/>
             </g>
             </svg>
             Leer más
@@ -595,24 +496,3 @@
 </section>
 
 
-    <footer class="footer">
-  <div class="container">
-    <nav>
-      <ul class="footer-navigation">
-        
-      </ul>
-      <p class="footer-credits">© 2016 BBVA</p>
-    </nav>
-  </div>
-</footer>
-
-<script>
-  window.lang = 'es';
-  window.baseurl = '';
-  window.path = './';
-  window.page = "/";
-</script>
-<script src="./javascripts/main.js"></script>
-
-  </body>
-</html>

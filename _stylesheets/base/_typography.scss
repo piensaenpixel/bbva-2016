@@ -1,5 +1,5 @@
 .title-section {
-  font: 36px/1 'BentonLight';
+  font: 36px/43px 'BentonLight';
   margin-bottom: 70px;
 }
 
@@ -17,11 +17,23 @@
 
 .paragraph {
   color: $txtgrey;
-  font: 14px/22px 'BentonLight';
+  font: 15px/23px 'BentonLight';
   margin-bottom: 20px;
+  &.is-l {
+    color: $txtgrey;
+    font: 18px/25px 'BentonLight';
+  }
+  b {
+    font-family:'BentonBold';
+  }
 }
 .paragraph--big {
   margin-bottom: 70px;
+}
+
+.title-list {
+  font: 20px/24px 'BentonBook';
+  margin-bottom: 20px;
 }
 
 .subheader-section {

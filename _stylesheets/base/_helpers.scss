@@ -12,6 +12,12 @@
 .u-hcenter {
   @include justify-content(center);
 }
+.u-hend {
+  @include justify-content(flex-end);
+}
+.u-hstart {
+  @include justify-content(flex-start);
+}
 
 .u-upperCase {
   text-transform: uppercase;
