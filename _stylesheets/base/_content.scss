@@ -177,6 +177,18 @@
   @include flex-wrap(wrap);
 }
 
+.list--decoration {
+  .list-item {
+    border-bottom: 1px solid #000;
+    .paragraph {
+      @include flex(1);
+    }
+    .txt-number {
+      margin-right: 18px;
+    }
+  }
+}
+
 .list--threeItems {
   margin: 0 -15px ;
 

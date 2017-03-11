@@ -19,6 +19,9 @@
   color: $txtgrey;
   font: 15px/23px 'BentonLight';
   margin-bottom: 20px;
+  &.is-small {
+    line-height: 18px;
+  }
   &.is-l {
     color: $txtgrey;
     font: 18px/25px 'BentonLight';
@@ -124,6 +127,12 @@
 .section--blue .txt-numberDescription,
 .section--blueDark .txt-numberDescription {
   color: #0086CD;
+}
+
+.txt-more {
+  font: 12px/14px 'BentonLight';
+  margin-bottom: 8px;
+  color: $bbvablue;
 }
 
 
