@@ -5,6 +5,7 @@ title: Cliente
 lang: es
 permalink: /grupos-interes/cliente/
 submenu: grupos
+order: 0
 ---
 
 <section class="principal"  data-parallax="scroll" data-speed=".4" data-image-src="{{site.baseurl}}/images/bg-cliente.png">

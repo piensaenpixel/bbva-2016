@@ -29,6 +29,9 @@
   &.is-small {
     line-height: 18px;
   }
+  &.is-s {
+    font: 13px/18px 'BentonLight';
+  }
   &.is-l {
     color: $txtgrey;
     font: 18px/25px 'BentonLight';

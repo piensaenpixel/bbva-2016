@@ -5,6 +5,7 @@ title: Reguladores
 lang: es
 permalink: /grupos-interes/reguladores/
 submenu: grupos
+order: 4
 ---
 
 <section class="principal">

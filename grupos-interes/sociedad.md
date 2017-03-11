@@ -5,6 +5,7 @@ title: Sociedad
 lang: es
 permalink: /grupos-interes/sociedad/
 submenu: grupos
+order: 3
 ---
 
 <section class="principal">

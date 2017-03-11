@@ -5,6 +5,7 @@ title: Equipo
 lang: es
 permalink: /grupos-interes/equipo/
 submenu: grupos
+order: 2
 ---
 
 

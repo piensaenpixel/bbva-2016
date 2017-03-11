@@ -5,6 +5,7 @@ title: Proveedores
 lang: es
 permalink: /grupos-interes/proveedores/
 submenu: grupos
+order: 5
 ---
 
 <section class="principal">

@@ -55,12 +55,6 @@
     },
   
     {
-      "title"    : "Materialidad",
-      "content"  : "Materialidad inglés",
-      "url"      : "/grupos-interes/materialidad/"
-    },
-  
-    {
       "title"    : "",
       "content"  : "[{% for page in site.pages %}{&quot;title&quot;: &quot;{{ page.title | escape }}&quot;,&quot;content&quot;: &quot;{{ page.content | strip_html | strip_newlines | remove:&quot;&quot; | escape | remove: &quot;&quot;}}&quot;,&quot;url&quot;: &quot;{{ site.baseurl }}{{ page.url }}&quot;}{% unless forloop.last %},{% endunless %}{% endfor %}]",
       "url"      : "/pages.json"
