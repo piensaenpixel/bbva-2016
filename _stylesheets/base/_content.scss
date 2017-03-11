@@ -24,6 +24,9 @@
   background: #004481;
   color: $white;
 }
+.section--blueOpacity {
+  background: rgba($bbvablue, 0.84);
+}
 
 .section--piramids {
   background-color: #004481;
@@ -772,6 +775,16 @@
 
 .section-media {
   margin: 0 auto;
+  &.is-center {
+    svg, img {
+      display: block;
+      max-width: 100%;
+      margin: 0 auto;
+    }
+  }
+  &.is-space--30 {
+    margin-bottom: 30px;
+  }
 }
 .section-media--negocio {
   margin-top: -368px;
