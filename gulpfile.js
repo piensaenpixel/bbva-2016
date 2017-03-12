@@ -204,7 +204,7 @@ function adjustSearch () {
   });
 }
 
-gulp.task('wadus', () => {
+gulp.task('wadus', ['assets:build'], () => {
   gulp.src('_site/stylesheets/**/*')
     .pipe(gulp.dest('_deliver/stylesheets'));
 
@@ -234,7 +234,11 @@ gulp.task('search', () => {
 // Optimise images + copy any other assets
 gulp.task('assets', () => {
   return gulp.src('_assets/*')
-    .pipe(gulp.dest('images'))
+    .pipe(gulp.dest('_site/images'));
+});
+
+gulp.task('assets:build', () => {
+  return gulp.src('_site/images/*')
     .pipe(imagemin())
     .pipe(gulp.dest('_site/images'));
 });
