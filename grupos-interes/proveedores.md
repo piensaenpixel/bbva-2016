@@ -8,8 +8,9 @@ submenu: grupos
 order: 5
 ---
 
-<section class="principal">
-  <div class="container container--small" data-header-control>
-    <h1 class="tit-letter">Proveedores</h1>
+<section class="principal"  data-parallax="scroll" data-speed=".4" data-image-src="{{site.baseurl}}/images/bg-proveedores.png">
+  <div class="section-header section-header--strategy">
+    <h1>Proveedores</h1>
   </div>
 </section>
+

@@ -7,6 +7,11 @@
   }
 }
 
+.title-bold {
+  font: 28px/33px 'BentonBold';
+  margin-bottom: 20px;
+}
+
 .title-section--inside {
   margin-bottom: 20px;
 }
@@ -21,8 +26,15 @@
 
 .paragraph {
   color: $txtgrey;
-  font: 15px/23px 'BentonLight';
+  //font: 15px/23px 'BentonLight';
+  font: 15px/23px 'BentonBook';
   margin-bottom: 20px;
+  &.is-xs {
+    font: 11px/18px 'BentonLight';
+  }
+  &.is-book {
+    font-family: 'BentonBook';
+  }
   &.no-margin {
     margin-bottom: 4px;
   }
@@ -139,6 +151,15 @@
       font-size: 20px;
     }
   }
+  &.is-big {
+    font-size: 72px;
+    line-height: 80px;
+    small {
+      font-size: 24px;
+      line-height: 1;
+    }
+  }
+
 }
 
 .txt-numberDescription {

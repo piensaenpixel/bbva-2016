@@ -38,6 +38,12 @@
   background-size: cover;
   background-position: top center;
 }
+.section--piramids-light {
+  background-color: #2A86CA;
+  background-image: url('../images/bg-piramids-light.svg');
+  background-size: cover;
+  background-position: top center;
+}
 
 .section--header {
   @include display-flex;
@@ -880,3 +886,36 @@
     font: 12px/16px 'BentonBook';
     margin-bottom: 23px;
   }
+
+  .descriptions {
+    @include display-flex;
+    @inlude align-items(flex-start);
+    dt {
+      width: 220px;
+      margin-right: 30px;
+      min-width: 220px;
+    }
+  }
+
+  .list-decoration {
+    .list-decorationItem {
+      padding: 0 0 0 26px;
+      margin-bottom: 20px;
+      background-image: url('../images/list-decoration-grey.svg');
+      background-repeat: no-repeat;
+      background-position: top 0;
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+    &.is-dark {
+      .list-decorationItem {
+        background-image: url('../images/list-decoration-blue.svg');
+      }
+    }
+  }
+
+.list-borders .list-item {
+  border-top: 1px solid #004481;
+  padding-top: 20px;
+}
