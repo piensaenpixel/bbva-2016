@@ -40,9 +40,11 @@
         <ul class="menu">
           {% for menu in site.data.header.menu %}
             <li class="menu-item">
-              <a href="{{site.baseurl}}{{ menu.url }}">
-                {{ menu.title }}
-              </a>
+              {% if page.url == menu.url %}
+                <a href="{{site.baseurl}}{{mennu.url}}" class="active">{{menu.title}}</a>
+              {% else %}
+                <a href="{{site.baseurl}}{{menu.url}}">{{menu.title}}</a>
+              {% endif %}
             </li>
           {% endfor %}
         </ul>
@@ -65,5 +67,26 @@
 
 
   </div>
-
+{% unless page.submenu == null %}
+  <nav class="subnavigation">
+    <div class="container">
+      <ul class="menu">
+        {% assign sorted_pages = (site.pages | sort: 'order') %}
+        {% for node in sorted_pages %}
+          {% if page.submenu == node.submenu and node.hidden == nil or node.hidden == false %}
+            <li class="menu-item">
+            {% if page.url == node.url %}
+              <a href="{{site.baseurl}}{{node.url}}" class="active">{{node.title}}</a>
+            {% else %}
+              <a href="{{site.baseurl}}{{node.url}}">{{node.title}}</a>
+            {% endif %}
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+  </nav>
+{% endunless %}
 </header>
+
+

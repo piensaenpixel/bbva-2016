@@ -1,12 +1,14 @@
 ---
 body: interior
 layout: default
-title: Carta del presidente
+title: Carta del presidente2
+lang: en
+permalink: /carta-del-presidente/
 ---
 
 <section class="principal">
   <div class="container container--small" data-header-control>
-    <h1 class="tit-letter">Carta del presidente</h1>
+    <h1 class="tit-letter">Carta del presidente eningles</h1>
   </div>
   <div class="letter-image">
     <img src="{{site.baseurl}}/images/bg-francisco.png" />

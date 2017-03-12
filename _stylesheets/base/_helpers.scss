@@ -12,13 +12,29 @@
 .u-hcenter {
   @include justify-content(center);
 }
+.u-hend {
+  @include justify-content(flex-end);
+}
+.u-hstart {
+  @include justify-content(flex-start);
+}
+
+.u-alignTop {
+  @include align-items(flex-start);
+}
+.u-alignCenter {
+  @include align-items(center);
+}
 
 .u-upperCase {
   text-transform: uppercase;
 }
 
 .u-blue {
-  color: $bbvablue;
+  color: $bbvablue !important;
+}
+.u-green {
+  color: #00CCCD !important;
 }
 
 .columns {

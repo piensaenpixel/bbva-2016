@@ -58,11 +58,14 @@
   text-transform: uppercase;
 
   a {
-    color: rgba($white, .6);
+    color: rgba($white, 1);
 
     &:hover {
       @include transition(opacity, 300ms);
-      color: rgba($white, 1);
+      color: rgba($white, .6);
+    }
+    &.active {
+      color: #2A86CA;
     }
   }
 
@@ -202,6 +205,67 @@
       color: $bbvablue;
       font-family: 'BentonMedium';
       margin-right: 8px,
+    }
+  }
+}
+
+
+.tabs {
+  @include display-flex;
+  @include justify-content(space-between);
+  margin-bottom: 50px;
+  border-bottom: 1px solid #ccc;
+  &.is-blue {
+    border-bottom: 1px solid #49A5E6;
+    .tabs-item a {
+      color: #49A5E6;
+      &.is-active {
+        color: #fff;
+        border-bottom: 1px solid #fff;
+      }
+      &:hover {
+        @include transition(opacity, 300ms);
+        color: rgba(#fff, .6);
+      }
+    }
+  }
+  .tabs-item {
+    padding: 0 15px;
+    font-size: 17px;
+    line-height: 21px;
+    letter-spacing: -1px;
+    position: relative;
+    margin-bottom: -1px;
+    a {
+      color: #666666;
+      padding-bottom: 26px;
+      display: block;
+      &.is-active {
+        color: #000;
+        border-bottom: 1px solid #000;
+      }
+      &:hover {
+        @include transition(opacity, 300ms);
+        color: rgba(#666666, .6);
+      }
+    }
+  }
+}
+
+.subnavigation {
+  background: #004481;
+  padding: 20px 0;
+  margin-top: 26px;
+  margin-bottom: -26px;
+  .menu-item {
+    text-transform: none;
+    font-size: 16px;
+    font-family: 'BentonBook';
+    a {
+      color: rgba($white, 0.6);
+      &.active {
+        color: $white;
+      }
     }
   }
 }

@@ -1,20 +1,21 @@
 var $ = require('jquery');
 var _ = require('underscore');
+var URI = require('urijs');
 
 var Query = require('./query');
 var utils = require('./utils');
 
 var query = new Query();
-var baseurl = window.baseurl;
+var baseurl = window.path;
 var lang = window.lang;
 
 var filteredData;
 
 function getJsonURL () {
   if (lang === 'es') {
-    return baseurl + '/pages.json';
+    return baseurl + 'pages.json';
   } else {
-    return baseurl + '/' + lang + '/pages.json';
+    return baseurl + lang + '/pages.json';
   }
 }
 
@@ -64,12 +65,12 @@ function showResults (data, query) {
   if (hits.length > 0) {
     _.each(hits, function (result) {
       var hint = extracto(query, result);
-
-      if (lang === 'es') {
-        node = '<li><a href="' + result.url + '?s=' + query + '">' + result.title + '</a>' + hint + '</li>';
-      } else {
-        node = '<li><a href="' + lang + result.url + '?s=' + query + '">' + result.title + '</a>' + hint + '</li>';
+      var url = URI(result.url).relativeTo(window.page).toString();
+      if (url === '') {
+        url = './';
       }
+
+      node = '<li><a href="' + url + '?s=' + query + '">' + result.title + '</a>' + hint + '</li>';
       $results.append(node);
     });
   } else {

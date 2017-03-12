@@ -23,6 +23,32 @@
 }
 
 @font-face {
+    font-family: 'BentonSansBBVA-Light';
+    src: url('./fonts/BentonSansBBVA-Light.woff2') format('woff2'),
+         url('./fonts/BentonSansBBVA-Light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BentonSansBBVA-Medium';
+    src: url('./fonts/BentonSansBBVA-Book.woff2') format('woff2'),
+         url('./fonts/BentonSansBBVA-Book.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BentonSansBBVA-Bold';
+    src: url('./fonts/BentonSansBBVA-Bold.woff2') format('woff2'),
+         url('./fonts/BentonSansBBVA-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+@font-face {
     font-family: 'BentonMedium';
     src: url('./fonts/BentonSansBBVA-Medium.woff2') format('woff2'),
          url('./fonts/BentonSansBBVA-Medium.woff') format('woff');

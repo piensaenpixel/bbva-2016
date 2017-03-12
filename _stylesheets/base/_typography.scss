@@ -1,6 +1,10 @@
 .title-section {
-  font: 36px/1 'BentonLight';
+  font: 36px/43px 'BentonLight';
   margin-bottom: 70px;
+  &.is-small {
+    font-size: 24px;
+    line-height: 31px;
+  }
 }
 
 .title-section--inside {
@@ -17,11 +21,49 @@
 
 .paragraph {
   color: $txtgrey;
-  font: 14px/22px 'BentonLight';
+  font: 15px/23px 'BentonLight';
   margin-bottom: 20px;
+  &.no-margin {
+    margin-bottom: 4px;
+  }
+  &.is-small {
+    line-height: 18px;
+  }
+  &.is-s {
+    font: 13px/18px 'BentonLight';
+  }
+  &.is-l {
+    font: 18px/25px 'BentonLight';
+  }
+  &.is-xl {
+    color: #000;
+    font: 20px/27px 'BentonLight';
+  }
+  &.is-huge {
+    font: 22px/29px 'BentonLight';
+  }
+  b {
+    font-family:'BentonBold';
+  }
+  &.is-dark {
+    color: #000;
+  }
 }
+.paragraph--small {
+  margin-bottom: 10px;
+}
+
+.paragraph--medium {
+  margin-bottom: 35px;
+}
+
 .paragraph--big {
   margin-bottom: 70px;
+}
+
+.title-list {
+  font: 20px/24px 'BentonBook';
+  margin-bottom: 20px;
 }
 
 .subheader-section {
@@ -77,4 +119,53 @@
   }
 }
 
+.tabs-title {
+  font: 26px/31px 'BentonBold';
+  text-align: center;
+  margin-bottom: 10px;
+}
 
+.tabs-header {
+  margin-bottom: 40px;
+}
+
+.txt-number {
+  font: 60px/72px 'BentonLight';
+  margin-bottom: 10px;
+  &.is-small {
+    font-size: 40px;
+    line-height: 44px;
+    small {
+      font-size: 20px;
+    }
+  }
+}
+
+.txt-numberDescription {
+  font: 15px/18px 'BentonBold';
+  margin-bottom: 12px;
+  color: #666;
+}
+
+.section--blue .txt-numberDescription,
+.section--blueDark .txt-numberDescription {
+  color: #0086CD;
+}
+
+.txt-more {
+  font: 12px/14px 'BentonLight';
+  margin-bottom: 8px;
+  color: $bbvablue;
+}
+
+
+
+.txt-cite {
+  font: 32px/38px 'TiempoItalic';
+}
+
+
+.note {
+  font: 12px/14px 'BentonLight';
+  color: #666;
+}

@@ -1,0 +1,220 @@
+---
+body: interior
+layout: default
+title: Cliente
+lang: es
+permalink: /grupos-interes/cliente/
+submenu: grupos
+order: 0
+---
+
+<section class="principal"  data-parallax="scroll" data-speed=".4" data-image-src="{{site.baseurl}}/images/bg-cliente.png">
+  <div class="section-header section-header--strategy">
+    <h1>El cliente</h1>
+  </div>
+</section>
+
+<section class="section-option">
+  <div class="container container--small u-flex u-space-between">
+    <p class="download-option">
+      <a href="#">
+        <svg width="30px" height="30px" viewBox="-7 -1741 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+          <path d="M8,-1741 C-0.318181818,-1741 -7,-1734.31818 -7,-1726 C-7,-1717.68182 -0.318181818,-1711 8,-1711 C16.3181818,-1711 23,-1717.68182 23,-1726 C23,-1734.31818 16.3181818,-1741 8,-1741 Z M14.6136364,-1723.47727 L8.47727273,-1717.34091 C8.34090909,-1717.20455 8.13636364,-1717.13636 8,-1717.13636 C7.79545455,-1717.13636 7.65909091,-1717.20455 7.52272727,-1717.34091 L1.38636364,-1723.47727 C1.25,-1723.61364 1.18181818,-1723.75 1.18181818,-1723.95455 C1.18181818,-1724.15909 1.25,-1724.29545 1.38636364,-1724.43182 L2.34090909,-1725.38636 C2.61363636,-1725.65909 3.02272727,-1725.65909 3.29545455,-1725.38636 L6.02272727,-1722.65909 C6.22727273,-1722.45455 6.63636364,-1722.59091 6.63636364,-1722.93182 L6.63636364,-1734.18182 C6.63636364,-1734.59091 6.90909091,-1734.86364 7.31818182,-1734.86364 L8.68181818,-1734.86364 C9.09090909,-1734.86364 9.36363636,-1734.59091 9.36363636,-1734.18182 L9.36363636,-1722.86364 C9.36363636,-1722.59091 9.70454545,-1722.38636 9.97727273,-1722.59091 L12.7045455,-1725.31818 C12.9772727,-1725.59091 13.3863636,-1725.59091 13.6590909,-1725.31818 L14.6136364,-1724.36364 C14.75,-1724.22727 14.8181818,-1724.09091 14.8181818,-1723.88636 C14.8181818,-1723.75 14.75,-1723.61364 14.6136364,-1723.47727 Z" id="Shape" stroke="none" fill="#0085D3" fill-rule="evenodd"></path>
+        </svg>
+        Descargar capítulo
+      </a>
+    </p>
+    <ul class="share u-flex">
+      <li class="share-item">
+        <a href="#">
+          <svg width="33px" height="32px" viewBox="526 -1739 33 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <path d="M542.33408,-1739 C533.57312,-1739 526.44544,-1731.87232 526.44544,-1723.11136 C526.44544,-1714.35104 533.57312,-1707.22272 542.33408,-1707.22272 C551.0944,-1707.22272 558.22272,-1714.35104 558.22272,-1723.11136 C558.22272,-1731.87232 551.09568,-1739 542.33408,-1739 Z M549.42208,-1726.74784 C549.42912,-1726.5904 549.43296,-1726.43168 549.43296,-1726.27296 C549.43296,-1721.44032 545.75552,-1715.86976 539.0272,-1715.86976 C536.96192,-1715.86976 535.03936,-1716.47328 533.42144,-1717.51136 C533.70752,-1717.47744 533.99872,-1717.46016 534.29376,-1717.46016 C536.00768,-1717.46016 537.584,-1718.04512 538.83584,-1719.0256 C537.23584,-1719.05504 535.8848,-1720.11232 535.41952,-1721.56576 C535.64224,-1721.52352 535.872,-1721.49984 536.10688,-1721.49984 C536.44032,-1721.49984 536.76416,-1721.54336 537.07072,-1721.6272 C535.39776,-1721.96256 534.1376,-1723.44032 534.1376,-1725.21312 C534.1376,-1725.22848 534.1376,-1725.24448 534.13824,-1725.2592 C534.63104,-1724.98592 535.19488,-1724.8208 535.79392,-1724.80224 C534.81344,-1725.45696 534.16768,-1726.57696 534.16768,-1727.84544 C534.16768,-1728.51616 534.34752,-1729.14464 534.6624,-1729.6848 C536.46528,-1727.47168 539.16096,-1726.01632 542.19968,-1725.86272 C542.13696,-1726.13088 542.1056,-1726.40928 542.1056,-1726.69664 C542.1056,-1728.71584 543.74272,-1730.3536 545.76192,-1730.3536 C546.81408,-1730.3536 547.7632,-1729.90944 548.43136,-1729.19904 C549.26528,-1729.36288 550.04608,-1729.66624 550.75456,-1730.08672 C550.47936,-1729.23232 549.90144,-1728.51616 549.14432,-1728.06304 C549.8848,-1728.15136 550.59136,-1728.3472 551.2448,-1728.6384 C550.75712,-1727.90624 550.13696,-1727.26176 549.42208,-1726.74784 Z" id="Shape" stroke="none" fill="#019FFF" fill-rule="evenodd"></path>
+          </svg>
+        </a>
+      </li>
+      <li class="share-item">
+        <a href="#">
+          <svg width="32px" height="32px" viewBox="573 -1739 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <path d="M589.11136,-1739 C580.3504,-1739 573.22272,-1731.87232 573.22272,-1723.11136 C573.22272,-1714.35104 580.3504,-1707.22272 589.11136,-1707.22272 C597.87168,-1707.22272 605,-1714.35104 605,-1723.11136 C605,-1731.87232 597.87296,-1739 589.11136,-1739 Z M593.06272,-1722.552 L590.47776,-1722.552 L590.47776,-1713.33856 L586.64736,-1713.33856 L586.64736,-1722.552 L584.82656,-1722.552 L584.82656,-1725.80832 L586.64736,-1725.80832 L586.64736,-1727.91456 C586.64736,-1729.42304 587.36416,-1731.78016 590.51296,-1731.78016 L593.35136,-1731.76928 L593.35136,-1728.60832 L591.2912,-1728.60832 C590.95584,-1728.60832 590.47904,-1728.44064 590.47904,-1727.72128 L590.47904,-1725.80768 L593.39744,-1725.80768 L593.06272,-1722.552 Z" id="Shape" stroke="none" fill="#365A93" fill-rule="evenodd"></path>
+          </svg>
+        </a>
+      </li>
+      <li class="share-item">
+        <a href="#">
+          <svg width="32px" height="32px" viewBox="620 -1739 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <g id="Group" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(620.000000, -1739.000000)">
+                <path d="M15.9627397,0 C24.7422466,0 31.9254795,7.18323288 31.9254795,15.9627397 C31.9254795,24.7422466 24.7422466,31.9254795 15.9627397,31.9254795 C7.18323288,31.9254795 0,24.742137 0,15.9627397 C0,7.18334247 7.18323288,0 15.9627397,0 Z" id="Shape" fill="#DD4B39"></path>
+                <g transform="translate(6.027397, 9.643836)" id="Shape" fill="#FFFFFF">
+                    <polygon points="18.0164384 3.62509589 18.0164384 5.42093151 19.8121644 5.42093151 19.8121644 7.21676712 18.0164384 7.21676712 18.0164384 9.01260274 16.2206027 9.01260274 16.2206027 7.21676712 14.4247671 7.21676712 14.4247671 5.42093151 16.2206027 5.42093151 16.2206027 3.62509589"></polygon>
+                    <path d="M1.85413699,10.8083288 C-0.540273973,8.41391781 -0.540273973,4.22367123 1.95386301,1.82936986 C3.74969863,0.0335342466 6.34356164,-0.365479452 8.63824658,0.532383562 L9.53610959,1.03123288 L10.5338082,1.72964384 L8.93753425,3.32591781 L8.3389589,2.92690411 C6.94224658,2.0290411 4.94684932,2.22849315 3.6499726,3.52547945 C2.15342466,5.0220274 2.05369863,7.71572603 3.6499726,9.312 C5.14652055,10.908274 7.84021918,10.908274 9.23693151,9.312 C9.63594521,8.9129863 10.0350685,8.31430137 10.1347945,7.71572603 L10.1347945,7.51616438 L6.54323288,7.51616438 L6.54323288,5.52087671 L12.2299178,5.52087671 L12.3296438,6.01972603 L12.3296438,7.41643836 C12.2299178,8.71342466 11.7310685,10.010411 10.8330959,10.908274 C8.43879452,13.2027397 4.24854795,13.2027397 1.85413699,10.8083288 Z"></path>
+                </g>
+            </g>
+          </svg>
+        </a>
+      </li>
+      <li class="share-item">
+        <a href="#">
+          <svg width="32px" height="32px" viewBox="667 -1739 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <path d="M683,-1739 C674.163608,-1739 667,-1731.83639 667,-1723 C667,-1714.16366 674.163608,-1707 683,-1707 C691.83634,-1707 699,-1714.16366 699,-1723 C699,-1731.83639 691.83634,-1739 683,-1739 Z M684.472,-1718.15493 C683.289464,-1718.15493 682.176732,-1718.808 681.794196,-1719.54986 C681.794196,-1719.54986 681.158536,-1716.97239 681.023268,-1716.47493 C680.79634,-1715.6342 680.358536,-1714.79488 679.95268,-1714.13014 C679.373804,-1713.3738 678.706144,-1713.93522 678.626144,-1714.62473 C678.6,-1715.39273 678.627608,-1716.3018 678.818144,-1717.12941 C679.029072,-1718.03702 680.227608,-1723.22541 680.227608,-1723.22541 C680.227608,-1723.22541 679.877072,-1723.93961 679.877072,-1724.99561 C679.877072,-1726.6538 680.818196,-1727.89161 681.990536,-1727.89161 C682.986876,-1727.89161 683.46834,-1727.12648 683.46834,-1726.21161 C683.46834,-1725.18907 682.829804,-1723.65888 682.501072,-1722.24214 C682.226144,-1721.05522 683.08434,-1720.08795 684.230536,-1720.08795 C686.306144,-1720.08795 687.705464,-1722.81088 687.705464,-1726.03561 C687.705464,-1728.48795 686.087948,-1730.32214 683.145464,-1730.32214 C679.821804,-1730.32214 677.750536,-1727.79127 677.750536,-1724.96507 C677.750536,-1723.99054 678.031268,-1723.30254 678.473464,-1722.77161 C678.67566,-1722.52722 678.704732,-1722.42834 678.630536,-1722.14756 C678.578196,-1721.94102 678.457464,-1721.44648 678.408,-1721.25014 C678.335268,-1720.96648 678.109804,-1720.86609 677.859608,-1720.97082 C676.328,-1721.60941 675.615268,-1723.32141 675.615268,-1725.24429 C675.615268,-1728.42248 678.240732,-1732.23341 683.446536,-1732.23341 C687.629804,-1732.23341 690.383268,-1729.14248 690.383268,-1725.82468 C690.38468,-1721.43346 687.994876,-1718.15493 684.472,-1718.15493 Z" id="Shape" stroke="none" fill="#BF0000" fill-rule="evenodd"></path>
+          </svg>
+        </a>
+      </li>
+      <li class="share-item">
+        <a href="#">
+          <svg width="32px" height="32px" viewBox="713 -1739 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <path d="M728.88864,-1739 C720.12768,-1739 713,-1731.87232 713,-1723.11136 C713,-1714.35104 720.12768,-1707.22272 728.88864,-1707.22272 C737.64896,-1707.22272 744.77728,-1714.35104 744.77728,-1723.11136 C744.77728,-1731.87232 737.65024,-1739 728.88864,-1739 Z M724.23264,-1728.90272 C723.35712,-1728.90272 722.78368,-1728.328 722.78368,-1727.57152 C722.78368,-1726.83232 723.33984,-1726.24032 724.19872,-1726.24032 L724.21536,-1726.24032 C725.1088,-1726.24032 725.66496,-1726.83232 725.66496,-1727.57152 C725.64768,-1728.32736 725.10944,-1728.90272 724.23264,-1728.90272 Z M722.93472,-1725.18752 L725.496,-1725.18752 L725.496,-1717.48128 L722.93472,-1717.48128 L722.93472,-1725.18752 Z M731.784,-1725.36928 C730.424,-1725.36928 729.81664,-1724.62176 729.4768,-1724.09696 L729.4768,-1725.18752 L726.91552,-1725.18752 C726.9488,-1724.4656 726.91552,-1717.48128 726.91552,-1717.48128 L729.4768,-1717.48128 L729.4768,-1721.78656 C729.4768,-1722.01632 729.49152,-1722.24736 729.56064,-1722.41184 C729.74624,-1722.87264 730.16736,-1723.34944 730.8752,-1723.34944 C731.80192,-1723.34944 732.17248,-1722.64288 732.17248,-1721.60608 L732.17248,-1717.4832 L734.73376,-1717.4832 L734.7344,-1717.4832 L734.7344,-1721.9024 C734.73312,-1724.26784 733.46912,-1725.36928 731.784,-1725.36928 Z" id="Combined-Shape" stroke="none" fill="#0077B7" fill-rule="evenodd"></path>
+          </svg>
+        </a>
+      </li>
+    </ul>
+  </div>
+</section>
+
+<section class="section section--blue section--piramids">
+  <div class="container container--small">
+    <h2 class="txt-cite u-txt-center">En BBVA estamos acelerando nuestra transformación para ser un mejor banco para nuestros clientes</h2>
+  </div>
+</section>
+<section class="section section--client">
+  <div class="container container--small">
+    <h2 class="u-txt-center title-section title-section--inside">Para ello ponemos al cliente en el<br/>centro de nuestra estrategia</h2>
+    <p class="paragraph is-huge u-txt-center paragraph--big">El diseño de experiencias, la tecnología y el negocio<br/>puestos al servicio del cliente</p>
+  </div>
+</section>
+
+<section class="section section--grey">
+  <div class="container container--small">
+    <div class="section-media section-media--negocio">
+      <a href="#">
+        <img src="{{site.baseurl}}/images/negocio-graphic.png" />
+      </a>
+    </div>
+
+    <h2 class="paragraph is-huge u-txt-center paragraph--big is-dark">Queremos ayudar al cliente a tomar decisiones informadas, por lo que es fundamental una <b>comunicación transparente, clara y responsable</b> (TCR)</h2>
+
+    <ul class="list list--twoItems">
+      <li class="list-item">
+        <div class="list-media is-mini is-left f-26">
+          <svg width="22px" height="20px" viewBox="409 155 22 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+              <path d="M416.032,158.7181 L423.062,158.7181 L423.062,156.9601 L416.032,156.9601 L416.032,158.7181 Z M417.788,163.9911 L412.516,163.9911 L412.516,162.2331 L419.546,162.2331 L417.788,163.9911 Z M429.212,158.7181 L424.819,158.7181 L424.819,156.0841 C424.819,155.5871 424.424,155.2021 423.939,155.2021 L415.154,155.2021 C414.673,155.2021 414.273,155.5971 414.273,156.0841 L414.273,158.7181 L409.879,158.7181 C409.394,158.7181 409,159.1091 409,159.5901 L409,173.6631 C409,174.1451 409.395,174.5361 409.879,174.5361 L429.212,174.5361 C429.698,174.5361 430.092,174.1451 430.092,173.6631 L430.092,159.5901 C430.092,159.1091 429.698,158.7181 429.212,158.7181 L429.212,158.7181 Z" id="Fill-1" stroke="none" fill="#2A86CA" fill-rule="evenodd"></path>
+          </svg>
+        </div>
+
+        <h3 class="paragraph is-dark"><b>Para transformar el negocio tradicional:</b></h3>
+        <p class="paragraph">Fichas de producto y contratos TCR en todas las geografías.</p>
+        <p class="paragraph">Mejoras en la gestión de ventas telefónicas.</p>
+      </li>
+      <li class="list-item">
+        <div class="list-media is-mini is-left f-26">
+          <svg width="22px" height="26px" viewBox="814 149 22 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+              <g id="Group" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(814.000000, 150.000000)">
+                  <path d="M8.5176,23.5139 C7.9536,23.5139 7.4956,23.0599 7.4956,22.4919 C7.4956,21.9269 7.9496,21.4689 8.5176,21.4689 C9.0816,21.4689 9.5386,21.9229 9.5386,22.4919 C9.5386,23.0559 9.0856,23.5139 8.5176,23.5139 L8.5176,23.5139 Z M14.6176,18.4019 L14.6176,20.4469 L2.3496,20.4469 L2.3496,2.0439 L14.6176,2.0439 L14.6176,4.0889 L16.6626,4.0889 L16.6626,1.0229 C16.6626,0.4569 16.2386,-0.0001 15.6726,-0.0001 L1.3616,-0.0001 C0.7926,-0.0001 0.3046,0.4569 0.3046,1.0229 L0.3046,23.5129 C0.3046,24.0779 0.7956,24.5359 1.3616,24.5359 L15.6726,24.5359 C16.2416,24.5359 16.6626,24.0779 16.6626,23.5129 L16.6626,18.4019 L14.6176,18.4019 Z" id="Fill-3" fill="#2A86CA"></path>
+                  <path d="M21.1592,6.1336 L8.0752,6.1336 C7.7332,6.1336 7.4612,6.4066 7.4612,6.7426 L7.4612,8.1786 L19.7292,8.1786 L17.6852,10.2236 L7.4612,10.2236 L7.4612,15.7486 C7.4612,16.0846 7.7362,16.3576 8.0752,16.3576 L21.1592,16.3576 C21.5012,16.3576 21.7742,16.0846 21.7742,15.7486 L21.7742,6.7426 C21.7742,6.4076 21.4992,6.1336 21.1592,6.1336" id="Fill-4" fill="#2A86CA"></path>
+              </g>
+          </svg>
+        </div>
+        <h3 class="paragraph is-dark"><b>Para avanzar en nuestro proceso de transformación (TCR en la banca digital):</b></h3>
+        <p class="paragraph">TCR en los nuevos equipos de trabajo agile.</p>
+      </li>
+    </ul>
+
+    <p class="link-more">
+      <a href="#">
+        <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+           viewBox="0 0 15.2 20.3" style="enable-background:new 0 0 15.2 20.3;" xml:space="preserve" width="18">
+        <style type="text/css">
+          .st0{fill-rule:evenodd;clip-rule:evenodd;fill:#2E86C8;}
+        </style>
+        <g>
+          <path class="st0" d="M10.2,0h-3H0.5C0.2,0,0,0.2,0,0.5v19.3c0,0.3,0.2,0.5,0.5,0.5h14.2c0.3,0,0.5-0.2,0.5-0.5V5.1L10.2,0z
+             M3.4,11.3H2.9v1.4H1.7V8.2h1.7c1,0,2,0.2,2,1.5C5.3,11.1,4.3,11.3,3.4,11.3z M7.4,12.7H5.8V8.2h1.5c1.3,0,2.5,0.5,2.5,2.2
+            C9.8,12.2,8.7,12.7,7.4,12.7z M13.6,9.2h-1.9v0.8H13v1h-1.3v1.6h-1.3V8.2h3.1V9.2z"/>
+          <path class="st0" d="M3.4,9.1H2.9v1.2h0.5c0.6,0,0.7-0.3,0.7-0.6C4.1,9.4,4,9.1,3.4,9.1z"/>
+          <path class="st0" d="M7.4,9.2H7.1v2.5h0.3c0.9,0,1.2-0.3,1.2-1.3C8.6,9.6,8.3,9.2,7.4,9.2z"/>
+        </g>
+        </svg>
+        Leer más
+      </a>
+    </p>
+
+  </div>
+</section>
+
+
+<section class="section">
+  <div class="container container--small">
+    <h2 class="u-txt-center title-section is-small title-section--inside">Nuestro objetivo es ser líderes en satisfacción de la clientela en todas las geografías en las que operamos</h2>
+    <p class="paragraph is-l u-txt-center paragraph--big u-blue u-upperCase"><b>Primer Banco en índice NPS en 7 geografías</b></p>
+    <div class="section-media">
+        <img src="{{site.baseurl}}/images/map-cliente.svg" />
+    </div>
+  </div>
+</section>
+
+
+<section class="section section--blue section--piramids">
+  <div class="container container--small">
+    <h2 class="u-txt-center title-section title-section--inside">Nuevas soluciones adaptadas al cliente</h2>
+    <p class="paragraph is-l u-txt-center paragraph--big">Principales avances en 2016</p>
+    <ul class="list list--twoItems u-txt-center">
+      <li class="list-item">
+        <ul class="list-solutions">
+          <li>
+            <h3 class="list-solutionsTitle"><b>Alta digital</b></h3>
+            <p class="list-solutionsCountry">ESPAÑA</p>
+          </li>
+          <li>
+            <h3 class="list-solutionsTitle"><b>BBVA Valora</b></h3>
+            <p class="list-solutionsCountry">ESPAÑA</p>
+          </li>
+          <li>
+            <h3 class="list-solutionsTitle"><b>Commerce 360º</b></h3>
+            <p class="list-solutionsCountry">ESPAÑA</p>
+          </li>
+          <li>
+            <h3 class="list-solutionsTitle"><b>Pagos y transferencias fáciles</b></h3>
+            <p class="list-solutionsCountry">ESTADOS UNIDOS</p>
+          </li>
+        </ul>
+      </li>
+      <li class="list-item">
+        <ul class="list-solutions">
+          <li>
+            <h3 class="list-solutionsTitle"><b>STEP: Plataforma de modelo de<br/>relación basado en el uso de la Tablet</b></h3>
+            <p class="list-solutionsCountry">TURQUÍA</p>
+          </li>
+          <li>
+            <h3 class="list-solutionsTitle"><b>Crédito Auto Digital</b></h3>
+            <p class="list-solutionsCountry">México</p>
+          </li>
+          <li>
+            <h3 class="list-solutionsTitle"><b>Francés Go</b></h3>
+            <p class="list-solutionsCountry">Argentina</p>
+          </li>
+          <li>
+            <h3 class="list-solutionsTitle"><b>Préstamos One-Click</b></h3>
+            <p class="list-solutionsCountry">España, América del Sur, Estados Unidos, México y Turquía</p>
+          </li>
+        </ul>
+
+      </li>
+    </ul>
+
+
+
+    <p class="link-more is-white">
+      <a href="#">
+        <svg version="1.1" width="20" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 15.2 20.3" xml:space="preserve">
+          <g>
+            <path fill="#FFF" d="M10.2,0h-3H0.5C0.2,0,0,0.2,0,0.5v19.3c0,0.3,0.2,0.5,0.5,0.5h14.2c0.3,0,0.5-0.2,0.5-0.5V5.1L10.2,0z
+               M3.4,11.3H2.9v1.4H1.7V8.2h1.7c1,0,2,0.2,2,1.5C5.3,11.1,4.3,11.3,3.4,11.3z M7.4,12.7H5.8V8.2h1.5c1.3,0,2.5,0.5,2.5,2.2
+              C9.8,12.2,8.7,12.7,7.4,12.7z M13.6,9.2h-1.9v0.8H13v1h-1.3v1.6h-1.3V8.2h3.1V9.2z"/>
+            <path class="#FFF" d="M3.4,9.1H2.9v1.2h0.5c0.6,0,0.7-0.3,0.7-0.6C4.1,9.4,4,9.1,3.4,9.1z"/>
+            <path class="#FFF" d="M7.4,9.2H7.1v2.5h0.3c0.9,0,1.2-0.3,1.2-1.3C8.6,9.6,8.3,9.2,7.4,9.2z"/>
+          </g>
+          </svg>
+          Leer más
+      </a>
+    </p>
+  </div>
+</section>
