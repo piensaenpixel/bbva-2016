@@ -22,10 +22,10 @@
     "webpack-stream": "^3.2.0"
   },
   "dependencies": {
+    "basiclightbox": "^3.0.2",
     "jquery": "^3.1.1",
     "jquery-parallax.js": "^1.4.3",
     "scrollmonitor": "^1.2.3",
-    "swipebox": "git://github.com/nobuti/swipebox.git#master",
     "underscore": "^1.8.3",
     "urijs": "^1.18.9"
   }

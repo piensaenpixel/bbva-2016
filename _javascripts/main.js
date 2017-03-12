@@ -1,8 +1,7 @@
 var $ = require('jquery');
-window.jQuery = $;
+window.jQuery = window.$ = $;
 
 require('jquery-parallax.js');
-require('swipebox');
 
 $(function () {
   // Revamp plugin again
@@ -15,4 +14,6 @@ $(function () {
   require('./components/scroll-observer').init();
   require('./components/header').init();
   require('./components/tabs').init();
+  require('./components/lightbox').init();
+  require('./components/modals').init();
 });
