@@ -3,6 +3,7 @@ git checkout site
 git merge master
 rm -rf _site/
 bundle exec jekyll build --baseurl /bbva-2016
+gulp search
 gulp assets:build
 git add --all
 git commit -m "`date`"
