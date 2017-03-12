@@ -14,4 +14,5 @@ $(function () {
   require('./components/search').init();
   require('./components/scroll-observer').init();
   require('./components/header').init();
+  require('./components/tabs').init();
 });
