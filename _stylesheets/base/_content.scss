@@ -71,6 +71,8 @@
 
 .section--pilares {
   position: relative;
+  background: transparent;
+
   &:before {
     content: '';
     position: absolute;
