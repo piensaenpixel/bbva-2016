@@ -33,7 +33,6 @@
     font: 13px/18px 'BentonLight';
   }
   &.is-l {
-    color: $txtgrey;
     font: 18px/25px 'BentonLight';
   }
   &.is-xl {
@@ -50,6 +49,10 @@
     color: #000;
   }
 }
+.paragraph--small {
+  margin-bottom: 10px;
+}
+
 .paragraph--medium {
   margin-bottom: 35px;
 }
@@ -161,3 +164,8 @@
   font: 32px/38px 'TiempoItalic';
 }
 
+
+.note {
+  font: 12px/14px 'BentonLight';
+  color: #666;
+}
