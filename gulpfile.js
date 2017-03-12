@@ -238,7 +238,7 @@ gulp.task('assets', () => {
 });
 
 gulp.task('assets:build', () => {
-  return gulp.src('_site/images/*')
+  return gulp.src('images/*')
     .pipe(imagemin())
     .pipe(gulp.dest('_site/images'));
 });
