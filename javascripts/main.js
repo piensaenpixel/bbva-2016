@@ -60,6 +60,7 @@
 	  __webpack_require__(8).init();
 	  __webpack_require__(17).init();
 	  __webpack_require__(19).init();
+	  __webpack_require__(20).init();
 	});
 
 
@@ -16885,6 +16886,38 @@
 	  $( ".search" ).removeClass('is-active');
 	  $( ".header" ).removeClass('is-search');
 	});
+
+
+/***/ },
+/* 20 */
+/***/ function(module, exports, __webpack_require__) {
+
+	var $ = __webpack_require__(1);
+
+	module.exports = {
+	  init: function () {
+	    var tabs = $('ul.tabs');
+
+	    tabs.each(function (i) {
+	      var tab = $(this).find('> li > a');
+	      tab.on('click', function (e) {
+	        var contentLocation = $(this).attr('href');
+	        if (contentLocation && contentLocation.charAt(0) === '#' && contentLocation.length > 1) {
+	          e.preventDefault();
+	          tab.removeClass('is-active');
+	          $(this).addClass('is-active');
+
+	          var target = $(contentLocation);
+	          if (target.length > 0) {
+	            target.show().addClass('is-active').siblings().hide().removeClass('is-active');
+	          }
+	        }
+	      });
+
+	      tab.first().trigger('click');
+	    });
+	  }
+	};
 
 
 /***/ }
