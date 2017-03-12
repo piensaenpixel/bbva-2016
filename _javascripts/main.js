@@ -15,4 +15,5 @@ $(function () {
   require('./components/header').init();
   require('./components/tabs').init();
   require('./components/lightbox').init();
+  require('./components/modals').init();
 });
