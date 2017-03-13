@@ -7,6 +7,7 @@ permalink: /grupos-interes/proveedores/
 submenu: grupos
 pdf: grupos_interes/proveedores.pdf
 order: 5
+headerTitle: Informe anual BBVA 2016
 ---
 
 <section class="principal"  data-parallax="scroll" data-speed=".4" data-image-src="{{site.baseurl}}/images/bg-proveedores.png">

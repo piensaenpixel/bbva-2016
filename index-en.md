@@ -3,6 +3,7 @@ layout: home
 title: Home
 lang: en
 permalink: /
+headerTitle: Report BBVA 2016
 ---
 
 <section class="section section--header" data-parallax="scroll" data-value="principal" data-speed=".4" data-image-src="{{site.baseurl}}/images/header-background.png" data-z-index="1">

@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Home
+headerTitle: Informe anual BBVA 2016
 ---
 <section class="section section--header" data-parallax="scroll" data-value="principal" data-speed=".4" data-image-src="images/header-background.png" data-z-index="1">
   <div class="container u-txt-center" data-header-control>

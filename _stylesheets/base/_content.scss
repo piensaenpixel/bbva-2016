@@ -189,6 +189,7 @@
     line-height: 1;
     margin-bottom: 40px;
     font-family: 'TiempoItalic';
+    font-style: italic;
   }
   p {
     font: 18px 'BentonLight';
@@ -447,6 +448,7 @@
   h3 {
     font: 36px/50px 'TiempoItalic';
     margin: 44px 0 54px;
+    font-style: italic;
   }
 
   p {
@@ -677,6 +679,7 @@
 .blockquote {
   font: 30px/1.2 'TiempoItalic';
   padding: 70px 150px 50px 40px;
+  font-style: italic;
   background: $lightgrey;
   margin: 65px 0 55px;
   position: relative;
@@ -923,11 +926,11 @@
 
   .list-decoration {
     .list-decorationItem {
-      padding: 0 0 0 26px;
+      padding: 0 0 0 20px;
       margin-bottom: 20px;
       background-image: url('../images/list-decoration-grey.svg');
       background-repeat: no-repeat;
-      background-position: top 0;
+      background-position: 0 3px;
       &:last-child {
         margin-bottom: 0;
       }

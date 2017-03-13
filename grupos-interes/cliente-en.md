@@ -7,6 +7,7 @@ permalink: /grupos-interes/cliente/
 submenu: grupos
 order: 0
 pdf: grupos_interes/cliente.pdf
+headerTitle: Report BBVA 2016
 ---
 
 <section class="principal"  data-parallax="scroll" data-speed=".4" data-image-src="{{site.baseurl}}/images/bg-cliente.png">

@@ -7,6 +7,7 @@ permalink: /grupos-interes/reguladores/
 submenu: grupos
 pdf: grupos_interes/supervisores.pdf
 order: 4
+headerTitle: Report BBVA 2016
 ---
 
 <section class="principal"  data-parallax="scroll" data-speed=".4" data-image-src="{{site.baseurl}}/images/bg-reguladores.png">

@@ -5,6 +5,7 @@ title: Estrategia
 lang: es
 permalink: /estrategia/
 pdf: estrategia.pdf
+headerTitle: Informe anual BBVA 2016
 ---
 
 <section class="principal"  data-parallax="scroll" data-speed=".4" data-image-src="{{site.baseurl}}/images/background-estrategia.png">

@@ -7,6 +7,7 @@ permalink: /grupos-interes/equipo/
 submenu: grupos
 pdf: grupos_interes/equipo.pdf
 order: 2
+headerTitle: Report BBVA 2016
 ---
 
 <section class="principal"  data-parallax="scroll" data-speed=".4" data-image-src="{{site.baseurl}}/images/bg-equipo.png">
