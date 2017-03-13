@@ -4,6 +4,7 @@ layout: default
 title: Desempeño
 lang: es
 permalink: /desempeno-en-2016/
+pdf: desempeno/desempeno.pdf
 ---
 
 <section class="principal"  data-parallax="scroll" data-speed=".4" data-image-src="{{site.baseurl}}/images/background-desempeno.png">
@@ -18,7 +19,7 @@ permalink: /desempeno-en-2016/
 <section class="section-option">
   <div class="container container--small u-flex u-space-between">
     <p class="download-option">
-      <a href="#">
+      <a href="{{site.baseurl}}/downloads/{{ page.pdf }}">
         <svg width="30px" height="30px" viewBox="-7 -1741 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
           <path d="M8,-1741 C-0.318181818,-1741 -7,-1734.31818 -7,-1726 C-7,-1717.68182 -0.318181818,-1711 8,-1711 C16.3181818,-1711 23,-1717.68182 23,-1726 C23,-1734.31818 16.3181818,-1741 8,-1741 Z M14.6136364,-1723.47727 L8.47727273,-1717.34091 C8.34090909,-1717.20455 8.13636364,-1717.13636 8,-1717.13636 C7.79545455,-1717.13636 7.65909091,-1717.20455 7.52272727,-1717.34091 L1.38636364,-1723.47727 C1.25,-1723.61364 1.18181818,-1723.75 1.18181818,-1723.95455 C1.18181818,-1724.15909 1.25,-1724.29545 1.38636364,-1724.43182 L2.34090909,-1725.38636 C2.61363636,-1725.65909 3.02272727,-1725.65909 3.29545455,-1725.38636 L6.02272727,-1722.65909 C6.22727273,-1722.45455 6.63636364,-1722.59091 6.63636364,-1722.93182 L6.63636364,-1734.18182 C6.63636364,-1734.59091 6.90909091,-1734.86364 7.31818182,-1734.86364 L8.68181818,-1734.86364 C9.09090909,-1734.86364 9.36363636,-1734.59091 9.36363636,-1734.18182 L9.36363636,-1722.86364 C9.36363636,-1722.59091 9.70454545,-1722.38636 9.97727273,-1722.59091 L12.7045455,-1725.31818 C12.9772727,-1725.59091 13.3863636,-1725.59091 13.6590909,-1725.31818 L14.6136364,-1724.36364 C14.75,-1724.22727 14.8181818,-1724.09091 14.8181818,-1723.88636 C14.8181818,-1723.75 14.75,-1723.61364 14.6136364,-1723.47727 Z" id="Shape" stroke="none" fill="#0085D3" fill-rule="evenodd"></path>
         </svg>
@@ -131,10 +132,14 @@ permalink: /desempeno-en-2016/
     <h2 class="title-section title-section--inside u-txt-center">Impacto en las personas</h2>
     <p class="paragraph paragraph--big">Además de su papel como banco, BBVA tiene el Propósito de poner al alcance de todos las oportunidades de esta nueva era y la aspiración de afianzar la relación con sus clientes. Ayudamos a las personas y a las empresas a tomar las mejores decisiones financieras, ofreciéndoles un asesoramiento y una información transparentes, claros y responsables. Y ello porque consideramos que somos más que un banco; somos creadores  de oportunidades. De este modo, nuestro Propósito y nuestra aspiración tienen un impacto positivo en la vida de las personas. <strong>BBVA, Creando oportunidades.</strong></p>
     <ul class="tabs">
-      <li class="tabs-item"><a href="#riqueza" class="is-active">Riqueza</a></li>
-      <li class="tabs-item"><a href="#desarrollo">Desarrollo y bienestar social</a></li>
-      <li class="tabs-item"><a href="#aportacion">Aportación a la sociedad</a></li>
-      <li class="tabs-item"><a href="#sostenible">Desarrollo sostenible</a></li>
+      <li class="tabs-item"><a href="#riqueza" class="is-active">Genereción
+de riqueza</a></li>
+      <li class="tabs-item"><a href="#desarrollo">Contribución al crecimiento
+y bienestar social</a></li>
+      <li class="tabs-item"><a href="#aportacion">Aportación
+a la sociedad</a></li>
+      <li class="tabs-item"><a href="#sostenible">Desarrollo 
+sostenible</a></li>
     </ul>
     <div class="tabs-container">
       <div class="tabs-item" id="riqueza">
@@ -149,8 +154,9 @@ permalink: /desempeno-en-2016/
                 </g>
               </svg>
             </div>
-            <h4 class="txt-number is-small">934.244</h4>
-            <p class="paragraph"><b>accionistas particulares</b> que recibieron xx de  remuneración en efectivo</p>
+            <h4 class="txt-number is-small">935.284</h4>
+            <p class="paragraph"><b>accionistas</b> que recibieron
+1.043 Mill. € de remuneración en efectivo</p>
           </li>
           <li class="list-item">
             <div class="list-media is-small">
@@ -160,8 +166,8 @@ permalink: /desempeno-en-2016/
                 </g>
               </svg>
             </div>
-            <h4 class="txt-number is-small">137.968</h4>
-            <p class="paragraph"><b>empleados</b> que percibieron xx en sueldos y salarios</p>
+            <h4 class="txt-number is-small">134.792</h4>
+            <p class="paragraph"><b>empleados</b> que percibieron 5.267 Mill. € en sueldos y salarios</p>
           </li>
           <li class="list-item">
             <div class="list-media is-small">
@@ -171,8 +177,8 @@ permalink: /desempeno-en-2016/
                   </g>
               </svg>
             </div>
-            <h4 class="txt-number is-small">11.363</h4>
-            <p class="paragraph"><b>horas de formación</b> al año por empleado con una inversión de xx euros</p>
+            <h4 class="txt-number is-small">39</h4>
+            <p class="paragraph"><b>horas de formación</b> al año por empleado con una inversión de 45,5 Mill. €</p>
           </li>
           <li class="list-item">
             <div class="list-media is-small">
@@ -182,8 +188,8 @@ permalink: /desempeno-en-2016/
                   </g>
               </svg>
             </div>
-            <h4 class="txt-number is-small">4.598</h4>
-            <p class="paragraph"><b>proveedores</b> que facturaron xx</p>
+            <h4 class="txt-number is-small">4.240</h4>
+            <p class="paragraph"><b>proveedores</b> que facturaron 7.751 Mill. €</p>
           </li>
           <li class="list-item">
             <div class="list-media is-small">
@@ -194,7 +200,7 @@ permalink: /desempeno-en-2016/
                   </g>
               </svg>
             </div>
-            <h4 class="txt-number is-small">8.157 <small>M€</small></h4>
+            <h4 class="txt-number is-small">9.440 <small>M€</small></h4>
             <p class="paragraph"><b>de impuestos devengados</b> y recaudados por la actividad de BBVA</p>
           </li>
           <li class="list-item">
@@ -207,8 +213,8 @@ permalink: /desempeno-en-2016/
                   </g>
               </svg>
             </div>
-            <h4 class="txt-number is-small">22.246  <small>M€</small></h4>
-            <p class="paragraph"><b>valor económico generado</b>, supone el 0,5% del PIB de las economías en las que opera</p>
+            <h4 class="txt-number is-small">24.692 <small>M€</small></h4>
+            <p class="paragraph">de <b>valor económico generado</b>, que representa el 0,5% del PIB de las economías en las que opera</p>
           </li>
         </ul>
       </div>
@@ -233,7 +239,8 @@ permalink: /desempeno-en-2016/
           </li>
           <li class="list-item">
             <h4 class="txt-number is-small">9,8 <span>Millones</span></h4>
-            <p class="paragraph is-small">de personas favorecidas por la inclusión financiera</p>
+            <p class="paragraph is-small">de personas favorecidas por
+la inclusión fnanciera</p>
           </li>
           <li class="list-item">
             <h4 class="txt-number is-small">1,8 <span>Millones</span></h4>
