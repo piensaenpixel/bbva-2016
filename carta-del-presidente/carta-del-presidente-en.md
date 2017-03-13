@@ -8,7 +8,7 @@ permalink: /carta-del-presidente/
 
 <section class="principal">
   <div class="container container--small" data-header-control>
-    <h1 class="tit-letter">Carta del presidente</h1>
+    <h1 class="tit-letter">Letter from the Group Executive Chairman</h1>
   </div>
   <div class="letter-image">
     <img src="{{site.baseurl}}/images/bg-francisco.png" />
@@ -33,64 +33,114 @@ permalink: /carta-del-presidente/
 
 <section class="section section--small">
   <div class="container container--small letter-txt">
-    <p>Estimada/o accionista:</p>
+    <p>Dear Shareholder,</p>
 
-    <p>En 2016 la economía mundial creció un 3,0%, algo menos que en 2015. El entorno macroeconómico estuvo afectado por una elevada volatilidad de los mercados financieros, fundamentalmente durante el primer trimestre del año, con fuertes caídas de los precios de las materias primas e incertidumbres sobre las economías de Estados Unidos y de China. A lo largo del ejercicio se produjo una recuperación lenta que estuvo marcada por la materialización de escenarios políticos inesperados, las depreciaciones cambiarias en algunos países emergentes y las tensiones geopolíticas en Oriente Medio.</p>
+    <p>In 2016, the global economy grew by 3.0%, somewhat below the 2015 figure. The macroeconomic environment was affected by high levels of volatility in the financial markets, mainly in the first quarter of the year, with major falls in commodity prices and uncertainty regarding the U.S. and Chinese economies. Recovery was slow over the year and shaped by unexpected political events, depreciation in some emerging countries and geopolitical tension in the Middle East.</p>
 
-    <p>Las economías emergentes, en su conjunto, registraron un crecimiento del 4% frente al 4,1% de 2015; y en las desarrolladas, el crecimiento disminuyó al 1,6% frente al 2,2% de 2015, debido en gran medida a la desaceleración de Estados Unidos. </p>
+    <p>Overall, the emerging economies recorded growth of 4.0%, compared with 4.1% in
+2015. Growth in developed economies declined to 1.6% from 2.2% in 2015, due largely
+to the slowdown in the United States. </p>
 
 
     <blockquote class="blockquote">
-     El beneficio atribuido de BBVA ascendió a 3.475 millones de euros, la cifra más alta desde 2010, lo que supone un crecimiento interanual de casi el 32% en euros corrientes y del 61% en euros constantes
+      BBVA's net attributable profit amounted to €3,475m, the highest
+figure since 2010, a year-on-year increase of nearly 32% in current euros
+and 61% in constant euros. 
     </blockquote>
 
 
     <p>En este contexto, el beneficio atribuido de BBVA ascendió a 3.475 millones de euros, la cifra más alta desde 2010, lo que supone un crecimiento interanual de casi el 32% en euros corrientes y del 61% en euros constantes; esto es, sin tener en cuenta las variaciones del tipo de cambio. BBVA alcanzó estos resultados gracias al avance de los ingresos, al control de gastos y a la disminución de los saneamientos.</p>
 
-    <p>Durante 2016 también mejoraron los principales indicadores de riesgo del Grupo. La tasa de cobertura se mantuvo en niveles elevados, la tasa de mora descendió hasta el 4,9% y el coste de riesgo retrocedió 22 puntos básicos hasta el 0,84%.</p>
+    <p>Against this backdrop, BBVA's net attributable profit amounted to €3,475m, the highest
+figure since 2010, a year-on-year increase of nearly 32% in current euros and 61% in
+constant euros (i.e. not including exchange-rate variations). BBVA achieved these results
+thanks to improved revenues, cost control and lower loan-loss provisions. </p>
 
-    <p>En cuanto al capital, BBVA finalizó el ejercicio con una posición muy sólida, con un ratio de capital CET1 <i>fully-loaded</i> del 10,9%, muy por encima de los niveles de capital exigidos por el regulador y con un incremento de 58 puntos básicos sobre el cierre de 2015.</p>
+    <p>The Group's main risk indicators also improved in 2016. The NPL coverage ratio
+remained high, the NPL ratio fell to 4.9% and the cost of risk declined by 22 basis points
+to 0.84%. </p>
+
+<p>BBVA closed the year with a very sound capital position, with a fully-loaded CET1 capital
+ratio of 10.9%, far higher than the levels required by the regulator, and an increase of 58
+basis points on the figure at the close of 2015.</p>
 
 
     <blockquote class="blockquote">
-     Todos estos años hemos gestionado las dificultades que se presentaban en el corto plazo sin perder el foco en el medio y largo plazo. Nos hemos enfrentado a todos los retos encontrados en el camino, sin desviarnos de nuestro gran proyecto: la transformación de BBVA
+     Over the years we have managed short-term difficulties without
+losing sight of the medium and long term. We have dealt with all the
+challenges that have arisen along the way, without wavering from our main
+project: the transformation of BBVA.
     </blockquote>
 
 
 
-<p>Durante 2016 hemos seguido avanzando en nuestro proceso de transformación. Un proceso que comenzó hace varios años, anticipándonos al resto de la industria, con una visión multidimensional que incluye nuevas plataformas y procesos, nuevas capacidades y talento, una nueva cultura corporativa, nuevos espacios y formas de trabajo, una nueva estructura organizativa, nuevos productos y negocios y una participación activa en el ecosistema digital. 
+<p>In 2016, we continued to make progress in our transformation process. We began this
+process some years ago and are ahead of the rest of the industry, with a multidimensional
+vision that includes new platforms and processes, new capacities and talent,
+a new corporate culture, new work spaces and ways of working, a new organizational
+structure, new products and businesses and active participation in the digital ecosystem.  
 </p>
-<p>Todos estos años hemos gestionado las dificultades que se presentaban en el corto plazo sin perder el foco en el medio y largo plazo. Nos hemos enfrentado a todos los retos encontrados en el camino, sin desviarnos de nuestro gran proyecto: la transformación de BBVA. 
+<p>Over these years we have managed short-term difficulties without losing sight of the
+medium and long term. We have dealt with all the challenges that have arisen along the
+way, without wavering from our main project: the transformation of BBVA.
 </p>
-<p>Nuestro proceso de transformación se está acelerando. En 2016 hemos entrado de lleno en fase de ejecución, creando las nuevas capacidades que requiere la banca del siglo XXI y definiendo un nuevo estándar de relación con nuestros clientes, que son los grandes beneficiarios del proyecto de BBVA, con resultados muy tangibles.
+<p>Our transformation process is now gathering pace. In 2016, we entered fully in the
+execution phase, creating the new capacities needed for banking in the 21st century and
+defining a new relationship standard with our customers. They are the great beneficiaries
+of the BBVA project, and the results are very tangible.
 </p>
-<p>En España, según una encuesta de Accenture realizada entre clientes retail, somos el Banco, entre entidades comparables, con mayor porcentaje de clientes con un perfil digital, un 41%, cifra que está creciendo rápidamente. BBVA ocupa, asimismo, la primera posición en valoración de banca online, sucursales, cajeros automáticos y de app de banca móvil en España. La encuesta muestra que los clientes de banca retail valoran a BBVA muy positivamente frente a entidades comparables en productos como cuentas corrientes, depósitos, valores, tarjetas y seguros y nos dan la nota más alta a la hora de valorar la transformación digital que cada entidad está acometiendo.
+<p>In Spain, according to a survey by Accenture among retail customers, our bank has the
+highest proportion of customers with a digital profile among our peers, at 41%, and the
+figure is growing fast. BBVA also has the highest rating for online banking, branches,
+ATMs and mobile banking apps in Spain. The survey shows that retail banking customers
+value BBVA very positively compared with its peers in products such as current accounts,
+deposits, securities, cards and insurance, and give us the top score when assessing the
+banking sector's digital transformation.
  </p> 
-<p>En otros países, BBVA ocupa posiciones destacadas en distintas encuestas de valoración y seguimos trabajando muy intensamente para llegar a ser los primeros en todos los mercados en los que operamos.
+<p>In other countries, BBVA is ranked high in the surveys and we continue working very hard
+to be in the top spot in all the markets where we operate.
 </p>
 
     <blockquote class="blockquote">
-     En 2016, BBVA ha fijado sus prioridades en banca responsable para los próximos años en el marco de un nuevo Plan Estratégico y ha seguido desarrollando en todo el mundo programas en el ámbito educativo, económico, cultural y científico
+     In 2016, BBVA established its responsible banking priorities for
+the coming years within the framework of a new Strategic Plan and
+continued to develop educational, economic, cultural and scientific
+programs around the world.
     </blockquote>
 
-<p>En 2016, BBVA ha fijado sus prioridades en banca responsable para los próximos años en el marco de un nuevo Plan Estratégico que incluye la creación de relaciones transparentes, claras y responsables con nuestros clientes, la integración de la educación financiera en las soluciones que les ofrecemos, la promoción de un crecimiento responsable y sostenible y la inversión en la comunidad, con iniciativas de educación financiera para la sociedad, el emprendimiento y el conocimiento.</p>
+<p>In 2016, BBVA established its responsible banking priorities for the coming years within
+the framework of a new Strategic Plan. This includes creating transparent, clear and responsible relations with our customers, integrating financial literacy in the solutions we
+offer, promoting responsible and sustainable growth and investment in the community,
+with financial literacy initiatives for the community, entrepreneurship and knowledge.</p>
 
-<p>La Fundación BBVA, a su vez, siguió desarrollando programas en el ámbito económico, cultural y científico. Por su parte, la Fundación Microfinanzas BBVA, que en 2017 cumplirásu décimo aniversario, fue reconocida por Naciones Unidas por su contribución a los Objetivos de Desarrollo Sostenible. Asimismo, en 2016, BBVA reiteró su compromiso con los principios del Pacto Mundial de las Naciones Unidas.
-</p>
+<p>The BBVA Foundation also continued to develop economic, cultural and scientific
+programs. The BBVA Microfinance Foundation, which in 2017 will celebrate its 10th
+anniversary, was recognized by the United Nations for its contribution to the Sustainable
+Development Goals. BBVA also reaffirmed its commitment to the United Nations Global
+Compact's principles.</p>
 
     <blockquote class="blockquote">
-     2016 ha sido un buen ejercicio para BBVA en el que hemos incrementado los beneficios y hemos avanzado mucho en nuestras Prioridades Estratégicas
+     2016 was a good year for BBVA. We increased our earnings and
+made major progress in our Strategic Priorities.
     </blockquote>
 
-<p>2016 ha sido un buen ejercicio para BBVA, en el que hemos incrementado los beneficios y hemos avanzado mucho en nuestras Prioridades Estratégicas: hemos dado un salto cualitativo en experiencia de cliente, han crecido las ventas digitales, hemos desarrollado nuevos modelos de negocio, hemos fortalecido el capital, ha mejorado la eficiencia y hemos reforzado el equipo humano, combinando el mejor talento bancario con nuevos perfiles digitales.
+<p>2016 was a good year for BBVA. We increased our earnings and made major progress in
+our Strategic Priorities: we have taken a quantitative leap forward in customer experience,
+grown digital sales, developed new business models, strengthened our capital position,
+improved our efficiency and enhanced the workforce, combining the best banking talent
+with new digital profiles.
 </p>
-<p>Quiero felicitar a los más de 134.000 hombres y mujeres que trabajan en el Grupo BBVA en todo el mundo y que hacen que seamos un banco mejor. Les animo a seguir trabajando con el mismo entusiasmo y dedicación.
+<p>I would like to congratulate the more than 134,000 men and women who work at BBVA
+Group around the world and who make us a better bank. I encourage them to continue
+working with the same enthusiasm and dedication.
 </p>
-<p>Y a ustedes, señoras y señores accionistas, quiero agradecerles el apoyo que nos proporcionan. Su confianza es lo que nos motiva para seguir trabajando con la mayor ilusión y esfuerzo, construyendo un nuevo estándar de servicio en banca y creando oportunidades para todos.
+<p>And thank you, our shareholders, for the support you have shown us. Your trust
+motivates us to continue working with greater enthusiasm and drive, constructing a new
+banking standard of service and creating opportunities for all.
 </p>
     <div class="letter-sign">
       <img src="{{site.baseurl}}/images/sign.png" />
-      <p class="letter-signDate">1 de marzo de 2017</p>
+      <p class="letter-signDate">March 1, 2017</p>
       <p class="letter-signAuthor">Francisco González Rodríguez</p>
     </div>
   </div>
