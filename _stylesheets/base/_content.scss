@@ -400,21 +400,27 @@
     @include transition(all, 300ms, ease-in);
     position: absolute;
     padding: 40px;
-    top: calc(100% - 110px);
+    top: calc(100% - 150px);
 
     h2 {
-      font: 40px 'BentonBold';
-      margin-bottom: 20px;
+      @include display-flex;
+      @include align-items(flex-end);
+      font: 40px/46px 'BentonBold';
+      margin-bottom: 10px;
       color: $white;
+      height: 98px;
     }
     p {
-      font: 20px 'BentonLight';
+      font: 20px/26px 'BentonLight';
       color: $white;
     }
   }
   &:hover {
     .card-highlightTxt {
-      top: 0;
+      top: -20px;
+      h2 {
+        height: auto;
+      }
     }
     &::before {
       background: rgba($darkHover, 0.8);

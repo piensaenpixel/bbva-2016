@@ -262,56 +262,59 @@ title: Home
     <p class="paragraph u-txt-center paragraph--big"><span class="u-blue">Análisis de materialidad:</span> BBVA ha dado un gran paso adelante en el análisis de materialidad para asegurar que se pone el foco en los aspectos más relevantes, tanto para los grupos de interés como para el negocio de BBVA.</p>
     <ul class="list list--twoItems">
       <li class="list-item">
-        <a href="#" class="card-highlight">
-          <img src="{{site.baseurl}}/images/dummy-grups.png" />
+        <a href="{{site.baseurl}}/grupos-interes/cliente/" class="card-highlight">
+          <img src="{{site.baseurl}}/images/home-cliente.png" />
           <div class="card-highlightTxt">
-            <h2>Clientes</h2>
-            <p>Buscamos el mejor Banco para nuestros clientes y convertirnos en la entidad de referencia en satisfacción de la clientela</p>
+            <h2>El cliente</h2>
+            <p>Contamos con un modelo de negocio orientado al cliente, que ofrece un servicio diferencial con un objetivo muy ambicioso: ser líderes en satisfacción de la clientela en todas las geografías en las que operamos</p>
           </div>
         </a>
       </li>
       <li class="list-item">
-        <a href="#" class="card-highlight">
-          <img src="{{site.baseurl}}/images/dummy-grups.png" />
-          <div class="card-highlightTxt">
-            <h2>Accionistas</h2>
-            <p>Buscamos el mejor Banco para nuestros clientes y convertirnos en la entidad de referencia en satisfacción de la clientela</p>
-          </div>
-        </a>
-      </li>
-      <li class="list-item">
-        <a href="#" class="card-highlight">
-          <img src="{{site.baseurl}}/images/dummy-grups.png" />
+        <a href="{{site.baseurl}}/grupos-interes/equipo/" class="card-highlight">
+          <img src="{{site.baseurl}}/images/home-equipo.png" />
           <div class="card-highlightTxt">
             <h2>Equipo</h2>
-            <p>Buscamos el mejor Banco para nuestros clientes y convertirnos en la entidad de referencia en satisfacción de la clientela</p>
+            <p>Queremos atraer, desarrollar, motivar y retener al mejor equipo, así como proporcionar la mejor experiencia de empleado</p>
           </div>
         </a>
       </li>
       <li class="list-item">
-        <a href="#" class="card-highlight">
-          <img src="{{site.baseurl}}/images/dummy-grups.png" />
+        <a href="{{site.baseurl}}/grupos-interes/accionistas/" class="card-highlight">
+          <img src="{{site.baseurl}}/images/home-accionistas.png" />
+          <div class="card-highlightTxt">
+            <h2>Accionistas</h2>
+            <p>BBVA persigue la creación de valor a largo plazo para todos sus grupos de interés, especialmente para sus accionistas</p>
+          </div>
+        </a>
+      </li>
+      <li class="list-item">
+        <a href="{{site.baseurl}}/grupos-interes/sociedad/" class="card-highlight">
+          <img src="{{site.baseurl}}/images/home-sociedad.png" />
           <div class="card-highlightTxt">
             <h2>Sociedad</h2>
-            <p>Buscamos el mejor Banco para nuestros clientes y convertirnos en la entidad de referencia en satisfacción de la clientela</p>
+            <p>BBVA ha lanzado el Plan de Inversión en la Comunidad para el trienio 2016-2018, una
+ambiciosa iniciativa que establece como focos principales de actuación la educación
+financiera, el emprendimiento social y el conocimiento, ciencia y cultura</p>
           </div>
         </a>
       </li>
       <li class="list-item">
-        <a href="#" class="card-highlight">
-          <img src="{{site.baseurl}}/images/dummy-grups.png" />
-          <div class="card-highlightTxt">
-            <h2>Reguladores</h2>
-            <p>Buscamos el mejor Banco para nuestros clientes y convertirnos en la entidad de referencia en satisfacción de la clientela</p>
-          </div>
-        </a>
-      </li>
-      <li class="list-item">
-        <a href="#" class="card-highlight">
-          <img src="{{site.baseurl}}/images/dummy-grups.png" />
+        <a href="{{site.baseurl}}/grupos-interes/proveedores/" class="card-highlight">
+          <img src="{{site.baseurl}}/images/home-proveedores.png" />
           <div class="card-highlightTxt">
             <h2>Proveedores</h2>
-            <p>Buscamos el mejor Banco para nuestros clientes y convertirnos en la entidad de referencia en satisfacción de la clientela</p>
+            <p>BBVA considera a sus proveedores como parte fundamental de su modelo de negocio</p>
+          </div>
+        </a>
+      </li>
+      <li class="list-item">
+        <a href="{{site.baseurl}}/grupos-interes/reguladores/" class="card-highlight">
+          <img src="{{site.baseurl}}/images/home-reguladores.png" />
+          <div class="card-highlightTxt">
+            <h2>Supervisores y reguladores</h2>
+            <p>Tanto reguladores como supervisores son un importante grupo de interés para la
+industria financiera en general y para BBVA en particular</p>
           </div>
         </a>
       </li>
