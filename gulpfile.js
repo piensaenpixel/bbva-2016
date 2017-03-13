@@ -221,6 +221,7 @@ gulp.task('wadus', ['assets:build'], () => {
     .pipe(fixLink())
     .pipe(adjustPath('/stylesheets/main.css'))
     .pipe(adjustPath('/images'))
+    .pipe(adjustPath('/downloads'))
     .pipe(adjustLink())
     .pipe(gulp.dest('_deliver'));
 });
