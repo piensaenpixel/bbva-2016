@@ -8,7 +8,10 @@ permalink: /desempeno-en-2016/
 
 <section class="principal"  data-parallax="scroll" data-speed=".4" data-image-src="{{site.baseurl}}/images/background-desempeno.png">
   <div class="section-header section-header--strategy">
-    <h1>BBVA en cifras</h1>
+    <div>
+      <h1>BBVA en cifras</h1>
+      <p class="u-white u-txt-center u-upperCase">Resumen del año 2016</p>
+    </div>
   </div>
 </section>
 
@@ -76,7 +79,7 @@ permalink: /desempeno-en-2016/
             </li>
             <li class="list-item">
               <h4 class="txt-number">3.475</h4>
-              <h5 class="txt-numberDescription">BENEFICIO ATRIBUÍDO (M€)</h5>
+              <h5 class="txt-numberDescription">BENEFICIO ATRIBUIDO (M€)</h5>
               <p class="paragraph is-l u-flex u-alignCenter">
                 <svg width="19px" height="20px" viewBox="0 -1 19 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                     <path d="M13.9761,7.8098 L12.8781,8.9078 L10.0061,6.0278 L10.0371,15.3578 L8.5,15.3578 L8.5241,6.0048 L5.5751,8.9378 L4.4691,7.8398 L9.2381,3.0718 L13.9761,7.8098 Z M9.2151,18.4298 C14.3061,18.4298 18.4301,14.3058 18.4301,9.2148 C18.4301,4.1238 14.3061,-0.0002 9.2151,-0.0002 C4.1241,-0.0002 0.0001,4.1238 0.0001,9.2148 C0.0001,14.3058 4.1241,18.4298 9.2151,18.4298 Z" id="Fill-1" stroke="none" fill="#2ECDCD" fill-rule="evenodd"></path>
@@ -205,7 +208,7 @@ permalink: /desempeno-en-2016/
               </svg>
             </div>
             <h4 class="txt-number is-small">22.246  <small>M€</small></h4>
-            <p class="paragraph"><b>valor económico generado</b>, supone el 0,5% del PIB de las economías en la que opera</p>
+            <p class="paragraph"><b>valor económico generado</b>, supone el 0,5% del PIB de las economías en las que opera</p>
           </li>
         </ul>
       </div>
@@ -213,8 +216,8 @@ permalink: /desempeno-en-2016/
         <div class="tabs-header"><h3 class="tabs-title">Contribución al crecimiento y bienestar social</h3></div>
         <ul class="list list--threeItems u-txt-center">
           <li class="list-item">
-            <h4 class="txt-number is-small">70  <small>MILLONES</small></h4>
-            <p class="paragraph is-small"><b>clientes</b> en 35 países, 18 millones de clientes digitales</p>
+            <h4 class="txt-number is-small">70  <small>M</small></h4>
+            <p class="paragraph is-small">de <b>clientes</b> en 35 países, 18 millones de clientes digitales</p>
           </li>
           <li class="list-item">
             <h4 class="txt-number is-small">122.758  <small> Mill. €</small></h4>
@@ -226,7 +229,7 @@ permalink: /desempeno-en-2016/
           </li>
           <li class="list-item">
             <h4 class="txt-number is-small">2.555.542</h4>
-            <p class="paragraph is-small"><b>pymes, microempresas y autónomos</b> apoyados o financiados por BBVA</p>
+            <p class="paragraph is-small">de <b>pymes, microempresas y autónomos</b> apoyados o financiados por BBVA</p>
           </li>
           <li class="list-item">
             <h4 class="txt-number is-small">9,8 <span>Millones</span></h4>
@@ -244,14 +247,12 @@ permalink: /desempeno-en-2016/
         </div>
         <ul class="list  list--twoItems list--decoration">
           <li class="list-item">
-            <h5 class="txt-more">MÁS DE</h5>
             <div clas="u-flex u-alignTop">
-              <h4 class="txt-number is-small u-blue ">92 <small>Mill. €</small></h4>
-              <p class="paragraph is-small">destinados a programas sociales, el 2,7% del beneficio atribuido al grupo</p>
+              <h4 class="txt-number is-small u-blue ">93,3 <small>Mill. €</small></h4>
+              <p class="paragraph is-small">destinados a programas sociales, el 2,7% del beneficio atribuido al Grupo</p>
             </div>
           </li>
           <li class="list-item">
-            <h5 class="txt-more">&nbsp;</h5>
             <div class="u-flex u-alignTop">
               <h4 class="txt-number is-small u-blue ">150.165</h4>
               <p class="paragraph is-small">participantes han sido beneficiados por programas de educación en valores</p>
@@ -267,7 +268,7 @@ permalink: /desempeno-en-2016/
           <li class="list-item">
             <h5 class="txt-more">&nbsp;</h5>
             <div class="u-flex u-alignTop">
-              <h4 class="txt-number is-small u-blue ">25 <small>Mill. €</small></h4>
+              <h4 class="txt-number is-small u-blue ">26 <small>Mill. €</small></h4>
               <p class="paragraph is-small">dedicados a programas de conocimiento, educación y cultura</p>
             </div>
           </li>
@@ -283,7 +284,7 @@ permalink: /desempeno-en-2016/
               <svg width="49px" height="45px" viewBox="343 -46 49 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                   <path d="M372.1706,-1.4164 C377.5406,-1.4164 381.8946,-5.8234 381.8946,-11.2604 C381.8946,-16.6954 377.5406,-21.1034 372.1706,-21.1034 C371.3336,-21.1034 370.5256,-20.9854 369.7516,-20.7834 C367.6826,-25.9184 362.7066,-29.5414 356.8906,-29.5414 C349.2186,-29.5414 343.0006,-23.2444 343.0006,-15.4794 C343.0006,-7.7104 349.2186,-1.4164 356.8906,-1.4164 L372.1706,-1.4164 Z M382.5236,-26.8684 C382.5236,-32.4864 377.9116,-37.0414 372.2226,-37.0414 C368.0986,-37.0414 364.5406,-34.6474 362.8956,-31.1904 C362.8576,-31.1124 362.7966,-30.9294 362.7606,-30.8494 C366.3716,-29.5214 369.5536,-26.8684 370.8406,-23.6184 C371.6156,-23.8194 372.4006,-23.8004 373.1386,-23.7484 C375.9686,-23.5494 378.3756,-22.3794 380.1516,-20.3744 C381.6326,-22.1364 382.5236,-24.3994 382.5236,-26.8684 Z M384.8446,-38.9134 L384.8456,-41.7114 L384.7706,-41.7864 L379.9386,-36.9984 L381.4246,-35.5254 L384.8446,-38.9134 Z M389.4626,-25.5834 L391.4606,-27.5614 L391.4606,-27.6664 L384.6276,-27.6664 L384.6276,-25.5834 L389.4626,-25.5834 Z M361.6036,-40.5954 L358.7796,-40.5964 L358.7046,-40.5214 L363.5356,-35.7334 L365.0226,-37.2074 L361.6036,-40.5954 Z M373.2746,-44.0204 L371.2776,-45.9994 L371.1716,-45.9994 L371.1716,-39.2294 L373.2746,-39.2294 L373.2746,-44.0204 Z" id="Fill-1" stroke="none" fill="#2ECDCD" fill-rule="evenodd"></path>
               </svg>&nbsp;
-            5,7%</h4>
+            5,8%</h4>
             <p class="paragraph is-small">de reducción de <b>emisiones de CO2</b> por persona</p>
           </li>
           <li class="list-item">
@@ -345,34 +346,8 @@ de <b>energías renovables</b></p>
 </section>
 
 
+{% include map.html %}
 
 
 
-<section class="section">
-  <div class="container container--small">
-    <h2 class="u-txt-center title-section title-section--inside">Área de negocio</h2>
-    <p class="paragraph u-txt-center paragraph--big">(Margen bruto. En millones de euros. Variaciones interanuales)</p>
-    <div class="section-map">
-      {% include mapa-es.html %}
-    </div>
 
-    <p class="link-more">
-      <a href="#">
-        <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-           viewBox="0 0 15.2 20.3" style="enable-background:new 0 0 15.2 20.3;" xml:space="preserve" width="18">
-        <style type="text/css">
-          .st0{fill-rule:evenodd;clip-rule:evenodd;fill:#2E86C8;}
-        </style>
-        <g>
-          <path class="st0" d="M10.2,0h-3H0.5C0.2,0,0,0.2,0,0.5v19.3c0,0.3,0.2,0.5,0.5,0.5h14.2c0.3,0,0.5-0.2,0.5-0.5V5.1L10.2,0z
-             M3.4,11.3H2.9v1.4H1.7V8.2h1.7c1,0,2,0.2,2,1.5C5.3,11.1,4.3,11.3,3.4,11.3z M7.4,12.7H5.8V8.2h1.5c1.3,0,2.5,0.5,2.5,2.2
-            C9.8,12.2,8.7,12.7,7.4,12.7z M13.6,9.2h-1.9v0.8H13v1h-1.3v1.6h-1.3V8.2h3.1V9.2z"/>
-          <path class="st0" d="M3.4,9.1H2.9v1.2h0.5c0.6,0,0.7-0.3,0.7-0.6C4.1,9.4,4,9.1,3.4,9.1z"/>
-          <path class="st0" d="M7.4,9.2H7.1v2.5h0.3c0.9,0,1.2-0.3,1.2-1.3C8.6,9.6,8.3,9.2,7.4,9.2z"/>
-        </g>
-        </svg>
-        Leer más
-      </a>
-    </p>
-  </div>
-</section>

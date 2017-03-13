@@ -1,9 +1,15 @@
 .title-section {
   font: 36px/43px 'BentonLight';
   margin-bottom: 70px;
+  &.is-book {
+    font-family: 'BentonBook';
+  }
   &.is-small {
     font-size: 24px;
     line-height: 31px;
+  }
+  &.no-margin {
+    margin-bottom: 0;
   }
 }
 

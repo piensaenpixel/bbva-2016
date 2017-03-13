@@ -103,7 +103,7 @@ order: 0
 
 <section class="section">
   <div class="container container--small">
-    <h2 class="u-txt-center title-section is-small title-section--inside">Nuestro objetivo es ser líderes en satisfacción de la clientela en todas las geografías en las que operamos</h2>
+    <h2 class="u-txt-center title-section title-section--inside">Nuestro objetivo es ser líderes en satisfacción de la clientela en todas las geografías en las que operamos</h2>
     <p class="paragraph is-l u-txt-center paragraph--big u-blue u-upperCase"><b>Primer Banco en índice NPS en 7 geografías</b></p>
     <div class="section-media">
         <img src="{{site.baseurl}}/images/map-cliente.svg" />

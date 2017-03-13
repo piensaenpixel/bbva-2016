@@ -33,14 +33,6 @@ order: 2
 
 <section class="section section--blue section--piramids">
   <div class="container container--small">
-    <div class="list-media is-left">
-      <svg width="78px" height="62px" viewBox="583 21 78 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-          <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(583.000000, 21.000000)">
-              <polygon id="Fill-1" fill="#FFFFFF" points="16.2504 0.0001 0.0004 26.0001 0.0004 61.7501 35.7494 61.7501 35.7494 26.0001 16.2504 26.0001 32.4994 0.0001"></polygon>
-              <polygon id="Fill-2" fill="#FFFFFF" points="58.5 0.0001 42.25 26.0001 42.25 61.7501 77.999 61.7501 77.999 26.0001 58.5 26.0001 74.749 0.0001"></polygon>
-          </g>
-      </svg>
-    </div>
     <h2 class="txt-cite">Para BBVA atraer, desarrollar, motivar y retener al mejor equipo, así como proporcionar la mejor experiencia de empleado,  forma parte de sus seis Prioridades Estratégicas</h2>
   </div>
 </section>
@@ -79,7 +71,7 @@ order: 2
 <section class="section">
   <div class="container container--small">
     <h2 class="u-txt-center title-section title-section--inside">Un talento de primer nivel</h2>
-    <p class="paragraph u-txt-center paragraph--big">En 2016, <b>Talent & Culture</b> ha definido su su rol como un área que debe apoyar al Banco para conseguir sus objetivos estratégicos y crear una ventaja competitiva a través de un equipo de primer nivel, inspirado por nuestro Propósito y que trabaje como un solo equipo</p>
+    <p class="paragraph u-txt-center paragraph--big">En 2016, <b>Talent & Culture</b> ha definido su rol como un área que debe apoyar al Banco para conseguir sus objetivos estratégicos y crear una ventaja competitiva a través de un equipo de primer nivel, inspirado por nuestro Propósito y que trabaje como un solo equipo</p>
 
 
     <h3 class="paragraph u-txt-center u-upperCase u-blue"><b>Transparencia y consistencia</b></h3>
@@ -217,15 +209,6 @@ order: 2
 
 
 <section class="section section--blue section--blueOpacity" data-parallax="scroll" data-speed=".4" data-image-src="{{site.baseurl}}/images/quote-equipo.png">
-  <div class="container container--small">
-    <div class="list-media is-left">
-      <svg width="78px" height="62px" viewBox="583 21 78 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-          <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(583.000000, 21.000000)">
-              <polygon id="Fill-1" fill="#FFFFFF" points="16.2504 0.0001 0.0004 26.0001 0.0004 61.7501 35.7494 61.7501 35.7494 26.0001 16.2504 26.0001 32.4994 0.0001"></polygon>
-              <polygon id="Fill-2" fill="#FFFFFF" points="58.5 0.0001 42.25 26.0001 42.25 61.7501 77.999 61.7501 77.999 26.0001 58.5 26.0001 74.749 0.0001"></polygon>
-          </g>
-      </svg>
-    </div>
     <h2 class="txt-cite">Estamos construyendo una cultura, un entorno y una forma de trabajo que sitúa al cliente en el centro de todo lo que hacemos</h2>
   </div>
 </section>

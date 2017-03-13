@@ -63,7 +63,7 @@ order: 1
     </ul>
 
     <hr class="break" />
-    <p class="paragraph no-margin is-dark u-txt-center u-upperCase"><b>ponderación de la acción BBVA en los principales índices bursátiles</b></p>
+    <p class="paragraph no-margin is-dark u-txt-center u-upperCase">ponderación de la acción BBVA en los principales índices bursátiles</p>
     <p class="paragraph is-s paragraph--medium u-txt-center">(31 - 12 - 2016)</p>
     <ul class="list-box">
       <li class="list-boxItem">

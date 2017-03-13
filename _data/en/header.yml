@@ -1,27 +1,14 @@
 options:
-  - title: ES
+  - title: EN
     url: /
   - title: Descargar
     url: /
-  - title: Compartir
-    url: /
 menu:
   - title: Carta del presidente
-    url: /informe/auditoria
-  - title: Hitos 2016
-    url: /cuentas-anuales-consolidadas.html
-  - title: Nuestro propósito
-    url: /informe-de-gestion.html
+    url: /carta-del-presidente/
+  - title: Desempeño
+    url: /desempeno-en-2016/
+  - title: Estrategia
+    url: /estrategia/
   - title: Grupos de interés
-    url: /informe-de-gestion.html
-  - title: Desempeño financiero
-    url: /informe-de-gestion.html
-footer:
-- title: Centro de seguridad
-  url: /
-- title: Privacidad
-  url: /
-- title: Terminos y condiciones
-  url: /
-- title: Mapa del sitio
-  url: /
+    url: /grupos-interes/cliente/

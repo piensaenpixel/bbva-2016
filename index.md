@@ -50,9 +50,10 @@ title: Home
         <polygon fill-rule="evenodd" clip-rule="evenodd" fill="#0087CC" points="18.333,0 0,29.332 0,69.667 40.333,69.667 40.333,29.332
         18.333,29.332 36.666,0 "/>
       </svg>
-      <h3>BBVA ha avanzado mucho en 2016. Sobre la base de un modelo de negocio muy sólido y con gran potencial de crecimiento</h3>
+      <h3>2016 ha sido un buen ejercicio para BBVA en el que hemos incrementado los beneficios y hemos avanzado mucho en nuestras Prioridades Estratégicas</h3>
       <p>Francisco González - Presidente de BBVA</p>
-      <a href="#">Leer más</a>
+      <!--
+      <a href="{{site.baseurl}}/carta-del-presidente/">Leer más</a>-->
     </div>
     <div class="letter-media">
       <img src="{{site.baseurl}}/images/francisco-gonzalez.png" />
@@ -65,126 +66,126 @@ title: Home
     <h2 class="u-txt-center title-section">Principales hitos</h2>
     <ul class="list list--threeItems">
       <li class="list-item card">
-        <a href="#" class="card-inner">
+        <a href="https://www.bbva.com/es/noticias/ciencia-tecnologia/tecnologia/bbva-firma-una-alianza-estrategica-cisco/" target="_blank" class="card-inner">
           <div class="card-media">
-            <img src="{{site.baseurl}}/images/dummy-list.png" />
+            <img src="{{site.baseurl}}/images/cisco.png" />
           </div>
           <div class="card-txt">
             <div>
-              <h4>MARZO</h4>
-              <h3>BBVA adquiere la startup finlandesa de banca Holvi</h3>
+              <h4>FEBRERO</h4>
+              <h3>BBVA firma una alianza estratégica con Cisco</h3>
             </div>
             <p>Leer más</p>
           </div>
         </a>
       </li>
       <li class="list-item card">
-        <a href="#" class="card-inner">
+        <a href="https://www.bbva.com/es/noticias/ciencia-tecnologia/bbva-adquiere-la-startup-finesa-banca-holvi/" target="_blank" class="card-inner">
           <div class="card-media">
             <img src="{{site.baseurl}}/images/dummy-list.png" />
           </div>
           <div class="card-txt">
             <div>
               <h4>MARZO</h4>
-              <h3>BBVA lanza una aplicación digital que ayuda a sus clientes en la toma de decisiones</h3>
+              <h3>BBVA adquiere Holvi</h3>
             </div>
             <p>Leer más</p>
           </div>
         </a>
       </li>
       <li class="list-item card">
-        <a href="#" class="card-inner">
+        <a href="https://www.bbva.com/es/noticias/ciencia/tecnologia/bbva-firma-una-alianza-estrategica-red-hat-acelerar-la-transformacion-global-del-grupo/" target="_blank" class="card-inner">
           <div class="card-media">
-            <img src="{{site.baseurl}}/images/dummy-list.png" />
+            <img src="{{site.baseurl}}/images/red-hat.png" />
           </div>
           <div class="card-txt">
             <div>
-              <h4>MARZO</h4>
-              <h3>Llega Commerce360, una herramienta de tecnología 'big data'</h3>
+              <h4>MAYO</h4>
+              <h3>BBVA firma una alianza estratégica con Red Hat</h3>
             </div>
             <p>Leer más</p>
           </div>
         </a>
       </li>
       <li class="list-item card">
-        <a href="#" class="card-inner">
+        <a href="https://www.bbva.com/es/noticias/ciencia-tecnologia/tecnologia/bbva-presenta-commerce360-herramienta-que-usa-tecnologia-big-data-para-ofrecer-a-los-clientes-mayor-conocimiento-sobre-sus-negocios-y-les-ayuda-a-crecer/" target="_blank" class="card-inner">
           <div class="card-media">
-            <img src="{{site.baseurl}}/images/dummy-list.png" />
+            <img src="{{site.baseurl}}/images/360.png" />
           </div>
           <div class="card-txt">
             <div>
-              <h4>MARZO</h4>
-              <h3>BBVA adquiere la startup finlandesa de banca Holvi</h3>
+              <h4>JUNIO</h4>
+              <h3>BBVA presenta Commerce360º</h3>
             </div>
             <p>Leer más</p>
           </div>
         </a>
       </li>
       <li class="list-item card">
-        <a href="#" class="card-inner">
+        <a href="https://www.bbva.com/es/noticias/ciencia-tecnologia/tecnologia/bbva-lanza-una-aplicacion-digital-ayuda-clientes-la-toma-decisiones-la-compra-una-vivienda/" target="_blank" class="card-inner">
           <div class="card-media">
-            <img src="{{site.baseurl}}/images/dummy-list.png" />
+            <img src="{{site.baseurl}}/images/valora.png" />
           </div>
           <div class="card-txt">
             <div>
-              <h4>MARZO</h4>
-              <h3>BBVA lanza una aplicación digital que ayuda a sus clientes en la toma de decisiones</h3>
+              <h4>JULIO</h4>
+              <h3>BBVA lanza BBVA Valora</h3>
             </div>
             <p>Leer más</p>
           </div>
         </a>
       </li>
       <li class="list-item card">
-        <a href="#" class="card-inner">
+        <a href="https://www.bbva.com/es/noticias/economia/sistema_financiero/bbva-demuestra-su-resistencia-en-los-test-de-estres/" target="_blank" class="card-inner">
           <div class="card-media">
-            <img src="{{site.baseurl}}/images/dummy-list.png" />
+            <img src="{{site.baseurl}}/images/stress.png" />
           </div>
           <div class="card-txt">
             <div>
-              <h4>MARZO</h4>
-              <h3>Llega Commerce360, una herramienta de tecnología 'big data'</h3>
+              <h4>JULIO</h4>
+              <h3>BBVA demuestra su resistencia en los test de estrés</h3>
             </div>
             <p>Leer más</p>
           </div>
         </a>
       </li>
       <li class="list-item card">
-        <a href="#" class="card-inner">
+        <a href="https://www.bbva.com/es/us/noticias/asuntos-sociales/temas-sociales/bbva-y-la-generalitat-acuerdan-un-proyecto-social-con-la-cesion-de-1-800-viviendas-para-familias-vulnerables-en-catalunya/" target="_blank" class="card-inner">
           <div class="card-media">
-            <img src="{{site.baseurl}}/images/dummy-list.png" />
+            <img src="{{site.baseurl}}/images/generalitat.png" />
           </div>
           <div class="card-txt">
             <div>
-              <h4>MARZO</h4>
-              <h3>BBVA adquiere la startup finlandesa de banca Holvi</h3>
+              <h4>JULIO</h4>
+              <h3>BBVA y la Generalitat acuerdan un proyecto social</h3>
             </div>
             <p>Leer más</p>
           </div>
         </a>
       </li>
       <li class="list-item card">
-        <a href="#" class="card-inner">
+        <a href="https://www.bbva.com/es/noticias/economia/bancos/fintech/bbva-permite-primera-vez-espana-abrir-cuenta-bancaria-selfie-llamada-videoconferencia/?utm_source=prensa&utm_medium=email&utm_campaign=altamovil" target="_blank" class="card-inner">
           <div class="card-media">
-            <img src="{{site.baseurl}}/images/dummy-list.png" />
+            <img src="{{site.baseurl}}/images/selfie.png" />
           </div>
           <div class="card-txt">
             <div>
-              <h4>MARZO</h4>
-              <h3>BBVA lanza una aplicación digital que ayuda a sus clientes en la toma de decisiones</h3>
+              <h4>NOVIEMBRE</h4>
+              <h3>BBVA permite abrir una cuenta bancaria con un <i>selfie</i></h3>
             </div>
             <p>Leer más</p>
           </div>
         </a>
       </li>
       <li class="list-item card">
-        <a href="#" class="card-inner">
+        <a href="https://www.bbva.com/es/noticias/economia/bancos/fintech/bbva-firma-acuerdo-salesforce-fortalecer-estrategia-crm/" target="_blank" class="card-inner">
           <div class="card-media">
-            <img src="{{site.baseurl}}/images/dummy-list.png" />
+            <img src="{{site.baseurl}}/images/salesforce.png" />
           </div>
           <div class="card-txt">
             <div>
-              <h4>MARZO</h4>
-              <h3>Llega Commerce360, una herramienta de tecnología 'big data'</h3>
+              <h4>NOVIEMBRE</h4>
+              <h3>BBVA firma un acuerdo con Salesforce</h3>
             </div>
             <p>Leer más</p>
           </div>
@@ -228,82 +229,10 @@ title: Home
           Leer más
       </a>
     </p>
-    <!--
-    <h2 class="u-txt-center title-section">BBVA en cifras</h2>
-    <ul class="list-numbers">
-      <li class="list-numbersItem">
-        <h3>Indicadores financieros</h3>
-        <ul class="list list--fourItems">
-          <li class="list-item">
-            <h4>Beneficio atribuido</h4>
-            <p class="number">3.500</p>
-          </li>
-          <li class="list-item">
-            <h4>Total activo(M€)</h4>
-            <p class="number">725.000</p>
-          </li>
-          <li class="list-item">
-            <h4>Ratio CET(%)</h4>
-            <p class="number">10,9%</p>
-          </li>
-          <li class="list-item">
-            <h4>Tasa de mora(%)</h4>
-            <p class="number">11,0%</p>
-          </li>
-        </ul>
-      </li>
-      <li class="list-numbersItem">
-        <h3>Indicadores no financieros</h3>
-        <ul class="list list--fourItems">
-          <li class="list-item">
-            <h4>Número de clientes</h4>
-            <p class="number">66 mill.</p>
-          </li>
-          <li class="list-item">
-            <h4>Programas sociales(M€)</h4>
-            <p class="number">103,6</p>
-          </li>
-          <li class="list-item">
-            <h4>Número de empleados</h4>
-            <p class="number">135.000</p>
-          </li>
-          <li class="list-item">
-            <h4>Microemprendedores</h4>
-            <p class="number">103,6</p>
-          </li>
-        </ul>
-      </li>
-    </ul>-->
-
   </div>
 </section>
 
-<section class="section">
-  <div class="container">
-    <h2 class="u-txt-center title-section title-section--inside">Área de negocio</h2>
-    <p class="paragraph u-txt-center paragraph--big">(Margen bruto. En millones de euros. Variaciones interanuales)</p>
-
-    <img src="{{site.baseurl}}/images/map.svg" />
-    <p class="link-more">
-      <a href="#">
-        <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-           viewBox="0 0 15.2 20.3" style="enable-background:new 0 0 15.2 20.3;" xml:space="preserve" width="18">
-        <style type="text/css">
-          .st0{fill-rule:evenodd;clip-rule:evenodd;fill:#2E86C8;}
-        </style>
-        <g>
-          <path class="st0" d="M10.2,0h-3H0.5C0.2,0,0,0.2,0,0.5v19.3c0,0.3,0.2,0.5,0.5,0.5h14.2c0.3,0,0.5-0.2,0.5-0.5V5.1L10.2,0z
-             M3.4,11.3H2.9v1.4H1.7V8.2h1.7c1,0,2,0.2,2,1.5C5.3,11.1,4.3,11.3,3.4,11.3z M7.4,12.7H5.8V8.2h1.5c1.3,0,2.5,0.5,2.5,2.2
-            C9.8,12.2,8.7,12.7,7.4,12.7z M13.6,9.2h-1.9v0.8H13v1h-1.3v1.6h-1.3V8.2h3.1V9.2z"/>
-          <path class="st0" d="M3.4,9.1H2.9v1.2h0.5c0.6,0,0.7-0.3,0.7-0.6C4.1,9.4,4,9.1,3.4,9.1z"/>
-          <path class="st0" d="M7.4,9.2H7.1v2.5h0.3c0.9,0,1.2-0.3,1.2-1.3C8.6,9.6,8.3,9.2,7.4,9.2z"/>
-        </g>
-        </svg>
-        Leer más
-      </a>
-    </p>
-  </div>
-</section>
+{% include map.html %}
 
 <section class="section section--estrategia" data-parallax="scroll" data-speed=".4" data-image-src="images/bg-estrategia.png">
   <div class="container u-txt-center">
@@ -412,7 +341,7 @@ title: Home
     <h2 class="title-section title-section--inside">Sobre este informe</h2>
     <div class="columns columns--2">
       <p class="paragraph">BBVA en 2016 es un informe de publicación anual que presenta la información financiera y no financiera más relevante del Grupo BBVA, acontecida a lo largo de 2016, y que se complementa con otros documentos e informes publicados por el Banco. El objetivo es ofrecer información sobre la estrategia y el desempeño del Grupo a lo largo del ejercicio, con foco en los asuntos relevantes para nuestros grupos de interés. Así, BBVA en 2016 es un informe interconectado con el resto de información de carácter anual a través de enlaces y referencias.</p>
-      <p class="paragraph">Elaborado conjuntamente por los Departamentos de Global Financial Accounting y Responsible Business y con la colaboración de diversas áreas y departamentos de todo el Banco, sigue las últimas tendencias dereporting a nivel internacional, como son el Marco Conceptual del IIRC, la Guía para la Elaboración de Informes de Sostenibilidad G4 de Global Reporting Initiative (GRI) y la norma AA1000 del Institute for Social and Ethical Accountability.</p>
+      <p class="paragraph">Elaborado conjuntamente por los Departamentos de Financial Communication & External Reporting y Responsible Business y con la colaboración de diversas áreas y departamentos de todo el Banco, sigue las últimas tendencias de reporting a nivel internacional, como son el Marco Conceptual del IIRC, la Guía para la Elaboración de Informes de Sostenibilidad G4 de Global Reporting Initiative (GRI) y la norma AA1000 del Institute for Social and Ethical Accountability.</p>
     </div>
     <ul class="list-buttons">
       <li class="list-buttonsItem">

@@ -30,6 +30,12 @@ order: 3
 </section>
 
 
+<section class="section section--blue section--piramids">
+  <div class="container container--small">
+    <h2 class="txt-cite">En 2016, BBVA ha lanzado el Plan de Inversión en la Comunidad para el trienio 2016-2018, un ambicioso diseño que establece como focos de actuación la educación financiera, el emprendimiento y el conocimiento</h2>
+  </div>
+</section>
+
 
 <section class="section">
   <div class="container container--small">
@@ -133,7 +139,7 @@ order: 3
     <ul class="list list--threeItems">
       <li class="list-item">
         <p class="paragraph"><b>NIÑOS Y JÓVENES</b></p>
-        <h3 class="txt-number is-small">2,1 <small>MILLONES</small></h3>
+        <h3 class="txt-number is-small">2,1 <small>M</small></h3>
         <p class="paragraph u-blueDark is-book">Uso responsable del dinero</p>
       </li>
       <li class="list-item">
@@ -223,7 +229,7 @@ order: 3
 <section class="section section--grey">
   <div class="container container--small">
     <h2 class="u-txt-center title-section title-section--inside">Emprendimiento</h2>
-    <p class="paragraph--big paragraph u-txt-center">BBVA, además de impulsar iniciativas locales de apoyo al emprendimiento, quiere apoyar, fundamentalmente a dos tipos de emprendedores</p>
+    <p class="paragraph--big paragraph u-txt-center">BBVA, además de impulsar iniciativas locales de apoyo al emprendimiento, quiere apoyar, fundamentalmente a dos tipos de emprendedores:</p>
    <ul class="list list--twoItems">
       <li class="list-item">
         <div class="list-media is-mini is-left">
@@ -321,7 +327,7 @@ order: 3
 <section class="section">
   <div class="container container--small">
     <h2 class="u-txt-center title-section--inside title-section">Conocimiento, educación y cultura</h2>
-    <p class="paragraph paragraph--big is-dark">Básicamente incluye la actividad de la Fundación BBVA, la labor del departamento BBVA Researchy las iniciativas locales con foco en la educación en valores</p>
+    <p class="paragraph paragraph--big is-dark">Básicamente incluye la actividad de la Fundación BBVA, la labor del departamento BBVA Research y las iniciativas locales con foco en la educación en valores</p>
 
 
     <dl class="descriptions">
