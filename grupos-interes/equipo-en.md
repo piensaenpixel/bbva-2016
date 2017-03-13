@@ -1,7 +1,7 @@
 ---
 body: interior
 layout: default
-title: Equipo
+title: The team
 lang: en
 permalink: /grupos-interes/equipo/
 submenu: grupos
@@ -9,7 +9,7 @@ submenu: grupos
 
 <section class="principal"  data-parallax="scroll" data-speed=".4" data-image-src="{{site.baseurl}}/images/bg-equipo.png">
   <div class="section-header section-header--strategy">
-    <h1>El equipo</h1>
+    <h1>The team</h1>
   </div>
 </section>
 
@@ -31,15 +31,17 @@ submenu: grupos
 
 <section class="section section--blue section--piramids">
   <div class="container container--small">
-    <h2 class="txt-cite">Para BBVA atraer, desarrollar, motivar y retener al mejor equipo, así como proporcionar la mejor experiencia de empleado,  forma parte de sus seis Prioridades Estratégicas</h2>
+    <h2 class="txt-cite">One of the BBVA's six Strategic Priorities Attracting, developing, motivating and
+retaining a first-class workforce, and
+providing the best employee experience</h2>
   </div>
 </section>
 
 <section class="section">
   <div class="container">
-    <h2 class="u-txt-center title-section title-section--inside">El mejor equipo</h2>
-    <p class="paragraph is-huge is-dark u-txt-center paragraph--big">Una de las seis Prioridades Estratégicas</p>
-    <p class="paragraph is-l u-txt-center paragraph--big"><b>EMPLEADOS</b></p>
+    <h2 class="u-txt-center title-section title-section--inside">A first-class workforce</h2>
+    <p class="paragraph is-huge is-dark u-txt-center paragraph--big">One of the BBVA's six Strategic Priorities </p>
+    <p class="paragraph is-l u-txt-center paragraph--big"><b>EMPLOYEES</b></p>
     <div class="section-media is-center">
       <img src="{{site.baseurl}}/images/map-empleados.svg" />
     </div>
@@ -68,12 +70,15 @@ submenu: grupos
 
 <section class="section">
   <div class="container container--small">
-    <h2 class="u-txt-center title-section title-section--inside">Un talento de primer nivel</h2>
-    <p class="paragraph u-txt-center paragraph--big">En 2016, <b>Talent & Culture</b> ha definido su rol como un área que debe apoyar al Banco para conseguir sus objetivos estratégicos y crear una ventaja competitiva a través de un equipo de primer nivel, inspirado por nuestro Propósito y que trabaje como un solo equipo</p>
+    <h2 class="u-txt-center title-section title-section--inside">A first-class workforce</h2>
+    <p class="paragraph u-txt-center paragraph--big">In 2016, <b>Talent & Culture</b> has defined its role as an area that must
+support the Bank to achieve its strategic objectives and create a
+competitive advantage through a first-class workforce, inspired by our
+Purpose and working together as a single team.</p>
 
 
-    <h3 class="paragraph u-txt-center u-upperCase u-blue"><b>Transparencia y consistencia</b></h3>
-    <p class="paragraph paragraph--medium u-txt-center">como pilares fundamentales de su actuación y tres principios básicos que la guían</p>
+    <h3 class="paragraph u-txt-center u-upperCase u-blue"><b>Transparency and consistency</b></h3>
+    <p class="paragraph paragraph--medium u-txt-center">as two fundamental pillars and three basic principles defined to guide this activity:</p>
 
 
     <ul class="list list--threeItems u-txt-center">
@@ -121,8 +126,9 @@ submenu: grupos
               </g>
           </svg>
         </div>
-        <h4 class="paragraph is-l no-margin"><b>Cercanía al negocio</b></h4>
-        <p class="paragraph">actuando como socios, <i>business partners</i>, del resto de las áreas</p>
+        <h4 class="paragraph is-l no-margin"><b>Proximity to the business</b></h4>
+        <p class="paragraph">acting as business partners for the other
+areas.</p>
       </li>
       <li class="list-item">
         <div class="section-media is-center is-space--30">
@@ -137,8 +143,9 @@ submenu: grupos
               </g>
           </svg>
         </div>
-        <h4 class="paragraph is-l no-margin"><b>Foco en la ejecución</b></h4>
-        <p class="paragraph">entregando nuevas soluciones con compromisos de plazos concretos, basadas en los datos y haciendo las cosas sencillas</p>
+        <h4 class="paragraph is-l no-margin"><b>Focus on execution</b></h4>
+        <p class="paragraph">delivering new data-based solutions with
+committed deadlines, and making things simple.</p>
       </li>
       <li class="list-item">
         <div class="section-media is-center is-space--30">
@@ -198,7 +205,8 @@ submenu: grupos
 
         </div>
         <h4 class="paragraph is-l no-margin"><b><i>One team</i></b></h4>
-        <p class="paragraph">trabajando como un solo equipo, transversalmente entre geografías y sin silos funcionales</p>
+        <p class="paragraph">working as a single team across all regions, with no
+functional silos.</p>
       </li>
     </ul>
 
@@ -207,6 +215,7 @@ submenu: grupos
 
 
 <section class="section section--blue section--blueOpacity" data-parallax="scroll" data-speed=".4" data-image-src="{{site.baseurl}}/images/quote-equipo.png">
-    <h2 class="txt-cite">Estamos construyendo una cultura, un entorno y una forma de trabajo que sitúa al cliente en el centro de todo lo que hacemos</h2>
+  <div class="container container--small">
+    <h2 class="txt-cite">We are creating the kind of culture, environment and ways of working where the customer is at the center of everything we do</h2>
   </div>
 </section>

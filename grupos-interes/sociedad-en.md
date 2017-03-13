@@ -1,7 +1,7 @@
 ---
 body: interior
 layout: default
-title: Sociedad
+title: Society
 lang: en
 permalink: /grupos-interes/sociedad/
 submenu: grupos
@@ -9,7 +9,7 @@ submenu: grupos
 
 <section class="principal"  data-parallax="scroll" data-speed=".4" data-image-src="{{site.baseurl}}/images/bg-sociedad.jpg">
   <div class="section-header section-header--strategy">
-    <h1>Sociedad</h1>
+    <h1>Society</h1>
   </div>
 </section>
 
@@ -30,14 +30,17 @@ submenu: grupos
 
 <section class="section section--blue section--piramids">
   <div class="container container--small">
-    <h2 class="txt-cite">En 2016, BBVA ha lanzado el Plan de Inversión en la Comunidad para el trienio 2016-2018, un ambicioso diseño que establece como focos de actuación la educación financiera, el emprendimiento y el conocimiento</h2>
+    <h2 class="txt-cite">In 2016, BBVA launched the Community
+Investment Plan for the period 2016-2018,
+which is an ambitious initiative setting out the
+financial education, the entrepreneurship and the knowledge.</h2>
   </div>
 </section>
 
 
 <section class="section">
   <div class="container container--small">
-    <h2 class="u-txt-center title-section">Inversión en programas sociales</h2>
+    <h2 class="u-txt-center title-section">Investment in social programs</h2>
     <ul class="list list--threeItems">
       <li class="list-item">
         <div class="list-media is-mini is-left">
@@ -66,8 +69,10 @@ submenu: grupos
               </g>
           </svg>
         </div>
-        <h3 class="paragraph u-blue u-upperCase"><b>Educación Financiera</b></h3>
-        <p class="paragraph">Dirigida a promover la formación en habilidades financieras que permitan a las personas tomar decisiones informadas</p>
+        <h3 class="paragraph u-blue u-upperCase"><b>Financial Education</b></h3>
+        <p class="paragraph">Aimed at promoting
+training in financial literacy to enable people to
+make informed financial decisions</p>
       </li>
       <li class="list-item">
         <div class="list-media is-mini is-left">
@@ -89,8 +94,10 @@ submenu: grupos
               </g>
           </svg>
         </div>
-        <h3 class="paragraph u-blueDark u-upperCase"><b>Emprendimiento</b></h3>
-        <p class="paragraph">Tiene como objetivo apoyar a emprendedores con menos oportunidades y a aquellos que generan un impacto social positivo a través de sus empresas</p>
+        <h3 class="paragraph u-blueDark u-upperCase"><b>Social Entrepreneurship</b></h3>
+        <p class="paragraph">Designed to support the
+most vulnerable entrepreneurs and those
+whose companies have a positive social impact</p>
       </li>
       <li class="list-item">
         <div class="list-media is-mini is-left">
@@ -98,8 +105,10 @@ submenu: grupos
               <path d="M866.3592,-621.0002 L853.9322,-614.2072 L866.3592,-607.4142 L876.5242,-612.9732 L876.5242,-605.1502 L878.7842,-605.1502 L878.7842,-614.2072 L866.3592,-621.0002 Z M866.3592,-605.1502 L858.4512,-609.4752 L858.4512,-604.9462 L866.3592,-600.6212 L874.2662,-604.9462 L874.2662,-609.4752 L866.3592,-605.1502 Z" id="Fill-1" stroke="none" fill="#00CCCD" fill-rule="evenodd"></path>
           </svg>
         </div>
-        <h3 class="paragraph u-green u-upperCase"><b>Conocimiento</b></h3>
-        <p class="paragraph">Mediante el apoyo a iniciativas que impulsen el desarrollo y que permitan la creación de oportunidades para las personas</p>
+        <h3 class="paragraph u-green u-upperCase"><b>Knowledge</b></h3>
+        <p class="paragraph">Through
+support for initiatives that drive development
+and create opportunities for people.</p>
       </li>
     </ul>
     <div class="section-media is-center">
@@ -124,7 +133,7 @@ submenu: grupos
                     <path class="st0" d="M7.4,9.2H7.1v2.5h0.3c0.9,0,1.2-0.3,1.2-1.3C8.6,9.6,8.3,9.2,7.4,9.2z"></path>
                 </g>
             </svg>
-            Leer más
+            Read more
         </a>
     </p>
 
@@ -133,22 +142,28 @@ submenu: grupos
 
 <section class="section section--blue section--piramids-light">
   <div class="container container--small">
-    <h2 class="u-txt-center title-section">Educación financiera</h2>
+    <h2 class="u-txt-center title-section">Financial Education</h2>
     <ul class="list list--threeItems">
       <li class="list-item">
-        <p class="paragraph"><b>NIÑOS Y JÓVENES</b></p>
+        <p class="paragraph u-upperCase"><b>Children and young adults</b></p>
         <h3 class="txt-number is-small">2,1 <small>M</small></h3>
-        <p class="paragraph u-blueDark is-book">Uso responsable del dinero</p>
+        <p class="paragraph u-blueDark is-book">Responsible use of money</p>
       </li>
       <li class="list-item">
-        <p class="paragraph"><b>ADULTOS</b></p>
+        <p class="paragraph"><b>Adults</b></p>
         <h3 class="txt-number is-small">396.988</h3>
-        <p class="paragraph u-blueDark is-book">Aportar conocimientos para mejorar el bienestar financiero y crear mayores oportunidades</p>
+        <p class="paragraph u-blueDark is-book">To provide knowledge that
+can improve financial wellbeing
+and increase
+opportunities</p>
       </li>
       <li class="list-item">
-        <p class="paragraph"><b>PYMES</b></p>
+        <p class="paragraph"><b>SMEs</b></p>
         <h3 class="txt-number is-small">34.305</h3>
-        <p class="paragraph u-blueDark is-book">Formar en habilidades financieras para la gestión y el crecimiento de las pymes</p>
+        <p class="paragraph u-blueDark is-book">Support training in financial
+skills for the management
+and growth of small and
+medium-sized businesses </p>
       </li>
     </ul>
     <ul class="list list--threeItems list-borders">
@@ -226,8 +241,9 @@ submenu: grupos
 
 <section class="section section--grey">
   <div class="container container--small">
-    <h2 class="u-txt-center title-section title-section--inside">Emprendimiento</h2>
-    <p class="paragraph--big paragraph u-txt-center">BBVA, además de impulsar iniciativas locales de apoyo al emprendimiento, quiere apoyar, fundamentalmente a dos tipos de emprendedores:</p>
+    <h2 class="u-txt-center title-section title-section--inside">Social Entrepreneurship</h2>
+    <p class="paragraph--big paragraph u-txt-center">BBVA wishes to support, primarily, two types of
+entrepreneurs:</p>
    <ul class="list list--twoItems">
       <li class="list-item">
         <div class="list-media is-mini is-left">
@@ -237,7 +253,8 @@ submenu: grupos
               </g>
           </svg>
         </div>
-        <p class="paragraph">A aquellos más vulnerables, a los que apoya a través de la Fundación Microfinanzas</p>
+        <p class="paragraph">The most vulnerable, which it supports through
+the BBVA Microfinance Foundation.</p>
       </li>
         <li class="list-item">
         <div class="list-media is-mini is-left">
@@ -247,7 +264,9 @@ submenu: grupos
               </g>
           </svg>
         </div>
-        <p class="paragraph">A los que crean alto impacto social a través de sus empresas, mediante el programa BBVA Momentum</p>
+        <p class="paragraph">Those who create high social impact through their
+enterprises, by way of the BBVA Momentum
+program.</p>
       </li>
     </ul>
   </div>

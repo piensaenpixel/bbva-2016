@@ -1,7 +1,7 @@
 ---
 body: interior
 layout: default
-title: Accionistas
+title: Shareholders
 lang: en
 permalink: /grupos-interes/accionistas/
 submenu: grupos
@@ -9,7 +9,7 @@ submenu: grupos
 
 <section class="principal"  data-parallax="scroll" data-speed=".4" data-image-src="{{site.baseurl}}/images/bg-accionistas.png">
   <div class="section-header section-header--strategy">
-    <h1>Accionistas</h1>
+    <h1>Shareholders</h1>
   </div>
 </section>
 
@@ -30,33 +30,33 @@ submenu: grupos
 
 <section class="section section--blue section--piramids">
   <div class="container container--small">
-    <h2 class="txt-cite u-txt-center">BBVA persigue la creación de valor a largo plazo para todos sus grupos de interés, especialmente para sus accionistas</h2>
+    <h2 class="txt-cite u-txt-center">BBVA seeks to create long-term value for all its stakeholders, particularly for its shareholders.</h2>
   </div>
 </section>
 
 
 <section class="section section--grey">
   <div class="container container--small">
-    <h2 class="u-txt-center title-section title-section--inside">La acción BBVA</h2>
-    <p class="paragraph no-margin is-huge is-dark u-txt-center">Cotiza en las principales bolsas de valores mundiales</p>
+    <h2 class="u-txt-center title-section title-section--inside">BBVA share</h2>
+    <p class="paragraph no-margin is-huge is-dark u-txt-center">Listed on the main international stock markets</p>
 
     <p class="paragraph is-s paragraph--medium u-txt-center">(31 - 12 - 2016)</p>
     <ul class="list-box">
       <li class="list-boxItem">
-        <h3 class="list-boxItemTitle">ACCIONES EN  CIRCULACIÓN</h3>
-        <p class="txt-number is-small">6.567 <small>M</small></p>
+        <h3 class="list-boxItemTitle">NUMBER OF SHARES ISSUED</h3>
+        <p class="txt-number is-small">6,567 <small>M</small></p>
       </li>
       <li class="list-boxItem">
-        <h3 class="list-boxItemTitle">VALOR CONTABLE POR ACCIÓN</h3>
+        <h3 class="list-boxItemTitle">BOOK VALUE PER SHARE</h3>
         <p class="txt-number is-small">7,22 <small>€</small></p>
       </li>
       <li class="list-boxItem">
-        <h3 class="list-boxItemTitle">COTIZACIÓN ÚLTIMA</h3>
+        <h3 class="list-boxItemTitle">CLOSING PRICE</h3>
         <p class="txt-number is-small">6,61 <small>€</small></p>
       </li>
       <li class="list-boxItem">
-        <h3 class="list-boxItemTitle">CAPITALIZACIÓN BURSÁTIL</h3>
-        <p class="txt-number is-small">42.118 <small>M€</small></p>
+        <h3 class="list-boxItemTitle">MARKET CAPITALIZATION</h3>
+        <p class="txt-number is-small">42,118 <small>M€</small></p>
       </li>
     </ul>
 
@@ -91,7 +91,7 @@ submenu: grupos
 
 <section class="section">
   <div class="container container--small">
-    <h2 class="u-txt-center title-section">Buena diversificación del accionariado</h2>
+    <h2 class="u-txt-center title-section">BBVA's capital ownership is well diversified</h2>
     <div class="section-media is-center">
       <img src="{{site.baseurl}}/images/accionistas-diversificacion.svg" />
     </div>
@@ -102,8 +102,8 @@ submenu: grupos
 
 <section class="section section--grey">
   <div class="container container--small">
-    <h2 class="u-txt-center title-section title-section--inside">Remuneración</h2>
-    <p class="paragraph paragraph--big u-txt-center">Unos accionistas que han recibido 1.043 millones de euros de remuneración en efectivo</p>
+    <h2 class="u-txt-center title-section title-section--inside">Remuneration</h2>
+    <p class="paragraph paragraph--big u-txt-center">BBVA Shareholders’ have perceived €1,043m as cash remuneration.</p>
     <div class="section-media is-center">
       <svg width="247px" height="281px" viewBox="-3165 461 247 281" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
           <defs>
@@ -152,9 +152,14 @@ submenu: grupos
 
 <section class="section section--blue section--blueDark">
   <div class="container container--small">
-    <h2 class="u-txt-center title-section title-section--inside">Relación con accionistas e inversores</h2>
-    <p class="paragraph">El Banco se ha dotado de una política de comunicación con accionistas e inversores que tiene como principio fundamental la transparencia, veracidad, inmediatez y homogeneidad en la difusión de la información.</p>
-    <p class="paragraph paragraph--big">Además, la unidad  de Investor Relations facilita el acceso de todos los accionistas de BBVA a la llamada <span class="highlight">oficina del accionista</span> cuyos objetivos son informar sobre los aspectos relevantes de la acción y el Grupo, ofrecer productos especiales y atender sugerencias. 
+    <h2 class="u-txt-center title-section title-section--inside">Shareholder and Investor Relations</h2>
+    <p class="paragraph">The bank has a communication policy with shareholders and investors, whose
+basis principles are: truthfulness, immediacy and standardization in providing
+information.</p>
+    <p class="paragraph paragraph--big">In addition, through its website the Investor Relations unit gives all BBVA
+shareholders access to the <span class="highlight">Shareholder Office</span> which provides information on
+relevant aspects related to the BBVA share and the Group, offers special
+products and responds to suggestions. 
 </p>
   <p class="link-more">
     <a href="#">
@@ -170,7 +175,7 @@ submenu: grupos
         <path class="st0" d="M7.4,9.2H7.1v2.5h0.3c0.9,0,1.2-0.3,1.2-1.3C8.6,9.6,8.3,9.2,7.4,9.2z"></path>
       </g>
       </svg>
-      Leer más
+      Read more
     </a>
   </p>
 

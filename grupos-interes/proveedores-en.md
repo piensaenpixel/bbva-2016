@@ -1,7 +1,7 @@
 ---
 body: interior
 layout: default
-title: Proveedores
+title: Suppliers
 lang: en
 permalink: /grupos-interes/proveedores/
 submenu: grupos
@@ -9,7 +9,7 @@ submenu: grupos
 
 <section class="principal"  data-parallax="scroll" data-speed=".4" data-image-src="{{site.baseurl}}/images/bg-proveedores.png">
   <div class="section-header section-header--strategy">
-    <h1>Proveedores</h1>
+    <h1>Suppliers</h1>
   </div>
 </section>
 
@@ -29,7 +29,7 @@ submenu: grupos
 
 <section class="section section--blue section--piramids">
   <div class="container container--small">
-    <h2 class="txt-cite u-txt-center">BBVA genera un impacto en la sociedad mediante sus compras</h2>
+    <h2 class="txt-cite u-txt-center">BBVA impacts the society through its purchasing activities</h2>
   </div>
 </section>
 
@@ -38,12 +38,12 @@ submenu: grupos
   <div class="container container--small">
     <ul class="list-numbers u-flex u-hcenter">
       <li>
-        <h2 class="txt-number is-big">4.240</h2>
-        <p class="paragraph no-margin"><b>PROVEEDORES</b></p>
+        <h2 class="txt-number is-big">4,240</h2>
+        <p class="paragraph no-margin"><b>SUPPLIERS</b></p>
       </li>
       <li>
-        <h2 class="txt-number is-big">7.751 <small>Mill. €</small></h2>
-        <p class="paragraph no-margin"><b>FACTURADOS</b></p>
+        <h2 class="txt-number is-big">€7,751 <small>M</small></h2>
+        <p class="paragraph no-margin"><b>INVOICED</b></p>
       </li>
     </ul>
   </div>
@@ -51,7 +51,7 @@ submenu: grupos
 
 <section class="section section--blue section--piramids">
   <div class="container container--small">
-    <h2 class="u-txt-center title-section title-section--inside">Relación proveedores - BBVA basada en</h2>
+    <h2 class="u-txt-center title-section title-section--inside">Relationship suppliers- BBVA based on</h2>
     <div class="section-media is-center">
         <img src="{{site.baseurl}}/images/proveedores-relacion.svg" />
     </div>
@@ -61,14 +61,14 @@ submenu: grupos
 
 <section class="section">
   <div class="container container--small">
-    <h2 class="u-txt-center title-section title-section--inside">Proceso de aprovisionamiento</h2>
-    <p  class="u-txt-center paragraph u-blue paragraph--medium"><b>EN EL GRUPO QUE APUESTA POR LAS NUEVAS TECNOLOGÍAS</b></p>
+    <h2 class="u-txt-center title-section title-section--inside">The procurement process</h2>
+    <p  class="u-txt-center paragraph u-blue paragraph--medium"><b>BBVA bets on new technologies</b></p>
     <div class="section-media is-center is-space--10">
       <svg width="25px" height="24px" viewBox="3247 -708 25 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
           <path d="M3258.854,-686.2401 L3256.678,-684.0641 L3271.91,-684.0641 L3271.91,-686.2401 L3258.854,-686.2401 Z M3271.483,-703.7781 L3267.597,-707.6821 C3267.171,-708.1091 3266.489,-708.1041 3266.065,-707.6781 L3262.596,-704.1941 L3266.387,-700.3851 L3263.137,-700.3851 L3260.971,-702.5611 L3247.974,-689.5051 L3247.974,-684.0651 L3253.389,-684.0651 L3271.48,-702.2381 C3271.913,-702.6731 3271.906,-703.3531 3271.483,-703.7781 L3271.483,-703.7781 Z" id="Fill-1" stroke="none" fill="#2A86CA" fill-rule="evenodd"></path>
       </svg>
     </div>
-    <p class="u-txt-center paragraph is-dark paragraph--medium"><b>HERRAMIENTAS</b></p>
+    <p class="u-txt-center paragraph is-dark paragraph--medium"><b>TOOLS</b></p>
     <div class="section-media is-center">
         <img src="{{site.baseurl}}/images/proveedores-herramientas.svg" />
     </div>
@@ -78,17 +78,18 @@ submenu: grupos
           <path d="M3266.8481,-328.0931 L3264.5321,-329.6001 L3264.5481,-335.0611 L3266.8681,-335.0541 L3266.8481,-328.0931 Z M3261.0471,-328.1101 L3258.7311,-329.6161 L3258.7471,-335.0771 L3261.0671,-335.0711 L3261.0471,-328.1101 Z M3259.9411,-346.8371 C3262.5981,-346.8291 3264.5181,-345.2701 3264.5641,-340.8611 L3255.3921,-340.8871 C3255.4591,-345.2961 3257.4171,-346.8441 3259.9411,-346.8371 L3259.9411,-346.8371 Z M3255.2461,-328.1271 L3252.9311,-329.6341 L3252.9461,-335.0941 L3255.2661,-335.0871 L3255.2461,-328.1271 Z M3273.1321,-340.8371 L3266.9941,-340.8541 C3266.9371,-346.3071 3264.0771,-348.9841 3259.9471,-348.9951 C3255.9501,-349.0071 3253.0471,-346.3471 3252.9631,-340.8951 L3246.7091,-340.9131 C3246.2621,-340.9141 3245.9481,-340.4371 3246.0071,-339.9941 L3248.2111,-324.3331 C3248.2711,-323.8901 3248.6811,-323.5051 3249.1291,-323.5041 L3270.5621,-323.4421 C3271.0091,-323.4411 3271.4191,-323.7651 3271.4771,-324.2091 L3273.8361,-339.9291 C3273.8941,-340.3731 3273.5791,-340.8351 3273.1321,-340.8371 L3273.1321,-340.8371 Z" id="Fill-3" stroke="none" fill="#2A86CA" fill-rule="evenodd"></path>
       </svg>
     </div>
-    <p class="u-txt-center paragraph is-dark paragraph--medium"><b>PORTAL DE PROVEEDORES</b></p>
+    <p class="u-txt-center paragraph is-dark paragraph--medium u-upperCase"><b>Supplier´s Portal:</b></p>
     <div class="section section--s section--blue section--piramids-light section-proveedores">
       <ul class="list list-figureslist--threeItems">
         <li class="list-item">
-          <p class="paragraph"><b>Entorno público</b> accesible <i>online</i> con información para proveedores</p>
+          <p class="paragraph">A <b>public online environment</b>, which provides general
+information to suppliers</p>
         </li>
         <li class="list-item">
-          <p class="paragraph"><b>Entorno privado</b> que permite operar de forma digital en diferentes fases del proceso</p>
+          <p class="paragraph"><b>A private environment</b>, that allows to operate fully online along the different phases of the process</p>
         </li>
         <li class="list-item">
-          <p class="paragraph"><b>Directorio</b> de proveedores</p>
+          <p class="paragraph">Supplier <b>directory</b></p>
         </li>
       </ul>
     </div>
@@ -99,8 +100,8 @@ submenu: grupos
 
 <section class="section section--grey">
   <div class="container container--small">
-    <h2 class="u-txt-center title-section title-section--inside">Proceso de homologación de proveedores</h2>
-    <p class="u-txt-center paragraph u-blue paragraph--medium"><b>OBJETIVOS</b></p>
+    <h2 class="u-txt-center title-section title-section--inside">Suppliers’ approval process</h2>
+    <p class="u-txt-center paragraph u-blue paragraph--medium u-upperCase"><b>Targets</b></p>
     
     <ul class="list list--threeItems list-arrows u-txt-center">
         <li class="list-item">
@@ -156,7 +157,7 @@ submenu: grupos
                   </g>
               </svg>
             </div>
-            <p class="paragraph">Seleccionar a los mejores proveedores desde un punto de vista financiero, jurídico, laboral y reputacional</p>
+            <p class="paragraph">Select the most appropriate supplier from a financial, legal, working,and reputational point of view</p>
         </li>
         <li class="list-item">
             <div class="section-media is-center is-space--30">
@@ -195,7 +196,10 @@ submenu: grupos
                   </g>
               </svg>
             </div>
-            <p class="paragraph">Validar que comparten los mismos valores que BBVA</p>
+            <p class="paragraph">Validate that the
+supplier shares
+the same values
+as BBVA </p>
         </li>
         <li class="list-item">
             <div class="section-media is-center is-space--30">
@@ -243,7 +247,12 @@ submenu: grupos
                   </g>
               </svg>
             </div>
-            <p class="paragraph">Conocer si los proveedores cumplen con sus responsabilidades legales, medioambientales, cívicas, etc</p>
+            <p class="paragraph">Determine if the
+supplier comply
+with their legal,
+environmental and
+civic
+responsibilities </p>
         </li>
     </ul>
 
@@ -279,7 +288,8 @@ submenu: grupos
 
 <section class="section section--blue section--blueOpacity" data-parallax="scroll" data-speed=".4" data-image-src="{{site.baseurl}}/images/quote-equipo.png">
   <div class="container container--small">
-    <h2 class="txt-cite u-txt-center">BBVA trabaja para gestionar de manera correcta los impactos que sus compras pueden tener en la sociedad</h2>
+    <h2 class="txt-cite u-txt-center">BBVA works to properly manage the impacts that its purchasing activities can have
+on society</h2>
   </div>
 </section>
 
@@ -287,6 +297,7 @@ submenu: grupos
 
 <section class="section">
   <div class="container container--small">
-    <h2 class="title-section is-book u-txt-center is-small no-margin">Además, el Grupo apuesta por contrataciones a Centros Especiales de Empleo y tiene un compromiso firme con el medioambiente</h2>
+    <h2 class="title-section is-book u-txt-center is-small no-margin">In addition, the Group supports recruitment processes of Special Employment
+Centers and has a firm commitment to the environment. </h2>
   </div>
 </section>

@@ -209,6 +209,7 @@ order: 2
 
 
 <section class="section section--blue section--blueOpacity" data-parallax="scroll" data-speed=".4" data-image-src="{{site.baseurl}}/images/quote-equipo.png">
+  <div class="container container--small">
     <h2 class="txt-cite">Estamos construyendo una cultura, un entorno y una forma de trabajo que sitúa al cliente en el centro de todo lo que hacemos</h2>
   </div>
 </section>

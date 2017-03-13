@@ -9,7 +9,7 @@ permalink: /estrategia/
 
 <section class="principal"  data-parallax="scroll" data-speed=".4" data-image-src="{{site.baseurl}}/images/background-estrategia.png">
   <div class="section-header section-header--strategy">
-    <h1>Estrategia</h1>
+    <h1>Strategy</h1>
   </div>
 </section>
 
@@ -31,7 +31,7 @@ permalink: /estrategia/
 
 <section class="section">
   <div class="container container--small">
-    <h2 class="title-section title-section--inside u-txt-center">Un nuevo entorno para la industria financiera</h2>
+    <h2 class="title-section title-section--inside u-txt-center">A new environment for the financial industry</h2>
     <img src="{{site.baseurl}}/images/grafico-entorno.svg" />
   </div>
 </section>
@@ -39,8 +39,10 @@ permalink: /estrategia/
 
 <section class="section section--pilares" data-parallax="scroll" data-speed=".4" data-image-src="{{site.baseurl}}/images/bg-pilares.png">
   <div class="container">
-    <h2 class="u-txt-center title-section title-section--inside">Cuatro pilares de la banca de futuro</h2>
-    <p class="paragraph is-l u-txt-center paragraph--big">Nos dirigimos hacia un nuevo ecosistema conformado por grandes jugadores que van a cambiar la dinámica del mundo financiero. Solo aquéllos que consigan la excelencia tecnológica, la mejor experiencia de cliente, sin conflictos de interés y con transparencia, podrán formar parte de esta nueva industria</p>
+    <h2 class="u-txt-center title-section title-section--inside">Four pillars of banking in the future</h2>
+    <p class="paragraph is-l u-txt-center paragraph--big">We are moving toward a new ecosystem made up of major players who are going to change the dynamics of the financial world.
+Only those that achieve technological excellence and a new standard in customer experience, without conflicts of interest and with
+transparency, will form part of this new industry</p>
   </div>
   <div class="container container--small">
     <ul class="list list--fourItems">
@@ -53,7 +55,7 @@ permalink: /estrategia/
               </g>
           </svg>
         </div>
-        <p class="paragraph u-txt-center"><b>Excelencia tecnológica</b></p>
+        <p class="paragraph u-txt-center"><b>Technological excellence</b></p>
       </li>
       <li class="list-item">
         <div class="list-media is-small">
@@ -66,7 +68,7 @@ permalink: /estrategia/
               </g>
           </svg>
         </div>
-        <p class="paragraph u-txt-center"><b>Experiencia de cliente</b></p>
+        <p class="paragraph u-txt-center"><b>Customer experience</b></p>
       </li>
       <li class="list-item">
         <div class="list-media is-small">
@@ -74,7 +76,7 @@ permalink: /estrategia/
             <path d="M718.4828,541.5613 L719.9048,523.0753 L701.4188,524.4973 L707.1068,530.1853 L695.7508,541.5143 L707.1268,541.5143 L712.7948,535.8733 L718.4828,541.5613 Z M723.9978,502.0563 L722.5758,520.5423 L741.0608,519.1203 L735.3728,513.4323 L746.7298,502.1033 L735.3538,502.1033 L729.6848,507.7443 L723.9978,502.0563 Z" id="Fill-16" stroke="none" fill="#2A86CA" fill-rule="evenodd"></path>
         </svg>
         </div>
-        <p class="paragraph u-txt-center"><b>Cero conflictos de interés</b></p>
+        <p class="paragraph u-txt-center"><b>Zero conflicts of interest</b></p>
       </li>
       <li class="list-item">
         <div class="list-media is-small">
@@ -91,7 +93,7 @@ permalink: /estrategia/
               </g>
           </svg>
         </div>
-        <p class="paragraph u-txt-center"><b>Transparencia</b></p>
+        <p class="paragraph u-txt-center"><b>Transparency</b></p>
       </li>
     </ul>
   </div>
@@ -99,7 +101,7 @@ permalink: /estrategia/
 
 <section class="section section--blue">
   <div class="container container--small">
-    <h2 class="title-section title-section--inside u-txt-center">Nuestro Propósito</h2>
+    <h2 class="title-section title-section--inside u-txt-center">Our purpose</h2>
     <p>Somos BBVA. Somos creadores de oportunidades</p>
   </div>
 </section>
@@ -108,8 +110,6 @@ permalink: /estrategia/
   <div class="container container--small u-flex u-hcenter">
 
 <svg width="217px" height="85px" viewBox="503 540 217 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
-    <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Group" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(503.000000, 541.000000)">
         <path d="M172.0262,4.9915 C170.7172,0.9695 169.9732,0.0245 166.1352,0.0245 L156.7822,0.0245 L141.8012,48.9595 L149.4132,48.9595 L152.6062,38.3875 L170.4522,38.3875 L173.6722,48.9595 L186.9152,48.9595 L172.0262,4.9915 Z M154.7802,31.2165 L161.4482,8.9045 L168.2332,31.2165 L154.7802,31.2165 Z" id="Fill-1" fill="#F3F3F3"></path>
@@ -146,7 +146,8 @@ permalink: /estrategia/
 
 <section class="section section--grey">
   <div class="container">
-    <h2 class="title-section u-txt-center">Para ayudarnos en este viaje, hemos definido seis Prioridades Estratégicas, cuyos principales avances en 2016 son:</h2>
+    <h2 class="title-section u-txt-center">To help us in this journey, we have defined six Strategic Priorities.
+Main progresses in 2016:</h2>
   </div>
   <div class="container container--small">
     <ul class="list list--threeItems ">
@@ -161,8 +162,9 @@ permalink: /estrategia/
               </g>
           </svg>
         </div>
-        <h3 class="title-list">La mejor experiencia de cliente</h3>
-        <p class="paragraph">Nuevos productos y funcionalidades que mejoran la experiencia del cliente</p>
+        <h3 class="title-list">New standard in customer experience</h3>
+        <p class="paragraph">Deliver new products and
+functionalities improving CX</p>
       </li>
       <li class="list-item">
         <div class="list-media is-left is-small">
@@ -176,8 +178,9 @@ permalink: /estrategia/
               </g>
           </svg>
         </div>
-        <h3 class="title-list">Impulso de ventas digitales</h3>
-        <p class="paragraph">Aumento de clientes digitales y móviles y de ventas digitales</p>
+        <h3 class="title-list">Digital sales</h3>
+        <p class="paragraph">Growing digital and mobile
+customer base and digital sales rate</p>
       </li>
       <li class="list-item">
         <div class="list-media is-left is-small">
@@ -188,8 +191,8 @@ permalink: /estrategia/
               </g>
           </svg>
         </div>
-        <h3 class="title-list">Nuevos modelos de negocio</h3>
-        <p class="paragraph">Nuevos flujos de ingresos</p>
+        <h3 class="title-list">New business models</h3>
+        <p class="paragraph">New revenue streams</p>
       </li>
       <li class="list-item">
         <div class="list-media is-left is-small">
@@ -199,8 +202,8 @@ permalink: /estrategia/
               </g>
           </svg>
         </div>
-        <h3 class="title-list">Optimización de la asignación de capital</h3>
-        <p class="paragraph">+58 puntos básicos de CET1 <i>fully-loaded</i> generados</p>
+        <h3 class="title-list">Optimal capital allocation</h3>
+        <p class="paragraph">+58 basic points of CET1 fullyloaded generated </p>
       </li>
       <li class="list-item">
         <div class="list-media is-left is-small">
@@ -210,8 +213,9 @@ permalink: /estrategia/
               </g>
           </svg>
         </div>
-        <h3 class="title-list">Liderazgo en eficiencia</h3>
-        <p class="paragraph">Crecimiento superior de ingresos que de gastos</p>
+        <h3 class="title-list">Unrivaled efficiency</h3>
+        <p class="paragraph">Superior growth in revenues than in
+expenses</p>
       </li>
       <li class="list-item">
         <div class="list-media is-left is-small">
@@ -226,8 +230,9 @@ permalink: /estrategia/
               </g>
           </svg>
         </div>
-        <h3 class="title-list">El mejor equipo</h3>
-        <p class="paragraph">Organización dinámica, centrada en objetivos</p>
+        <h3 class="title-list">A first-class workforce</h3>
+        <p class="paragraph">Agile organization focused on
+delivery</p>
       </li>
     </ul>
   </div>
@@ -236,34 +241,34 @@ permalink: /estrategia/
 
 <section class="section">
   <div class="container container--small">
-    <h2 class="title-section title-section--inside u-txt-center">En definitiva, una estrategia bien definida y ejecutada</h2>
+    <h2 class="title-section title-section--inside u-txt-center">Definitely, a well defined and implemented strategy</h2>
     <ul class="list list--threeItems list--images">
       <li class="list-item">
-        <p class="paragraph">Nueva organización</p>
+        <p class="paragraph">New organization</p>
       </li>
       <li class="list-item">
-        <p class="paragraph">Plataformas y procesos</p>
+        <p class="paragraph">Platforms and processes</p>
       </li>
       <li class="list-item">
-        <p class="paragraph">Prioridades Estratégicas</p>
+        <p class="paragraph">Strategic Priorities</p>
       </li>
       <li class="list-item">
-        <p class="paragraph">Nueva cultura</p>
+        <p class="paragraph">New culture</p>
       </li>
       <li class="list-item">
-        <p class="paragraph">Nuevos productos y negocios</p>
+        <p class="paragraph">New products and businesses</p>
       </li>
       <li class="list-item">
-        <p class="paragraph">Actor en el ecosistema digital</p>
+        <p class="paragraph">Actor in the digital ecosystem</p>
       </li>
       <li class="list-item">
-        <p class="paragraph">Nuevos espacios y formas de trabajo</p>
+        <p class="paragraph">New spaces and ways of working</p>
       </li>
       <li class="list-item">
-        <p class="paragraph">Visión</p>
+        <p class="paragraph">Vision</p>
       </li>
       <li class="list-item">
-        <p class="paragraph">Nuevas capacidades y talento</p>
+        <p class="paragraph">New capabilities and talent</p>
       </li>
     </ul>
   </div>
@@ -272,7 +277,7 @@ permalink: /estrategia/
 
 <section class="section section--blue">
   <div class="container container--small">
-    <h2 class="title-section u-txt-center">En 2016, BBVA:</h2>
+    <h2 class="title-section u-txt-center">In 2016, BBVA:</h2>
     <ul class="list list--threeItems">
       <li class="list-item">
         <div class="list-media">
@@ -342,7 +347,7 @@ permalink: /estrategia/
               </g>
           </svg>
         </div>
-        <p class="paragraph u-txt-center"><b>Ha dado un salto cualitativo en Prioridades Estratégicas</b></p>
+        <p class="paragraph u-txt-center"><b>Took a qualitative leap forward with its Strategic Priorities</b></p>
       </li>
       <li class="list-item">
         <div class="list-media">
@@ -365,7 +370,7 @@ permalink: /estrategia/
           </svg>
 
         </div>
-        <p class="paragraph u-txt-center"><b>Estamos en fase de ejecución</b></p>
+        <p class="paragraph u-txt-center"><b>We are in phase of delivery</b></p>
       </li>
       <li class="list-item">
         <div class="list-media">
@@ -416,7 +421,8 @@ permalink: /estrategia/
 </svg>
 
         </div>
-        <p class="paragraph u-txt-center"><b>Los clientes son los grandes beneficiarios</b></p>
+        <p class="paragraph u-txt-center"><b>The customers are the big
+winners</b></p>
       </li>
     </ul>
   </div>

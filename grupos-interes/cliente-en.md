@@ -1,7 +1,7 @@
 ---
 body: interior
 layout: default
-title: Cliente
+title: The client
 lang: en
 permalink: /grupos-interes/cliente/
 submenu: grupos
@@ -9,7 +9,7 @@ submenu: grupos
 
 <section class="principal"  data-parallax="scroll" data-speed=".4" data-image-src="{{site.baseurl}}/images/bg-cliente.png">
   <div class="section-header section-header--strategy">
-    <h1>El cliente</h1>
+    <h1>The client</h1>
   </div>
 </section>
 
@@ -31,13 +31,21 @@ submenu: grupos
 
 <section class="section section--blue section--piramids">
   <div class="container container--small">
-    <h2 class="txt-cite u-txt-center">En BBVA estamos acelerando nuestra transformación para ser un mejor banco para nuestros clientes</h2>
+    <h2 class="txt-cite u-txt-center">At BBVA, we are
+accelerating our
+transformation
+process to
+become the best
+bank for our
+customers</h2>
   </div>
 </section>
 <section class="section section--client">
   <div class="container container--small">
-    <h2 class="u-txt-center title-section title-section--inside">Para ello ponemos al cliente en el<br/>centro de nuestra estrategia</h2>
-    <p class="paragraph is-huge u-txt-center paragraph--big">El diseño de experiencias, la tecnología y el negocio<br/>puestos al servicio del cliente</p>
+    <h2 class="u-txt-center title-section title-section--inside">To achieve it, we put the customer at the heart of our strategy</h2>
+    <p class="paragraph is-huge u-txt-center paragraph--big">The design of experiences,
+technology and business placed at the
+service of the customer</p>
   </div>
 </section>
 
@@ -49,7 +57,9 @@ submenu: grupos
       </a>
     </div>
 
-    <h2 class="paragraph is-huge u-txt-center paragraph--big is-dark">Queremos ayudar al cliente a tomar decisiones informadas, por lo que es fundamental una <b>comunicación transparente, clara y responsable</b> (TCR)</h2>
+    <h2 class="paragraph is-huge u-txt-center paragraph--big is-dark">We want to help customers make informed decisions.
+So a <b>transparent, clear and responsible (TCR)
+communication strategy</b> is crucial</h2>
 
     <ul class="list list--twoItems">
       <li class="list-item">
@@ -59,9 +69,9 @@ submenu: grupos
           </svg>
         </div>
 
-        <h3 class="paragraph is-dark"><b>Para transformar el negocio tradicional:</b></h3>
-        <p class="paragraph">Fichas de producto y contratos TCR en todas las geografías.</p>
-        <p class="paragraph">Mejoras en la gestión de ventas telefónicas.</p>
+        <h3 class="paragraph is-dark"><b>To transform the traditional Bank:</b></h3>
+        <p class="paragraph">TCR product leaflets and TCR contracts in all geographies.</p>
+        <p class="paragraph">Improvement in telesales management.</p>
       </li>
       <li class="list-item">
         <div class="list-media is-mini is-left f-26">
@@ -72,8 +82,8 @@ submenu: grupos
               </g>
           </svg>
         </div>
-        <h3 class="paragraph is-dark"><b>Para avanzar en nuestro proceso de transformación (TCR en la banca digital):</b></h3>
-        <p class="paragraph">TCR en los nuevos equipos de trabajo agile.</p>
+        <h3 class="paragraph is-dark"><b>To move forward our transformation process (TCR in digital banking):</b></h3>
+        <p class="paragraph">TCR in new agile working teams.</p>
       </li>
     </ul>
 
@@ -102,8 +112,8 @@ submenu: grupos
 
 <section class="section">
   <div class="container container--small">
-    <h2 class="u-txt-center title-section title-section--inside">Nuestro objetivo es ser líderes en satisfacción de la clientela en todas las geografías en las que operamos</h2>
-    <p class="paragraph is-l u-txt-center paragraph--big u-blue u-upperCase"><b>Primer Banco en índice NPS en 7 geografías</b></p>
+    <h2 class="u-txt-center title-section title-section--inside">Our goal is to be leaders in customer satisfaction across our global footprint</h2>
+    <p class="paragraph is-l u-txt-center paragraph--big u-blue u-upperCase"><b>First Bank in NPS index in 7 geographies </b></p>
     <div class="section-media">
         <img src="{{site.baseurl}}/images/map-cliente.svg" />
     </div>
@@ -113,46 +123,42 @@ submenu: grupos
 
 <section class="section section--blue section--piramids">
   <div class="container container--small">
-    <h2 class="u-txt-center title-section title-section--inside">Nuevas soluciones adaptadas al cliente</h2>
-    <p class="paragraph is-l u-txt-center paragraph--big">Principales avances en 2016</p>
+    <h2 class="u-txt-center title-section title-section--inside">New solutions in the hands of our customers.</h2>
+    <p class="paragraph is-l u-txt-center paragraph--big"> Main achievements in 2016</p>
     <ul class="list list--twoItems u-txt-center">
       <li class="list-item">
         <ul class="list-solutions">
           <li>
-            <h3 class="list-solutionsTitle"><b>Alta digital</b></h3>
-            <p class="list-solutionsCountry">ESPAÑA</p>
-          </li>
-          <li>
             <h3 class="list-solutionsTitle"><b>BBVA Valora</b></h3>
-            <p class="list-solutionsCountry">ESPAÑA</p>
+            <p class="list-solutionsCountry">SPAIN</p>
           </li>
           <li>
             <h3 class="list-solutionsTitle"><b>Commerce 360º</b></h3>
-            <p class="list-solutionsCountry">ESPAÑA</p>
+            <p class="list-solutionsCountry">SPAIN</p>
           </li>
           <li>
-            <h3 class="list-solutionsTitle"><b>Pagos y transferencias fáciles</b></h3>
-            <p class="list-solutionsCountry">ESTADOS UNIDOS</p>
+            <h3 class="list-solutionsTitle"><b>Easy Payment and Transfers</b></h3>
+            <p class="list-solutionsCountry">THE UNITED STATES</p>
           </li>
         </ul>
       </li>
       <li class="list-item">
         <ul class="list-solutions">
           <li>
-            <h3 class="list-solutionsTitle"><b>STEP: Plataforma de modelo de<br/>relación basado en el uso de la Tablet</b></h3>
-            <p class="list-solutionsCountry">TURQUÍA</p>
+            <h3 class="list-solutionsTitle"><b>STEP:  Tablet-Based Relationship Platform</b></h3>
+            <p class="list-solutionsCountry">TURKEY</p>
           </li>
           <li>
-            <h3 class="list-solutionsTitle"><b>Crédito Auto Digital</b></h3>
-            <p class="list-solutionsCountry">México</p>
+            <h3 class="list-solutionsTitle"><b>Digital Auto Credit</b></h3>
+            <p class="list-solutionsCountry">Mexico</p>
           </li>
           <li>
             <h3 class="list-solutionsTitle"><b>Francés Go</b></h3>
             <p class="list-solutionsCountry">Argentina</p>
           </li>
           <li>
-            <h3 class="list-solutionsTitle"><b>Préstamos One-Click</b></h3>
-            <p class="list-solutionsCountry">España, América del Sur, Estados Unidos, México y Turquía</p>
+            <h3 class="list-solutionsTitle"><b>One-Click Loans</b></h3>
+            <p class="list-solutionsCountry">Spain, South America, The United States, Mexico and Turkey</p>
           </li>
         </ul>
 
