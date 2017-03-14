@@ -5,7 +5,7 @@ title: Society
 lang: en
 permalink: /grupos-interes/sociedad/
 submenu: grupos
-pdf: grupos_interes/sociedad.pdf
+pdf: sociedad.pdf
 order: 3
 headerTitle: Report BBVA 2016
 ---
@@ -171,53 +171,53 @@ medium-sized businesses </p>
     </ul>
     <ul class="list list--threeItems list-borders">
       <li class="list-item">
-        <h3 class="paragraph u-blueDark"><b>INICIATIVAS DESTACADAS</b></h3>
+        <h3 class="paragraph u-blueDark u-upperCase"><b>Main initiatives</b></h3>
         <ul class="list-decoration is-dark">
           <li class="list-decorationItem">
-            <p class="paragraph no-margin">Valores de Futuro</p>
-            <p class="paragraph is-xs">ESPAÑA, MÉXICO</p>
+            <p class="paragraph no-margin">Future Values</p>
+            <p class="paragraph is-xs">SPAIN, MEXICO</p>
           </li>
           <li class="list-decorationItem">
-            <p class="paragraph no-margin">Tus finanzas, tu futuro </p>
+            <p class="paragraph no-margin">Your Finances, Your Future</p>
             <p class="paragraph is-xs">ESPAÑA</p>
           </li>
           <li class="list-decorationItem">
-            <p class="paragraph no-margin">Escuela para el Emprendimiento </p>
+            <p class="paragraph no-margin">BBVA Entrepeneurship</p>
             <p class="paragraph is-xs">COLOMBIA</p>
           </li>
         </ul>
       </li>
       <li class="list-item">
-        <h3 class="paragraph u-blueDark"><b>INICIATIVAS DESTACADAS</b></h3>
+        <h3 class="paragraph u-blueDark u-upperCase"><b>Main programs</b></h3>
         <ul class="list-decoration is-dark">
           <li class="list-decorationItem">
-            <p class="paragraph no-margin">Mi Jubilación</p>
-            <p class="paragraph is-xs">ESPAÑA</p>
+            <p class="paragraph no-margin">My Retirement</p>
+            <p class="paragraph is-xs">SPAIN</p>
           </li>
           <li class="list-decorationItem">
             <p class="paragraph no-margin">Money Smart</p>
-            <p class="paragraph is-xs">ESTADOS UNIDOS</p>
+            <p class="paragraph is-xs">THE UNITED STATES</p>
           </li>
           <li class="list-decorationItem">
-            <p class="paragraph no-margin">Adelante con tu Futuro</p>
-            <p class="paragraph is-xs">LATINOAMÉRICA</p>
+            <p class="paragraph no-margin">Forward with your Future</p>
+            <p class="paragraph is-xs">LATIN AMERICA</p>
           </li>
         </ul>
       </li>
       <li class="list-item">
-        <h3 class="paragraph u-blueDark"><b>INICIATIVAS DESTACADAS</b></h3>
+        <h3 class="paragraph u-blueDark u-upperCase"><b>Main programas</b></h3>
         <ul class="list-decoration is-dark">
           <li class="list-decorationItem">
-            <p class="paragraph no-margin">Activa tu Negocio</p>
-            <p class="paragraph is-xs">ESPAÑA</p>
+            <p class="paragraph no-margin">Activate Your Business</p>
+            <p class="paragraph is-xs">Spain</p>
           </li>
           <li class="list-decorationItem">
-            <p class="paragraph no-margin">Finanzas para Emprender y Crecer</p>
-            <p class="paragraph is-xs">MÉXICO</p>
+            <p class="paragraph no-margin">Finance for Entrepreneurship and Growth</p>
+            <p class="paragraph is-xs">MEXICO</p>
           </li>
           <li class="list-decorationItem">
-            <p class="paragraph no-margin">Camino al Éxito</p>
-            <p class="paragraph is-xs">AMÉRICA LATINA </p>
+            <p class="paragraph no-margin">Road to Success</p>
+            <p class="paragraph is-xs">SOUTH AMERICA</p>
           </li>
         </ul>
       </li>
@@ -235,7 +235,7 @@ medium-sized businesses </p>
             <path class="#FFF" d="M7.4,9.2H7.1v2.5h0.3c0.9,0,1.2-0.3,1.2-1.3C8.6,9.6,8.3,9.2,7.4,9.2z"/>
           </g>
           </svg>
-          Leer más
+          Read more
       </a>
     </p>
 
@@ -278,29 +278,29 @@ program.</p>
 
 <section class="section">
   <div class="container container--small">
-    <h2 class="u-txt-center title-bold">Fundación Microfinanzas BBVA</h2>
+    <h2 class="u-txt-center title-bold">BBVA Microfinance Foundation</h2>
     <div class="section-media is-center is-space--30 ">
         <img src="{{site.baseurl}}/images/fundacion-microfinanzas.png" />
     </div>
-    <p class="paragraph paragraph--big">Es  una entidad sin ánimo de lucro cuya misión es promover el desarrollo económico y social, sostenible e inclusivo de las personas desfavorecidas a través de las finanzas productivas responsables</p>
+    <p class="paragraph paragraph--big">Is a non-profit institution whose mission is to promote sustainable and inclusive economic and social development for the most underprivileged people in society through responsible productive finance.</p>
     <ul class="list list--threeItems u-txt-center">
       <li class="list-item">
         <h3 class="txt-number is-big">1,8 <small>Mill.</small></h3>
-        <p class="paragraph u-blueDark"><b>CLIENTES</b></p>
+        <p class="paragraph u-blueDark"><b>CUSTOMERS</b></p>
       </li>
       <li class="list-item">
         <h3 class="txt-number is-big">8.038</h3>
-        <p class="paragraph u-blueDark"><b>EMPLEADOS</b></p>
+        <p class="paragraph u-blueDark"><b>EMPLOYEES</b></p>
       </li>
       <li class="list-item">
         <h3 class="txt-number is-big">1,1 <small>Mill.</small></h3>
-        <p class="paragraph u-blueDark"><b>MUJERES</b></p>
+        <p class="paragraph u-blueDark"><b>WOMEN</b></p>
       </li>
     </ul>
   </div>
 </section>
 
-
+<!--
 <section class="section section--grey">
   <div class="container container--small">
     <h2 class="u-txt-center title-bold">BBVA Momentum</h2>
@@ -338,31 +338,32 @@ program.</p>
           <path class="st0" d="M7.4,9.2H7.1v2.5h0.3c0.9,0,1.2-0.3,1.2-1.3C8.6,9.6,8.3,9.2,7.4,9.2z"/>
         </g>
         </svg>
-        Leer más
+        Read more
       </a>
     </p>
   </div>
-</section>
+</section>-->
 
 <section class="section">
   <div class="container container--small">
-    <h2 class="u-txt-center title-section--inside title-section">Conocimiento, educación y cultura</h2>
-    <p class="paragraph paragraph--big is-dark">Básicamente incluye la actividad de la Fundación BBVA, la labor del departamento BBVA Research y las iniciativas locales con foco en la educación en valores</p>
+    <h2 class="u-txt-center title-section--inside title-section">Knowledge, education and culture</h2>
+    <p class="paragraph paragraph--big is-dark">They basically include the activities of the BBVA Foundation and the BBVA Research department in addition to local programs and initiatives focusing on education, science and culture.</p>
 
 
     <dl class="descriptions">
       <dt><img src="{{site.baseurl}}/images/fundacion-bbva.png" /></dt>
       <dd>
-        <p class="paragraph">Ha reforzado su compromiso de impulsar y difundir el conocimiento mediante la consolidación de su actividad:</p>
+        <p class="paragraph">It has strengthened its commitment to drive and disseminate knowledge through the consolidation of its activities:</p>
         <ul class="list-decoration">
           <li class="list-decorationItem">
-            <p class="paragraph">Apoyando a investigadores y creadores y fomentando la difusión de su trabajo.</p>
+            <p class="paragraph">Supporting the community of researchers and creators and fostering the diffusion of their work</p>
           </li>
           <li class="list-decorationItem">
-            <p class="paragraph">Apoyando el arte y la cultura.</p>
+            <p class="paragraph">Supporting art and culture</p>
           </li>
           <li class="list-decorationItem">
-            <p class="paragraph">Colaborando en la generación de investigaciones e informes socioeconómicos.</p>
+            <p class="paragraph">Collaborating with the generation of research
+and publication of socioeconomic reports</p>
           </li>
         </ul>
       </dd>
@@ -371,14 +372,14 @@ program.</p>
     <dl class="descriptions">
       <dt><img src="{{site.baseurl}}/images/logo-research.png" /></dt>
       <dd>
-        <p class="paragraph">BBVA pone a disposición de accionistas, inversores y público en general una amplia gama de informes, análisis y estudios sobre la evolución de la economía y el sector financiero, tanto en el ámbito nacional como internacional.</p>
+        <p class="paragraph">BBVA makes available to shareholders, investors and the public in general a wide range of reports, analyses and studies on developments in the economy and the financial sector, both nationally and internationally</p>
       </dd>
     </dl>
     <hr class="break" />
     <dl class="descriptions">
       <dt><p class="paragraph is-l is-dark"><b>Educación en valores</b></p></dt>
       <dd>
-        <p class="paragraph">Para impulsar la integración social y la formación  de niños y jóvenes.</p>
+        <p class="paragraph">To promote social integration and training among children and young people</p>
       </dd>
     </dl>
 
@@ -399,7 +400,7 @@ program.</p>
           <path class="st0" d="M7.4,9.2H7.1v2.5h0.3c0.9,0,1.2-0.3,1.2-1.3C8.6,9.6,8.3,9.2,7.4,9.2z"/>
         </g>
         </svg>
-        Leer más
+        Read more
       </a>
     </p>
 
@@ -408,8 +409,8 @@ program.</p>
 
 <section class="section section--grey">
   <div class="container container--small">
-    <h2 class="u-txt-center title-section--inside title-section">Contribución fiscal global</h2>
-    <p class="paragraph paragraph--big">BBVA está comprometido con la transparencia en el pago de tributos y esa es la razón por la que, un año más,  desglosamos voluntariamente la contribución fiscal total en aquellos países en los que tenemos una presencia significativa.</p>
+    <h2 class="u-txt-center title-section--inside title-section">Total Tax Contribution</h2>
+    <p class="paragraph paragraph--big">BBVA is committed to transparency in tax payments, which is why, one more year, we have voluntarily disclosed all major tax payments in the countries where we have a significant presence.</p>
     <div class="section-media is-center is-space--30 ">
         <img src="{{site.baseurl}}/images/sociedad-contribucion.svg" />
     </div>
@@ -428,7 +429,7 @@ program.</p>
           <path class="st0" d="M7.4,9.2H7.1v2.5h0.3c0.9,0,1.2-0.3,1.2-1.3C8.6,9.6,8.3,9.2,7.4,9.2z"/>
         </g>
         </svg>
-        Leer más
+        Read more
       </a>
     </p>
 
@@ -437,8 +438,8 @@ program.</p>
 
 <section class="section">
   <div class="container container--small">
-    <h2 class="u-txt-center title-section--inside title-section">Medioambiente</h2>
-    <p class="paragraph paragraph--big">En 2016 hemos lanzado nuestro tercer Plan Global de Ecoeficiencia hasta 2020 y hemos seguido trabajando para reducir nuestra huella ambiental.</p>
+    <h2 class="u-txt-center title-section--inside title-section">Environment</h2>
+    <p class="paragraph paragraph--big">In 2016 we launched our third Global Eco-efficiency Plan (GEP) until 2020 and worked to minimize our environmental footprint</p>
     <div class="section-media is-center is-space--30 ">
         <img src="{{site.baseurl}}/images/sociedad-medioambiente.svg" />
     </div>
@@ -457,7 +458,7 @@ program.</p>
           <path class="st0" d="M7.4,9.2H7.1v2.5h0.3c0.9,0,1.2-0.3,1.2-1.3C8.6,9.6,8.3,9.2,7.4,9.2z"/>
         </g>
         </svg>
-        Leer más
+        Read more
       </a>
     </p>
 

@@ -194,8 +194,9 @@ headerTitle: Informe anual BBVA 2016
       </li>
     </ul>
     <div class="u-txt-center">
-      <a href="#" class="button button--green">
-        Premios y reconomicientos
+      <a href="https://www.bbva.com/es/informacion/?bbvaSearch=premios+y+reconocimientos
+" target="_blank" class="button button--green">
+        Premios y reconocimientos
       </a>
     </div>
   </div>
@@ -241,7 +242,7 @@ headerTitle: Informe anual BBVA 2016
 
 <section class="section section--grey">
   <div class="container">
-    <h2 class="title-section title-section--inside u-txt-center">Nuestros principales puntos de interés</h2>
+    <h2 class="title-section title-section--inside u-txt-center">Nuestros principales grupos de interés</h2>
     <p class="paragraph u-txt-center paragraph--big"><span class="u-blue">Análisis de materialidad:</span> BBVA ha dado un gran paso adelante en el análisis de materialidad para asegurar que se pone el foco en los aspectos más relevantes, tanto para los grupos de interés como para el negocio de BBVA.</p>
     <ul class="list list--twoItems">
       <li class="list-item">
@@ -276,9 +277,7 @@ headerTitle: Informe anual BBVA 2016
           <img src="{{site.baseurl}}/images/home-sociedad.png" />
           <div class="card-highlightTxt">
             <h2>Sociedad</h2>
-            <p>BBVA ha lanzado el Plan de Inversión en la Comunidad para el trienio 2016-2018, una
-ambiciosa iniciativa que establece como focos principales de actuación la educación
-financiera, el emprendimiento social y el conocimiento, ciencia y cultura</p>
+            <p>BBVA ha lanzado el Plan de Inversión en la Comunidad para el trienio 2016-2018, una iniciativa que establece como focos principales de actuación la educación financiera, el emprendimiento y el conocimiento, educación y cultura</p>
           </div>
         </a>
       </li>
@@ -327,7 +326,7 @@ industria financiera en general y para BBVA en particular</p>
     <h2 class="title-section title-section--inside">Sobre este informe</h2>
     <div class="columns columns--2">
       <p class="paragraph">BBVA en 2016 es un informe de publicación anual que presenta la información financiera y no financiera más relevante del Grupo BBVA, acontecida a lo largo de 2016, y que se complementa con otros documentos e informes publicados por el Banco. El objetivo es ofrecer información sobre la estrategia y el desempeño del Grupo a lo largo del ejercicio, con foco en los asuntos relevantes para nuestros grupos de interés. Así, BBVA en 2016 es un informe interconectado con el resto de información de carácter anual a través de enlaces y referencias.</p>
-      <p class="paragraph">Elaborado conjuntamente por los Departamentos de Financial Communication & External Reporting y Responsible Business y con la colaboración de diversas áreas y departamentos de todo el Banco, sigue las últimas tendencias de reporting a nivel internacional, como son el Marco Conceptual del IIRC, la Guía para la Elaboración de Informes de Sostenibilidad G4 de Global Reporting Initiative (GRI) y la norma AA1000 del Institute for Social and Ethical Accountability.</p>
+      <p class="paragraph">Elaborado conjuntamente por los Departamentos de Financial Communication & External Reporting y Responsible Business y con la colaboración de diversas áreas y departamentos de todo el Banco, sigue las últimas tendencias de <i>reporting</i> a nivel internacional, como son el Marco Conceptual del IIRC, la Guía para la Elaboración de Informes de Sostenibilidad G4 de Global Reporting Initiative (GRI) y la norma AA1000 del Institute for Social and Ethical Accountability.</p>
     </div>
     <ul class="list-buttons">
       <li class="list-buttonsItem">
@@ -387,7 +386,7 @@ industria financiera en general y para BBVA en particular</p>
           </svg>
         </div>
         <h2>Gestion del riesgo</h2>
-        <p>BBVA cuenta con un modelo general de gestión y control de riesgos que  establece un adecuado sistema de gestión de los mismos, en función del perfil de riesgos y la estrategia de la Entidad.</p>
+        <p>BBVA cuenta con un modelo general de gestión y control de riesgos que  establece un adecuado sistema de gestión de los mismos, en función del perfil de riesgos y la estrategia de la Entidad</p>
         <p class="link-more is-left">
           <a href="{{site.baseurl}}/downloads/gestion_riesgo.pdf">
             <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"

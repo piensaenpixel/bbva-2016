@@ -117,7 +117,7 @@
   position: absolute;
   top: 0;
   right: 0;
-  bottom: 0;
+  bottom: -2px;
   left: 0;
   background-image: url('../images/bg-letter-opacity.svg');
   background-position: left top;
@@ -470,6 +470,9 @@
   position: absolute;
   bottom: 0;
   right: 0;
+  img {
+    display: block;
+  }
 }
 
 

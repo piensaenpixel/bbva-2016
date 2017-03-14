@@ -1,7 +1,7 @@
 ---
 body: interior
 layout: default
-title: Carta del presidente
+title: Carta del Presidente
 lang: es
 permalink: /carta-del-presidente/
 pdf: carta_presidente.pdf
@@ -10,7 +10,7 @@ headerTitle: Informe anual BBVA 2016
 
 <section class="principal">
   <div class="container container--small" data-header-control>
-    <h1 class="tit-letter">Carta del presidente</h1>
+    <h1 class="tit-letter">Carta del Presidente</h1>
   </div>
   <div class="letter-image">
     <img src="{{site.baseurl}}/images/bg-francisco.png" />
@@ -91,7 +91,7 @@ headerTitle: Informe anual BBVA 2016
 <p>Y a ustedes, señoras y señores accionistas, quiero agradecerles el apoyo que nos proporcionan. Su confianza es lo que nos motiva para seguir trabajando con la mayor ilusión y esfuerzo, construyendo un nuevo estándar de servicio en banca y creando oportunidades para todos.
 </p>
     <div class="letter-sign">
-      <img src="{{site.baseurl}}/images/sign.png" />
+      <img src="{{site.baseurl}}/images/sign.png" width="115"/>
       <p class="letter-signDate">1 de marzo de 2017</p>
       <p class="letter-signAuthor">Francisco González Rodríguez</p>
     </div>

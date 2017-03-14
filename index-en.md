@@ -198,14 +198,14 @@ major progress in our Strategic Priorities.</h3>
       </li>
     </ul>
     <div class="u-txt-center">
-      <a href="#" class="button button--green">
+      <a href="https://www.bbva.com/en/information/?bbvaSearch=awards" target="_blank" class="button button--green">
         Awards and recognitions
       </a>
     </div>
   </div>
 </section>
 
-<section class="section section--figures" data-parallax="scroll" data-speed=".4" data-image-src="images/bg-cifras.png">
+<section class="section section--figures" data-parallax="scroll" data-speed=".4" data-image-src="{{site.baseurl}}/images/bg-cifras.png">
   <div class="container u-txt-center">
     <h2 class="figures-title">BBVA in figures</h2>
     <p class="figures-text">
@@ -237,7 +237,7 @@ major progress in our Strategic Priorities.</h3>
   </div>
 </section>
 
-{% include map.html %}
+{% include map-e.html %}
 
 <section class="section section--estrategia" data-parallax="scroll" data-speed=".4" data-image-src="{{site.baseurl}}/images/bg-estrategia.png">
   <div class="container u-txt-center">

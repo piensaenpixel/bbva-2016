@@ -7,7 +7,7 @@ permalink: /grupos-interes/sociedad/
 submenu: grupos
 pdf: sociedad.pdf
 order: 3
-headerTitle: Informe anual BBVA 2016headerTitle: Informe anual BBVA 2016
+headerTitle: Informe anual BBVA 2016
 ---
 
 
@@ -282,7 +282,7 @@ headerTitle: Informe anual BBVA 2016headerTitle: Informe anual BBVA 2016
   </div>
 </section>
 
-
+<!--
 <section class="section section--grey">
   <div class="container container--small">
     <h2 class="u-txt-center title-bold">BBVA Momentum</h2>
@@ -323,7 +323,7 @@ headerTitle: Informe anual BBVA 2016headerTitle: Informe anual BBVA 2016
       </a>
     </p>
   </div>
-</section>
+</section>-->
 
 <section class="section">
   <div class="container container--small">

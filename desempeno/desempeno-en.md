@@ -360,7 +360,7 @@ Microfinance Foundation</p>
 </section>
 
 
-{% include map.html %}
+{% include map-e.html %}
 
 
 
