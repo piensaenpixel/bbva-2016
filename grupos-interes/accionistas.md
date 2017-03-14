@@ -5,7 +5,7 @@ title: Accionistas
 lang: es
 permalink: /grupos-interes/accionistas/
 submenu: grupos
-pdf: grupos_interes/accionistas.pdf
+pdf: accionistas.pdf
 order: 1
 headerTitle: Informe anual BBVA 2016
 ---

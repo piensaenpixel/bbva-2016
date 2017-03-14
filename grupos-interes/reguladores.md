@@ -5,7 +5,7 @@ title: Reguladores
 lang: es
 permalink: /grupos-interes/reguladores/
 submenu: grupos
-pdf: grupos_interes/supervisores.pdf
+pdf: supervisores.pdf
 order: 4
 headerTitle: Informe anual BBVA 2016
 ---

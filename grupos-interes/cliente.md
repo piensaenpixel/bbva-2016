@@ -6,7 +6,7 @@ lang: es
 permalink: /grupos-interes/cliente/
 submenu: grupos
 order: 0
-pdf: grupos_interes/cliente.pdf
+pdf: cliente.pdf
 headerTitle: Informe anual BBVA 2016
 ---
 

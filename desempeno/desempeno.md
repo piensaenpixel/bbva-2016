@@ -4,7 +4,7 @@ layout: default
 title: Desempeño
 lang: es
 permalink: /desempeno-en-2016/
-pdf: desempeno/desempeno.pdf
+pdf: desempeno.pdf
 headerTitle: Informe anual BBVA 2016
 ---
 

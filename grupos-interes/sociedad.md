@@ -5,7 +5,7 @@ title: Sociedad
 lang: es
 permalink: /grupos-interes/sociedad/
 submenu: grupos
-pdf: grupos_interes/sociedad.pdf
+pdf: sociedad.pdf
 order: 3
 headerTitle: Informe anual BBVA 2016headerTitle: Informe anual BBVA 2016
 ---

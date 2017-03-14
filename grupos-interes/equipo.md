@@ -5,7 +5,7 @@ title: Equipo
 lang: es
 permalink: /grupos-interes/equipo/
 submenu: grupos
-pdf: grupos_interes/equipo.pdf
+pdf: equipo.pdf
 order: 2
 headerTitle: Informe anual BBVA 2016
 ---
