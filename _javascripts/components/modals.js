@@ -22,6 +22,7 @@ module.exports = {
 
         el.on('click', function (e) {
           e.preventDefault();
+          $('[data-modal]').fadeOut(100);
           target.fadeIn(200);
         });
       }
