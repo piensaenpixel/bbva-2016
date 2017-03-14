@@ -177,6 +177,34 @@ function fixLink () {
   });
 }
 
+function adjustHome () {
+  let pathArray;
+  let replacement;
+  let needle = /(<a )(.+)?(href=['"])(\/)(['"])(.+)?(>)/g;
+
+  return through.obj((file, enc, cb) => {
+    pathArray = file.path.substring(file.base.length).split('/');
+    replacement = '$1' + '$2' + '$3' + Array(pathArray.length).join('../') + 'index.html' + '$5' + '$6' + '$7';
+
+    if (file.isNull()) {
+      return cb(null, file);
+    }
+
+    if (pathArray.length === 1) {
+      replacement = '$1' + '$2' + '$3' + '.' + '$4' + 'index.html' + '$5' + '$6' + '$7';
+    }
+
+    if (file.isStream()) {
+      file.contents = file.contents.pipe(replace(needle, replacement));
+    } else if (file.isBuffer()) {
+      file.contents = new Buffer(String(file.contents).replace(needle, replacement));
+    }
+
+    return cb(null, file);
+  });
+}
+
+
 function adjustSearch () {
   let pathArray;
   let replacement;
@@ -223,6 +251,7 @@ gulp.task('wadus', ['assets:build'], () => {
     .pipe(adjustPath('/images'))
     .pipe(adjustPath('/downloads'))
     .pipe(adjustLink())
+    .pipe(adjustHome())
     .pipe(gulp.dest('_deliver'));
 });
 
