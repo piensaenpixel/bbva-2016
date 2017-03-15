@@ -43,7 +43,7 @@ headerTitle: Informe anual BBVA 2016
   <div class="section--letterBg"></div>
   <div class="container container-letter">
     <div class="letter">
-      <h2>Carta del presidente</h2>
+      <h2>Carta del Presidente</h2>
       <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
          width="89.833px" height="69.667px" viewBox="0 0 89.833 69.667" enable-background="new 0 0 89.833 69.667" xml:space="preserve">
         <polygon fill-rule="evenodd" clip-rule="evenodd" fill="#0087CC" points="67.833,0 49.5,29.332 49.5,69.667 89.833,69.667
@@ -302,7 +302,7 @@ industria financiera en general y para BBVA en particular</p>
       </li>
     </ul>
     <p class="link-more">
-      <a href="#">
+      <a href="{{site.baseurl}}/downloads/grupos_interes.pdf">
         <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
            viewBox="0 0 15.2 20.3" style="enable-background:new 0 0 15.2 20.3;" xml:space="preserve" width="18">
         <style type="text/css">
@@ -333,10 +333,11 @@ industria financiera en general y para BBVA en particular</p>
         <a href="#">BBVA en 2016</a>
       </li>
       <li class="list-buttonsItem">
-        <a href="#">Cuentas anuales consolidadas, informe de gestión e informe de auditoría</a>
+        <a href="https://accionistaseinversores.bbva.com/TLBB/fbinir/mult/CuentasAnualesConsolidadasBBVA2016_tcm926-643412.pdf
+" target="_blank">Cuentas anuales consolidadas, informe de gestión e informe de auditoría</a>
       </li>
       <li class="list-buttonsItem">
-        <a href="#">Informe con Relevancia Prudencial- Pilar III de Basilea</a>
+        <a href="https://accionistaseinversores.bbva.com/TLBB/fbinir/mult/InformePilarIII2016_tcm926-643321.pdf" target="_blank">Informe con Relevancia Prudencial- Pilar III de Basilea</a>
       </li>
     </ul>
   </div>

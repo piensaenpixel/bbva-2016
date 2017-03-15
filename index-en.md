@@ -248,7 +248,7 @@ strategy has been bolstered with particular focus on digitalization and customer
 simplifying the organizational structure and redefining the Bank’s new tagline: “Creating
 Opportunities”.</p>
     <p class="link-more is-white">
-      <a href="#">
+      <a href="{{site.baseurl}}/estrategia/">
         <svg version="1.1" width="20" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 15.2 20.3" xml:space="preserve">
           <g>
             <path fill="#FFF" d="M10.2,0h-3H0.5C0.2,0,0,0.2,0,0.5v19.3c0,0.3,0.2,0.5,0.5,0.5h14.2c0.3,0,0.5-0.2,0.5-0.5V5.1L10.2,0z
@@ -334,7 +334,7 @@ general and BBVA in particular</p>
       </li>
     </ul>
     <p class="link-more">
-      <a href="#">
+      <a href="{{site.baseurl}}/downloads/grupos_interes_en.pdf">
         <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
            viewBox="0 0 15.2 20.3" style="enable-background:new 0 0 15.2 20.3;" xml:space="preserve" width="18">
         <style type="text/css">
@@ -374,10 +374,10 @@ and Ethical Accountability AA1000 standard.</p>
         <a href="#">BBVA in 2016</a>
       </li>
       <li class="list-buttonsItem">
-        <a href="#">Consolidated financial statements, management report and auditor's report</a>
+        <a href="https://accionistaseinversores.bbva.com/TLBB/fbinir/mult/CuentasAnualesConsolidadasBBVA2016_tcm926-643412.pdf" target="_blank">Consolidated financial statements, management report and auditor's report</a>
       </li>
       <li class="list-buttonsItem">
-        <a href="#">Information of Prudential Relevance. Basel Accords, Pilar III</a>
+        <a href="https://shareholdersandinvestors.bbva.com//TLBB/fbinir/mult/InformePilarIII2016_tcm927-643321.pdf" target="_blank">Information of Prudential Relevance. Basel Accords, Pilar III</a>
       </li>
     </ul>
   </div>

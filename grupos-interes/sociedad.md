@@ -5,7 +5,7 @@ title: Sociedad
 lang: es
 permalink: /grupos-interes/sociedad/
 submenu: grupos
-pdf: sociedad.pdf
+pdf: grupos_sociedad.pdf
 order: 3
 headerTitle: Informe anual BBVA 2016
 ---
@@ -111,7 +111,7 @@ headerTitle: Informe anual BBVA 2016
     </div>
 
     <p class="link-more">
-        <a href="#">
+        <a href="{{site.baseurl}}/downloads/grupos_sociedad.pdf">
             <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 15.2 20.3" style="enable-background:new 0 0 15.2 20.3;" xml:space="preserve" width="18">
                 <style type="text/css">
                 .st0 {
@@ -211,7 +211,7 @@ headerTitle: Informe anual BBVA 2016
 
 
     <p class="link-more is-white">
-      <a href="#">
+<a href="{{site.baseurl}}/downloads/grupos_sociedad_programassociales.pdf">
         <svg version="1.1" width="20" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 15.2 20.3" xml:space="preserve">
           <g>
             <path fill="#FFF" d="M10.2,0h-3H0.5C0.2,0,0,0.2,0,0.5v19.3c0,0.3,0.2,0.5,0.5,0.5h14.2c0.3,0,0.5-0.2,0.5-0.5V5.1L10.2,0z
@@ -366,7 +366,7 @@ headerTitle: Informe anual BBVA 2016
 
 
     <p class="link-more">
-      <a href="#">
+<a href="{{site.baseurl}}/downloads/grupos_sociedad_conocimiento.pdf">
         <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
            viewBox="0 0 15.2 20.3" style="enable-background:new 0 0 15.2 20.3;" xml:space="preserve" width="18">
         <style type="text/css">
@@ -395,7 +395,7 @@ headerTitle: Informe anual BBVA 2016
         <img src="{{site.baseurl}}/images/sociedad-contribucion.svg" />
     </div>
     <p class="link-more">
-      <a href="#">
+<a href="{{site.baseurl}}/downloads/grupos_sociedad_fiscal.pdf">
         <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
            viewBox="0 0 15.2 20.3" style="enable-background:new 0 0 15.2 20.3;" xml:space="preserve" width="18">
         <style type="text/css">
@@ -427,7 +427,7 @@ headerTitle: Informe anual BBVA 2016
         <img src="{{site.baseurl}}/images/sociedad-medioambiente.svg" />
     </div>
     <p class="link-more">
-      <a href="#">
+<a href="{{site.baseurl}}/downloads/grupos_sociedad_medioambiente.pdf">
         <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
            viewBox="0 0 15.2 20.3" style="enable-background:new 0 0 15.2 20.3;" xml:space="preserve" width="18">
         <style type="text/css">

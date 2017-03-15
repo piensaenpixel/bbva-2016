@@ -77,7 +77,7 @@ headerTitle: Informe anual BBVA 2016
 
 <p>En 2016, BBVA ha fijado sus prioridades en banca responsable para los próximos años en el marco de un nuevo Plan Estratégico que incluye la creación de relaciones transparentes, claras y responsables con nuestros clientes, la integración de la educación financiera en las soluciones que les ofrecemos, la promoción de un crecimiento responsable y sostenible y la inversión en la comunidad, con iniciativas de educación financiera para la sociedad, el emprendimiento y el conocimiento.</p>
 
-<p>La Fundación BBVA, a su vez, siguió desarrollando programas en el ámbito económico, cultural y científico. Por su parte, la Fundación Microfinanzas BBVA, que en 2017 cumplirásu décimo aniversario, fue reconocida por Naciones Unidas por su contribución a los Objetivos de Desarrollo Sostenible. Asimismo, en 2016, BBVA reiteró su compromiso con los principios del Pacto Mundial de las Naciones Unidas.
+<p>La Fundación BBVA, a su vez, siguió desarrollando programas en el ámbito económico, cultural y científico. Por su parte, la Fundación Microfinanzas BBVA, que en 2017 cumplirá su décimo aniversario, fue reconocida por Naciones Unidas por su contribución a los Objetivos de Desarrollo Sostenible. Asimismo, en 2016, BBVA reiteró su compromiso con los principios del Pacto Mundial de las Naciones Unidas.
 </p>
 
     <blockquote class="blockquote">

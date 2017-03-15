@@ -1,11 +1,11 @@
 ---
 body: interior
 layout: default
-title: Reguladores
+title: Supervisores y reguladores
 lang: es
 permalink: /grupos-interes/reguladores/
 submenu: grupos
-pdf: supervisores.pdf
+pdf: grupos_supervisores.pdf
 order: 4
 headerTitle: Informe anual BBVA 2016
 ---

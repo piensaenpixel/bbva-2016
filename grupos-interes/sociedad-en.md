@@ -5,7 +5,7 @@ title: Society
 lang: en
 permalink: /grupos-interes/sociedad/
 submenu: grupos
-pdf: sociedad.pdf
+pdf: grupos_sociedad_en.pdf
 order: 3
 headerTitle: Report BBVA 2016
 ---
@@ -119,7 +119,7 @@ and create opportunities for people.</p>
     </div>
 
     <p class="link-more">
-        <a href="#">
+<a href="{{site.baseurl}}/downloads/grupos_sociedad_en.pdf">
             <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 15.2 20.3" style="enable-background:new 0 0 15.2 20.3;" xml:space="preserve" width="18">
                 <style type="text/css">
                 .st0 {
@@ -225,7 +225,7 @@ medium-sized businesses </p>
 
 
     <p class="link-more is-white">
-      <a href="#">
+<a href="{{site.baseurl}}/downloads/grupos_sociedad_programassociales_en.pdf">
         <svg version="1.1" width="20" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 15.2 20.3" xml:space="preserve">
           <g>
             <path fill="#FFF" d="M10.2,0h-3H0.5C0.2,0,0,0.2,0,0.5v19.3c0,0.3,0.2,0.5,0.5,0.5h14.2c0.3,0,0.5-0.2,0.5-0.5V5.1L10.2,0z
@@ -386,7 +386,7 @@ and publication of socioeconomic reports</p>
 
 
     <p class="link-more">
-      <a href="#">
+<a href="{{site.baseurl}}/downloads/grupos_sociedad_conocimiento_en.pdf">
         <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
            viewBox="0 0 15.2 20.3" style="enable-background:new 0 0 15.2 20.3;" xml:space="preserve" width="18">
         <style type="text/css">
@@ -415,7 +415,7 @@ and publication of socioeconomic reports</p>
         <img src="{{site.baseurl}}/images/sociedad-contribucion.svg" />
     </div>
     <p class="link-more">
-      <a href="#">
+<a href="{{site.baseurl}}/downloads/grupos_sociedad_fiscal_en.pdf">
         <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
            viewBox="0 0 15.2 20.3" style="enable-background:new 0 0 15.2 20.3;" xml:space="preserve" width="18">
         <style type="text/css">
@@ -444,7 +444,7 @@ and publication of socioeconomic reports</p>
         <img src="{{site.baseurl}}/images/sociedad-medioambiente.svg" />
     </div>
     <p class="link-more">
-      <a href="#">
+<a href="{{site.baseurl}}/downloads/grupos_sociedad_medioambiente_en.pdf">
         <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
            viewBox="0 0 15.2 20.3" style="enable-background:new 0 0 15.2 20.3;" xml:space="preserve" width="18">
         <style type="text/css">
