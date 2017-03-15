@@ -173,14 +173,11 @@ Main progresses in 2016:</h2>
         </div>
         <h3 class="title-list">New standard in customer experience</h3>
         <p class="paragraph">Deliver new products and
-functionalities improving CX</p>
+functionalities improving customer experience</p>
       </li>
       <li class="list-item">
         <div class="list-media is-left is-small">
           <svg width="18px" height="26px" viewBox="598 324 18 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-              <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
-              <desc>Created with Sketch.</desc>
-              <defs></defs>
               <g id="Group-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(598.000000, 324.000000)">
                   <path d="M0.2396,1.0635 C0.2396,0.4765 0.7126,0.0005 1.3026,0.0005 L16.1766,0.0005 C16.7636,0.0005 17.2396,0.4755 17.2396,1.0635 L17.2396,24.4375 C17.2396,25.0245 16.7666,25.5005 16.1766,25.5005 L1.3026,25.5005 C0.7166,25.5005 0.2396,25.0245 0.2396,24.4375 L0.2396,1.0635 Z M2.3646,21.2505 L15.1146,21.2505 L15.1146,2.1255 L2.3646,2.1255 L2.3646,21.2505 Z M7.6766,23.3755 C7.6766,22.7885 8.1486,22.3125 8.7396,22.3125 C9.3266,22.3125 9.8026,22.7845 9.8026,23.3755 C9.8026,23.9615 9.3306,24.4375 8.7396,24.4375 C8.1526,24.4375 7.6766,23.9665 7.6766,23.3755 L7.6766,23.3755 Z" id="Fill-21" fill="#2A86CA"></path>
                   <polygon id="Fill-23" fill="#2A86CA" points="12.9896 8.5 4.4896 17 4.4896 4.25 12.9896 4.25"></polygon>
@@ -212,7 +209,7 @@ customer base and digital sales rate</p>
           </svg>
         </div>
         <h3 class="title-list">Optimal capital allocation</h3>
-        <p class="paragraph">+58 basic points of CET1 fullyloaded generated </p>
+        <p class="paragraph">+58 basis points of CET1 fully-loaded generated </p>
       </li>
       <li class="list-item">
         <div class="list-media is-left is-small">
@@ -240,7 +237,7 @@ expenses</p>
           </svg>
         </div>
         <h3 class="title-list">A first-class workforce</h3>
-        <p class="paragraph">Agile organization focused on
+        <p class="paragraph">Agile Organization focused on
 delivery</p>
       </li>
     </ul>

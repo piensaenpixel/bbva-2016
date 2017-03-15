@@ -131,7 +131,7 @@ Purpose and working together as a single team.</p>
         </div>
         <h4 class="paragraph is-l no-margin"><b>Proximity to the business</b></h4>
         <p class="paragraph">acting as business partners for the other
-areas.</p>
+areas</p>
       </li>
       <li class="list-item">
         <div class="section-media is-center is-space--30">
@@ -148,7 +148,7 @@ areas.</p>
         </div>
         <h4 class="paragraph is-l no-margin"><b>Focus on execution</b></h4>
         <p class="paragraph">delivering new data-based solutions with
-committed deadlines, and making things simple.</p>
+committed deadlines, and making things simple</p>
       </li>
       <li class="list-item">
         <div class="section-media is-center is-space--30">
@@ -209,7 +209,7 @@ committed deadlines, and making things simple.</p>
         </div>
         <h4 class="paragraph is-l no-margin"><b><i>One team</i></b></h4>
         <p class="paragraph">working as a single team across all regions, with no
-functional silos.</p>
+functional silos</p>
       </li>
     </ul>
 

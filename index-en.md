@@ -10,7 +10,7 @@ headerTitle: Report BBVA 2016
   <div class="container u-txt-center" data-header-control>
     <h1>BBVA in 2016</h1>
     <h2>Financial and non-financial information</h2>
-    <p>
+    <p class="u-upperCase">
       A customer-oriented 
       <!-- data-show-id should link data-id -->
       <a data-show-id="1" href="https://www.youtube.com/embed/iDSOsx4l23E" target="_blank">
@@ -55,8 +55,8 @@ headerTitle: Report BBVA 2016
         18.333,29.332 36.666,0 "/>
       </svg>
       <h3>2016 was a good year for BBVA. We increased our earnings and made
-major progress in our Strategic Priorities.</h3>
-      <p>Francisco González - Group Executive Chairman</p>
+major progress in our Strategic Priorities</h3>
+      <p>Francisco González - BBVA Group Executive Chairman</p>
       <!--
       <a href="{{site.baseurl}}/carta-del-presidente/">Leer más</a>-->
     </div>
@@ -308,9 +308,8 @@ shareholders</p>
           <img src="{{site.baseurl}}/images/home-sociedad.png" />
           <div class="card-highlightTxt">
             <h2>Society</h2>
-            <p>BBVA has launched the Community Investment Plan for the period 2016-2018, an
-ambitious initiative, which is established, as the main focus of action, finacial
-education, social entrepreneurship and knowledge, science and culture</p>
+            <p>BBVA has launched the Community Investment Plan for the period 2016-2018, an initiative, which is established, as the main focus of action, finacial
+education, entrepreneurship and knowledge, education and culture</p>
           </div>
         </a>
       </li>
@@ -358,14 +357,14 @@ general and BBVA in particular</p>
   <div class="container">
     <h2 class="title-section title-section--inside">About this report</h2>
     <div class="columns columns--2">
-      <p class="paragraph">BBVA in 2016 is a report published every year that presents the most relevant financial and nonfinancial
+      <p class="paragraph">BBVA in 2016 is a report published every year that presents the most relevant financial and non-financial
 information about BBVA Group in 2016, supplemented with other documents and reports
 published by the Bank. The aim is to provide information on the Group’s strategy and performance
 during the year, with a focus on events that are relevant for our stakeholders. For this purpose,
 BBVA in 2016 is a report which is interconnected with the rest of the annual information through links
 and references.</p>
       <p class="paragraph">Prepared jointly by the Financial Communication & External Reporting and Responsible Business
-departments, and with the collaboration of different areas and departments in the whole Bank, BBVA
+Departments, and with the collaboration of different areas and departments in the whole Bank, BBVA
 in 2016 follows the latest international reporting trends, such as the IIRC Conceptual Framework, the 
 Global Reporting Initiative Sustainability Reporting Guidelines (GRI G4) and the Institute for Social
 and Ethical Accountability AA1000 standard.</p>
@@ -434,7 +433,7 @@ for an adequate management and oversight of the Bank </p>
         <h2>Risk Management</h2>
         <p>BBVA has a general risk management and control model that has
 established an adequate risk management system, in line with the
-Entity's risk profile and strategy.</p>
+Entity's risk profile and strategy</p>
         <p class="link-more is-left">
           <a href="http://accionistaseinversores.bbva.com/TLBB/fbinir/mult/5_cuentas _anuales_consolidadas_grupo_bbva2016_tcm926-633620.pdf" target="_blank">
             <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"

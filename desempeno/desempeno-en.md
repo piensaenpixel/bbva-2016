@@ -39,14 +39,14 @@ headerTitle: Report BBVA 2016
 other agents, with the aim of preserving them and making them grow, and to lend them,
 with rigor and prudence, to third parties. These loans can drive the development of
 personal, corporate and public-sector projects that make the improvement of our present
-and future possible</p>
+and future possible.</p>
   </div>
 </section>
 
 
 <section class="section section--blue section--blueDark">
   <div class="container container--small">
-    <h2 class="title-section title-section--inside u-txt-center">Financial Performance</h2>
+    <h2 class="title-section title-section--inside u-txt-center">Financial performance</h2>
     <p class="paragraph paragraph--big">The difference between what the bank pays for deposits and the interest it charges for
 loans, i.e. the net interest income, is its main source of revenue. Recurring revenues,
 which are the sum of net interest income and income from fees and commissions, allows
@@ -74,7 +74,7 @@ of capital that are sufficient to keep the entity solvent.</p>
                 <svg width="19px" height="20px" viewBox="0 -1 19 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                     <path d="M13.9761,7.8098 L12.8781,8.9078 L10.0061,6.0278 L10.0371,15.3578 L8.5,15.3578 L8.5241,6.0048 L5.5751,8.9378 L4.4691,7.8398 L9.2381,3.0718 L13.9761,7.8098 Z M9.2151,18.4298 C14.3061,18.4298 18.4301,14.3058 18.4301,9.2148 C18.4301,4.1238 14.3061,-0.0002 9.2151,-0.0002 C4.1241,-0.0002 0.0001,4.1238 0.0001,9.2148 C0.0001,14.3058 4.1241,18.4298 9.2151,18.4298 Z" id="Fill-1" stroke="none" fill="#2ECDCD" fill-rule="evenodd"></path>
                 </svg>&nbsp;
-                <b>+14,2%</b>
+                <b>+14.2%</b>
               </p>
             </li>
             <li class="list-item">
@@ -84,7 +84,7 @@ of capital that are sufficient to keep the entity solvent.</p>
                 <svg width="19px" height="20px" viewBox="0 -1 19 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                     <path d="M13.9761,7.8098 L12.8781,8.9078 L10.0061,6.0278 L10.0371,15.3578 L8.5,15.3578 L8.5241,6.0048 L5.5751,8.9378 L4.4691,7.8398 L9.2381,3.0718 L13.9761,7.8098 Z M9.2151,18.4298 C14.3061,18.4298 18.4301,14.3058 18.4301,9.2148 C18.4301,4.1238 14.3061,-0.0002 9.2151,-0.0002 C4.1241,-0.0002 0.0001,4.1238 0.0001,9.2148 C0.0001,14.3058 4.1241,18.4298 9.2151,18.4298 Z" id="Fill-1" stroke="none" fill="#2ECDCD" fill-rule="evenodd"></path>
                 </svg>&nbsp;
-                <b>+16,9%</b>
+                <b>+16.9%</b>
               </p>
             </li>
             <li class="list-item">
@@ -94,11 +94,10 @@ of capital that are sufficient to keep the entity solvent.</p>
                 <svg width="19px" height="20px" viewBox="0 -1 19 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                     <path d="M13.9761,7.8098 L12.8781,8.9078 L10.0061,6.0278 L10.0371,15.3578 L8.5,15.3578 L8.5241,6.0048 L5.5751,8.9378 L4.4691,7.8398 L9.2381,3.0718 L13.9761,7.8098 Z M9.2151,18.4298 C14.3061,18.4298 18.4301,14.3058 18.4301,9.2148 C18.4301,4.1238 14.3061,-0.0002 9.2151,-0.0002 C4.1241,-0.0002 0.0001,4.1238 0.0001,9.2148 C0.0001,14.3058 4.1241,18.4298 9.2151,18.4298 Z" id="Fill-1" stroke="none" fill="#2ECDCD" fill-rule="evenodd"></path>
                 </svg>&nbsp;
-                <b>+61,2%</b>
+                <b>+61.2%</b>
               </p>
             </li>
           </ul>
-
 
           <p class="paragraph u-txt-center">Year-on-year rates of change at constant exchange rates</p>
         </div>
@@ -139,18 +138,18 @@ of capital that are sufficient to keep the entity solvent.</p>
 <section class="section section--grey">
   <div class="container container--small">
     <h2 class="title-section title-section--inside u-txt-center">Impact on people</h2>
-    <p class="paragraph paragraph--big">In addition to its role as a bank, BBVA strives to achieve its <b>Purpose</b> of bringing the age of
-opportunity to everyone and the <b>aspiration</b> to strengthen its relationships with its
+    <p class="paragraph paragraph--big">In addition to its role as a bank, BBVA strives to achieve its Purpose of bringing the age of
+opportunity to everyone and the aspiration to strengthen its relationships with its
 customers. We help people and companies make the best financial decisions by offering
 advice and transparent, clear and responsible information. And this because we believe
 that we are more than just a bank: we are creators of opportunities. Our Purpose and our
 aspiration therefore have a positive impact on people's lives. <b>BBVA, Creating
 Opportunities.</b></p>
     <ul class="tabs">
-      <li class="tabs-item"><a href="#riqueza" class="is-active">Riqueza</a></li>
-      <li class="tabs-item"><a href="#desarrollo">Desarrollo y bienestar social</a></li>
-      <li class="tabs-item"><a href="#aportacion">Aportación a la sociedad</a></li>
-      <li class="tabs-item"><a href="#sostenible">Desarrollo sostenible</a></li>
+      <li class="tabs-item"><a href="#riqueza" class="is-active">Wealth creation</a></li>
+      <li class="tabs-item"><a href="#desarrollo">Contribution to growth and welfare</a></li>
+      <li class="tabs-item"><a href="#aportacion">Direct contribution to society</a></li>
+      <li class="tabs-item"><a href="#sostenible">Contribution to sustainable development</a></li>
     </ul>
     <div class="tabs-container">
       <div class="tabs-item" id="riqueza">
@@ -199,7 +198,7 @@ Opportunities.</b></p>
               </svg>
             </div>
             <h4 class="txt-number is-small">4,240</h4>
-            <p class="paragraph"><b>suppliers</b> were paid €7,751m(1)</p>
+            <p class="paragraph"><b>suppliers</b> were paid €7,751m</p>
           </li>
           <li class="list-item">
             <div class="list-media is-small">
@@ -249,7 +248,7 @@ economies in which BBVA operates</p>
             <p class="paragraph is-small"><b>SMEs, micro-enterprises and self-employed workers</b> supported or financed by BBVA</p>
           </li>
           <li class="list-item">
-            <h4 class="txt-number is-small">9,799,905</h4>
+            <h4 class="txt-number is-small">9,8 <span>million</span></h4>
             <p class="paragraph is-small">customers in financial inclusion segment</p>
           </li>
           <li class="list-item">
@@ -266,7 +265,7 @@ Microfinance Foundation</p>
         <ul class="list  list--twoItems list--decoration">
           <li class="list-item">
             <div clas="u-flex u-alignTop">
-              <h4 class="txt-number is-small u-blue ">€92 <small>M</small></h4>
+              <h4 class="txt-number is-small u-blue ">€93,3 <small>M</small></h4>
               <p class="paragraph is-small">allocated to social programs, 2.7% of the Group's net attributable profit</p>
             </div>
           </li>
@@ -279,7 +278,7 @@ Microfinance Foundation</p>
           <li class="list-item">
             <h5 class="txt-more">&nbsp;</h5>
             <div class="u-flex u-alignTop">
-              <h4 class="txt-number is-small u-blue ">2,5 <small>M</small></h4>
+              <h4 class="txt-number is-small u-blue ">2,1 <small>M</small></h4>
               <p class="paragraph is-small">people have participated in financial education programs</p>
             </div>
           </li>
@@ -302,7 +301,7 @@ Microfinance Foundation</p>
               <svg width="49px" height="45px" viewBox="343 -46 49 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                   <path d="M372.1706,-1.4164 C377.5406,-1.4164 381.8946,-5.8234 381.8946,-11.2604 C381.8946,-16.6954 377.5406,-21.1034 372.1706,-21.1034 C371.3336,-21.1034 370.5256,-20.9854 369.7516,-20.7834 C367.6826,-25.9184 362.7066,-29.5414 356.8906,-29.5414 C349.2186,-29.5414 343.0006,-23.2444 343.0006,-15.4794 C343.0006,-7.7104 349.2186,-1.4164 356.8906,-1.4164 L372.1706,-1.4164 Z M382.5236,-26.8684 C382.5236,-32.4864 377.9116,-37.0414 372.2226,-37.0414 C368.0986,-37.0414 364.5406,-34.6474 362.8956,-31.1904 C362.8576,-31.1124 362.7966,-30.9294 362.7606,-30.8494 C366.3716,-29.5214 369.5536,-26.8684 370.8406,-23.6184 C371.6156,-23.8194 372.4006,-23.8004 373.1386,-23.7484 C375.9686,-23.5494 378.3756,-22.3794 380.1516,-20.3744 C381.6326,-22.1364 382.5236,-24.3994 382.5236,-26.8684 Z M384.8446,-38.9134 L384.8456,-41.7114 L384.7706,-41.7864 L379.9386,-36.9984 L381.4246,-35.5254 L384.8446,-38.9134 Z M389.4626,-25.5834 L391.4606,-27.5614 L391.4606,-27.6664 L384.6276,-27.6664 L384.6276,-25.5834 L389.4626,-25.5834 Z M361.6036,-40.5954 L358.7796,-40.5964 L358.7046,-40.5214 L363.5356,-35.7334 L365.0226,-37.2074 L361.6036,-40.5954 Z M373.2746,-44.0204 L371.2776,-45.9994 L371.1716,-45.9994 L371.1716,-39.2294 L373.2746,-39.2294 L373.2746,-44.0204 Z" id="Fill-1" stroke="none" fill="#2ECDCD" fill-rule="evenodd"></path>
               </svg>&nbsp;
-            5,79%</h4>
+            5,8%</h4>
             <p class="paragraph is-small">reduction in <b>CO2 emission</b> per person</p>
           </li>
           <li class="list-item">

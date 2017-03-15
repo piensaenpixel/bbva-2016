@@ -115,7 +115,7 @@ and create opportunities for people.</p>
       </li>
     </ul>
     <div class="section-media is-center">
-        <img style="max-width: 710px;" src="{{site.baseurl}}/images/sociedad-programa-sociales-eng.svg" />
+        <img style="max-width: 710px;" src="{{site.baseurl}}/images/sociedad-programa-sociales_eng.svg" />
     </div>
 
     <p class="link-more">
@@ -149,12 +149,12 @@ and create opportunities for people.</p>
     <ul class="list list--threeItems">
       <li class="list-item">
         <p class="paragraph u-upperCase"><b>Children and young adults</b></p>
-        <h3 class="txt-number is-small">2,1 <small>M</small></h3>
+        <h3 class="txt-number is-small">2.1 <small>M</small></h3>
         <p class="paragraph u-blueDark is-book">Responsible use of money</p>
       </li>
       <li class="list-item">
-        <p class="paragraph"><b>Adults</b></p>
-        <h3 class="txt-number is-small">396.988</h3>
+        <p class="paragraph u-upperCase"><b>Adults</b></p>
+        <h3 class="txt-number is-small">396,988</h3>
         <p class="paragraph u-blueDark is-book">To provide knowledge that
 can improve financial wellbeing
 and increase
@@ -162,7 +162,7 @@ opportunities</p>
       </li>
       <li class="list-item">
         <p class="paragraph"><b>SMEs</b></p>
-        <h3 class="txt-number is-small">34.305</h3>
+        <h3 class="txt-number is-small">34,305</h3>
         <p class="paragraph u-blueDark is-book">Support training in financial
 skills for the management
 and growth of small and
@@ -209,7 +209,7 @@ medium-sized businesses </p>
         <ul class="list-decoration is-dark">
           <li class="list-decorationItem">
             <p class="paragraph no-margin">Activate Your Business</p>
-            <p class="paragraph is-xs">Spain</p>
+            <p class="paragraph is-xs">SPAIN</p>
           </li>
           <li class="list-decorationItem">
             <p class="paragraph no-margin">Finance for Entrepreneurship and Growth</p>

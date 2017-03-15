@@ -45,7 +45,7 @@ regulatory  pressure  and regulatory  culture.  </h2>
           <path d="M613.9645,84.9643 C616.7155,84.9643 618.9465,82.7343 618.9465,79.9823 C618.9465,77.2303 616.7155,75.0003 613.9645,75.0003 C611.2125,75.0003 608.9825,77.2303 608.9825,79.9823 C608.9825,82.7343 611.2125,84.9643 613.9645,84.9643 L613.9645,84.9643 Z M616.9535,93.9323 L613.9645,93.9323 L613.9645,91.9393 L618.9465,91.9393 L616.9535,93.9323 Z M617.0905,86.2173 C616.1505,86.6903 615.0895,86.9573 613.9645,86.9573 C612.8395,86.9573 611.7775,86.6893 610.8375,86.2163 C606.9075,87.1733 603.9995,90.7113 603.9995,94.9293 L603.9995,96.9223 L623.9285,96.9223 L623.9285,94.9293 C623.9285,90.7103 621.0155,87.1743 617.0905,86.2173 L617.0905,86.2173 Z" id="Fill-1" stroke="none" fill="#2A86CA" fill-rule="evenodd"></path>
       </svg>
     </div>
-    <h3 class="paragraph is-dark u-upperCase"><b>Main functions</b></h3>
+    <h3 class="paragraph is-dark"><b>Main functions</b></h3>
     <div class="columns columns--2">
       <p class="paragraph"> Ensure that financial institutions  operate correctly.</p>
       <p class="paragraph">Harmonize  the interests of    banks with  the interests of  

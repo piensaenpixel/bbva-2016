@@ -47,7 +47,7 @@ headerTitle: Informe anual BBVA 2016
 <section class="section section--grey">
   <div class="container container--small">
     <div class="section-media section-media--negocio">
-      <a href="{{site.baseurl}}/downloads/grupos_cliente_experiencia_en.pdf">
+      <a href="{{site.baseurl}}/downloads/grupos_cliente_experiencia.pdf">
         <img src="{{site.baseurl}}/images/negocio-graphic.png" />
       </a>
     </div>
