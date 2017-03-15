@@ -158,7 +158,7 @@ headerTitle: Informe anual BBVA 2016
   <div class="container container--small">
     <h2 class="u-txt-center title-section title-section--inside">Relación con accionistas e inversores</h2>
     <p class="paragraph">El Banco se ha dotado de una política de comunicación con accionistas e inversores que tiene como principio fundamental la transparencia, veracidad, inmediatez y homogeneidad en la difusión de la información.</p>
-    <p class="paragraph paragraph--big">Además, la unidad  de Investor Relations facilita el acceso de todos los accionistas de BBVA a la llamada <span class="highlight">oficina del accionista</span> cuyos objetivos son informar sobre los aspectos relevantes de la acción y el Grupo, ofrecer productos especiales y atender sugerencias. 
+    <p class="paragraph paragraph--big">Además, la unidad  de Investor Relations facilita el acceso de todos los accionistas de BBVA a la llamada <a href="https://accionistaseinversores.bbva.com/TLBB/tlbb/bbvair/esp/shareholders/index.jsp" target="_blank"><span class="highlight"  style="background: none;">oficina del accionista</span></a>cuyos objetivos son informar sobre los aspectos relevantes de la acción y el Grupo, ofrecer productos especiales y atender sugerencias. 
 </p>
   <p class="link-more">
     <a href="#">

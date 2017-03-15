@@ -26,6 +26,12 @@
   color: $white;
   font-family: 'BentonBook';
   font-size: 12px;
+  a {
+    color: $white;
+    text-decoration: none;
+    margin-top: 8px;
+    display: inline-block;
+  }
 }
 
 .footer-social {

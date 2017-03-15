@@ -145,7 +145,7 @@ headerTitle: Informe anual BBVA 2016
     </ul>
 
 
-
+<!--
     <p class="link-more is-white">
       <a href="#">
         <svg version="1.1" width="20" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 15.2 20.3" xml:space="preserve">
@@ -159,6 +159,6 @@ headerTitle: Informe anual BBVA 2016
           </svg>
           Leer más
       </a>
-    </p>
+    </p>-->
   </div>
 </section>

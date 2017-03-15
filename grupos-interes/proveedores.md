@@ -246,7 +246,7 @@ headerTitle: Informe anual BBVA 2016
                   </g>
               </svg>
             </div>
-            <p class="paragraph">Conocer si los proveedores cumplen con sus responsabilidades legales, medioambientales, cívicas, etc</p>
+            <p class="paragraph">Conocer si los proveedores cumplen con sus responsabilidades legales, medioambientales, cívicas, etc.</p>
         </li>
     </ul>
 

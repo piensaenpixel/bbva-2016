@@ -107,28 +107,28 @@ of capital that are sufficient to keep the entity solvent.</p>
         <div class="tabs-header">
           <h3 class="tabs-title">Balance sheet</h3>
           <p class="paragraph u-txt-center">Activity at very similar levels to the previous year in an adverse environment. Reduction of non-performing loans</p>
-          <img src="{{site.baseurl}}/images/des_financiero_balance.svg" />
+          <img src="{{site.baseurl}}/images/des_financiero_balance_en.svg" />
         </div>
       </div>
       <div class="tabs-item" id="rentabilidad">
         <div class="tabs-header">
           <h3 class="tabs-title">Profitability / Efficiency</h3>
           <p class="paragraph u-txt-center">Improving profitability and efficiency ratios</p>
-          <img src="{{site.baseurl}}/images/des_financiero_rentabilidad.svg" />
+          <img src="{{site.baseurl}}/images/des_financiero_rentabilidad_en.svg" />
         </div>
       </div>
       <div class="tabs-item" id="riesgo">
         <div class="tabs-header">
           <h3 class="tabs-title">Risk management</h3>
           <p class="paragraph u-txt-center">Improving risk indicators</p>
-          <img src="{{site.baseurl}}/images/des_financiero_riesgo.svg" />
+          <img src="{{site.baseurl}}/images/des_financiero_riesgo_en.svg" />
         </div>
       </div>
       <div class="tabs-item" id="solvencia">
         <div class="tabs-header">
           <h3 class="tabs-title">Solvency</h3>
           <p class="paragraph u-txt-center">Strong capital base</p>
-          <img src="{{site.baseurl}}/images/des_financiero_solvencia.svg" />
+          <img src="{{site.baseurl}}/images/des_financiero_solvencia_eng.svg" />
         </div>
       </div>
     </div>

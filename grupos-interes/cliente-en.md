@@ -56,7 +56,7 @@ service of the customer</p>
   <div class="container container--small">
     <div class="section-media section-media--negocio">
       <a href="{{site.baseurl}}/downloads/grupos_cliente_experiencia_en.pdf">
-        <img src="{{site.baseurl}}/images/negocio-graphic.png" />
+        <img style="max-width: 710px;" src="{{site.baseurl}}/images/negocio-graphic-eng.svg" />
       </a>
     </div>
 
@@ -100,7 +100,7 @@ communication strategy</b> is crucial</h2>
     <h2 class="u-txt-center title-section title-section--inside">Our goal is to be leaders in customer satisfaction across our global footprint</h2>
     <p class="paragraph is-l u-txt-center paragraph--big u-blue u-upperCase"><b>First Bank in NPS index in 7 geographies </b></p>
     <div class="section-media">
-        <img src="{{site.baseurl}}/images/map-cliente.svg" />
+        <img src="{{site.baseurl}}/images/map-cliente-eng.svg" style="max-width: 710px;" />
     </div>
   </div>
 </section>
@@ -151,7 +151,7 @@ communication strategy</b> is crucial</h2>
     </ul>
 
 
-
+<!--
     <p class="link-more is-white">
       <a href="#">
         <svg version="1.1" width="20" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 15.2 20.3" xml:space="preserve">
@@ -163,8 +163,8 @@ communication strategy</b> is crucial</h2>
             <path class="#FFF" d="M7.4,9.2H7.1v2.5h0.3c0.9,0,1.2-0.3,1.2-1.3C8.6,9.6,8.3,9.2,7.4,9.2z"/>
           </g>
           </svg>
-          Leer más
+          Read more
       </a>
-    </p>
+    </p>-->
   </div>
 </section>

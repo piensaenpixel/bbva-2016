@@ -46,7 +46,7 @@ providing the best employee experience</h2>
     <p class="paragraph is-huge is-dark u-txt-center paragraph--big">One of the BBVA's six Strategic Priorities </p>
     <p class="paragraph is-l u-txt-center paragraph--big"><b>EMPLOYEES</b></p>
     <div class="section-media is-center">
-      <img src="{{site.baseurl}}/images/map-empleados.svg" />
+      <img src="{{site.baseurl}}/images/map-empleados-eng.svg" />
     </div>
   </div>
 </section>
@@ -54,7 +54,7 @@ providing the best employee experience</h2>
 <section class="section section--grey">
   <div class="container">
     <div class="section-media is-center">
-      <img src="{{site.baseurl}}/images/number-employees.svg" />
+      <img src="{{site.baseurl}}/images/number-employees-eng.svg" />
     </div>
   </div>
 </section>
@@ -64,7 +64,7 @@ providing the best employee experience</h2>
   <div class="container">
     <h2 class="u-txt-center title-section title-section--inside">Best place to work</h2>
     <div class="section-media is-center">
-      <img src="{{site.baseurl}}/images/best-place.png" />
+      <img src="{{site.baseurl}}/images/best-place-eng.png" />
     </div>
   </div>
 </section>

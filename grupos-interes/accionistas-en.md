@@ -64,7 +64,12 @@ headerTitle: Report BBVA 2016
     </ul>
 
     <hr class="break" />
-    <p class="paragraph no-margin is-dark u-txt-center u-upperCase">ponderación de la acción BBVA en los principales índices bursátiles</p>
+    <div class="section-media is-center">
+      <img style="max-width: 710px;" src="{{site.baseurl}}/images/map-acciones-eng.svg" />
+    </div>
+
+    <hr class="break" />
+    <p class="u-txt-center title-section title-section--inside u-upperCase">WEIGHTING</p>
     <p class="paragraph is-s paragraph--medium u-txt-center">(31 - 12 - 2016)</p>
     <ul class="list-box">
       <li class="list-boxItem">
@@ -84,10 +89,7 @@ headerTitle: Report BBVA 2016
         <p class="txt-number is-small">4,4%</p>
       </li>
     </ul>
-    <div class="section-media is-center">
-      <img src="{{site.baseurl}}/images/map-acciones.svg" />
-    </div>
-    <hr class="break" />
+
   </div>
 </section>
 
@@ -96,7 +98,7 @@ headerTitle: Report BBVA 2016
   <div class="container container--small">
     <h2 class="u-txt-center title-section">BBVA's capital ownership is well diversified</h2>
     <div class="section-media is-center">
-      <img src="{{site.baseurl}}/images/accionistas-diversificacion.svg" />
+      <img style="max-width: 580px;" src="{{site.baseurl}}/images/accionistas-diversificacion-eng.svg" />
     </div>
   </div>
 </section>
@@ -160,7 +162,7 @@ headerTitle: Report BBVA 2016
 basis principles are: truthfulness, immediacy and standardization in providing
 information.</p>
     <p class="paragraph paragraph--big">In addition, through its website the Investor Relations unit gives all BBVA
-shareholders access to the <span class="highlight">Shareholder Office</span> which provides information on
+shareholders access to the <a href="https://accionistaseinversores.bbva.com/TLBB/tlbb/bbvair/esp/shareholders/index.jsp" target="_blank"><span class="highlight" style="background: none;">Shareholder Office</span></a> which provides information on
 relevant aspects related to the BBVA share and the Group, offers special
 products and responds to suggestions. 
 </p>

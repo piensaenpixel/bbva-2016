@@ -45,7 +45,7 @@ headerTitle: Informe anual BBVA 2016
     <p class="paragraph is-huge is-dark u-txt-center paragraph--big">Una de las seis Prioridades Estratégicas</p>
     <p class="paragraph is-l u-txt-center paragraph--big"><b>EMPLEADOS</b></p>
     <div class="section-media is-center">
-      <img src="{{site.baseurl}}/images/map-empleados.svg" />
+      <img style="max-width: 810px;" src="{{site.baseurl}}/images/map-empleados.svg" />
     </div>
   </div>
 </section>
@@ -53,7 +53,7 @@ headerTitle: Informe anual BBVA 2016
 <section class="section section--grey">
   <div class="container">
     <div class="section-media is-center">
-      <img src="{{site.baseurl}}/images/number-employees.svg" />
+      <img style="max-with: 786px;" src="{{site.baseurl}}/images/number-employeers.svg" />
     </div>
   </div>
 </section>
@@ -63,7 +63,7 @@ headerTitle: Informe anual BBVA 2016
   <div class="container">
     <h2 class="u-txt-center title-section title-section--inside">Best place to work</h2>
     <div class="section-media is-center">
-      <img src="{{site.baseurl}}/images/best-place.png" />
+      <img style="max-width: 616px;" src="{{site.baseurl}}/images/best-place.svg" />
     </div>
   </div>
 </section>

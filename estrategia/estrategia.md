@@ -40,7 +40,7 @@ headerTitle: Informe anual BBVA 2016
 <section class="section section--pilares" data-parallax="scroll" data-speed=".4" data-image-src="{{site.baseurl}}/images/bg-pilares.png">
   <div class="container">
     <h2 class="u-txt-center title-section title-section--inside">Cuatro pilares de la banca de futuro</h2>
-    <p class="paragraph is-l u-txt-center paragraph--big">Nos dirigimos hacia un nuevo ecosistema conformado por grandes jugadores que van a cambiar la dinámica del mundo financiero. Solo aquéllos que consigan la excelencia tecnológica, la mejor experiencia de cliente, sin conflictos de interés y con transparencia, podrán formar parte de esta nueva industria</p>
+    <p class="paragraph is-l u-txt-center paragraph--big">Nos dirigimos hacia un nuevo ecosistema conformado por grandes jugadores que van a cambiar la dinámica del mundo financiero. Solo aquellos que consigan la excelencia tecnológica, la mejor experiencia de cliente, sin conflictos de interés y con transparencia, podrán formar parte de esta nueva industria</p>
   </div>
   <div class="container container--small">
     <ul class="list list--fourItems">
@@ -191,7 +191,7 @@ headerTitle: Informe anual BBVA 2016
           </svg>
         </div>
         <h3 class="title-list">La mejor experiencia de cliente</h3>
-        <p class="paragraph">Nuevos productos y funcionalidades que mejoran la experiencia del cliente</p>
+        <p class="paragraph">Nuevos productos y funcionalidades que mejoran la experiencia de cliente</p>
       </li>
       <li class="list-item">
         <div class="list-media is-left is-small">

@@ -102,10 +102,11 @@ executive (FROB). </p>
 
 <section class="section section--blue section--piramids">
   <div class="container container--small">
-    <h2 class="u-txt-center title-section title-section--inside">Contexto normativo</h2>
-    <p class="paragraph paragraph--big is-huge u-green u-txt-center">Proseso de adopción de normas</p>
+    <h2 class="u-txt-center title-section title-section--inside">Procedure for the adoption of laws</h2>
+    <!--
+    <p class="paragraph paragraph--big is-huge u-green u-txt-center">Proseso de adopción de normas</p>-->
     <div class="section-media">
-        <img src="{{site.baseurl}}/images/reguladores-contexto.png" />
+        <img style="max-width: 710px;" src="{{site.baseurl}}/images/reguladores-contexto-eng.svg" />
     </div>
   </div>
 </section>
@@ -162,7 +163,7 @@ opened</b></h2>
 ECB teams (Joint  Supervisory 
 Teams -JST-).</p>
     <div class="section-media is-center">
-        <img src="{{site.baseurl}}/images/reguladores-sede.svg" />
+        <img style="max-width:437px;" src="{{site.baseurl}}/images/reguladores-sede-eng.svg" />
     </div>
   </div>
 </section>
@@ -175,10 +176,10 @@ Office</b></h2>
 requirements  and interaction with  
 the resolution  authorities.</p>
     <div class="section-media is-center">
-        <img src="{{site.baseurl}}/images/reguladores-constitucion.png" />
+        <img style="max-width: 710px;" src="{{site.baseurl}}/images/reguladores-constitution-eng.svg" />
     </div>
 
-
+<!--
     <p class="link-more">
         <a href="#">
             <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 15.2 20.3" style="enable-background:new 0 0 15.2 20.3;" xml:space="preserve" width="18">
@@ -199,7 +200,7 @@ the resolution  authorities.</p>
             </svg>
             Read more
         </a>
-    </p>
+    </p>-->
 
   </div>
 </section>

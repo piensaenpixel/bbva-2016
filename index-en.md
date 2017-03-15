@@ -13,7 +13,7 @@ headerTitle: Report BBVA 2016
     <p>
       A customer-oriented 
       <!-- data-show-id should link data-id -->
-      <a data-show-id="1" href="https://www.youtube.com/embed/Scxs7L0vhZ4" target="_blank">
+      <a data-show-id="1" href="https://www.youtube.com/embed/iDSOsx4l23E" target="_blank">
       <span>
         <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
            width="46px" height="46px" viewBox="0 0 46 46" enable-background="new 0 0 46 46" xml:space="preserve">
@@ -38,7 +38,7 @@ headerTitle: Report BBVA 2016
       global financial services group
     </p>
     <!-- data-basicLightbox and data-id -->
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Scxs7L0vhZ4" frameborder="0" allowfullscreen data-basicLightbox data-id="1"></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/iDSOsx4l23E" frameborder="0" allowfullscreen data-basicLightbox data-id="1"></iframe>
   </div>
 </section>
 
@@ -210,7 +210,7 @@ major progress in our Strategic Priorities.</h3>
     <h2 class="figures-title">BBVA in figures</h2>
     <p class="figures-text">
       A summary of
-      <a href="#" data-show-id="2" href="https://vimeo.com/29193046" target="_blank">
+      <a href="#" data-show-id="2" href="https://www.youtube.com/embed/jg4jIiVYDg8" target="_blank">
         <svg version="1.1" width="46" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
            viewBox="0 0 46 46" style="enable-background:new 0 0 46 46;" xml:space="preserve">
         <path fill="#FFFFFF" d="M23,0C10.3,0,0,10.3,0,23s10.3,23,23,23s23-10.3,23-23S35.7,0,23,0 M23,42.2C12.4,42.2,3.8,33.6,3.8,23
@@ -218,7 +218,8 @@ major progress in our Strategic Priorities.</h3>
         </svg>
       </a>
       2016
-      <iframe src="https://player.vimeo.com/video/29193046" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen data-basicLightbox data-id="2"></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/jg4jIiVYDg8" frameborder="0" allowfullscreen data-basicLightbox data-id="2"></iframe>
+
     </p>
     <p class="link-more is-white">
       <a href="#">
@@ -267,7 +268,7 @@ Opportunities”.</p>
 <section class="section section--grey">
   <div class="container">
     <h2 class="title-section title-section--inside u-txt-center">Primary stakeholders</h2>
-    <p class="paragraph u-txt-center paragraph--big"><span class="u-blue">Materiality analysis.</span> BBVA has taken a great step forward in materiality analysis to
+    <p class="paragraph u-txt-center paragraph--big"><a href="{{site.baseurl}}/downloads/materialidad_en.pdf" class="u-blue">Materiality analysis.</a> BBVA has taken a great step forward in materiality analysis to
 ensure that the focus is on the most relevant aspects for both the stakeholders and the
 BBVA business.</p>
     <ul class="list list--twoItems">
@@ -334,7 +335,7 @@ general and BBVA in particular</p>
       </li>
     </ul>
     <p class="link-more">
-      <a href="{{site.baseurl}}/downloads/grupos_interes_en.pdf">
+      <a href="{{site.baseurl}}/downloads/grupos_interes_en.pdf" target="_blank">
         <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
            viewBox="0 0 15.2 20.3" style="enable-background:new 0 0 15.2 20.3;" xml:space="preserve" width="18">
         <style type="text/css">
@@ -435,7 +436,7 @@ for an adequate management and oversight of the Bank </p>
 established an adequate risk management system, in line with the
 Entity's risk profile and strategy.</p>
         <p class="link-more is-left">
-          <a href="#">
+          <a href="http://accionistaseinversores.bbva.com/TLBB/fbinir/mult/5_cuentas _anuales_consolidadas_grupo_bbva2016_tcm926-633620.pdf" target="_blank">
             <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                viewBox="0 0 15.2 20.3" style="enable-background:new 0 0 15.2 20.3;" xml:space="preserve" width="18">
             <style type="text/css">

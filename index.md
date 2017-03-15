@@ -10,7 +10,7 @@ headerTitle: Informe anual BBVA 2016
     <p>
       UN GRUPO FINANCIERO GLOBAL
       <!-- data-show-id should link data-id -->
-      <a data-show-id="1" href="https://www.youtube.com/embed/Scxs7L0vhZ4" target="_blank">
+      <a data-show-id="1" href="https://www.youtube.com/embed/iDSOsx4l23E" target="_blank">
       <span>
         <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
            width="46px" height="46px" viewBox="0 0 46 46" enable-background="new 0 0 46 46" xml:space="preserve">
@@ -35,7 +35,7 @@ headerTitle: Informe anual BBVA 2016
       CON UNA VISIÓN CENTRADA EN EL CLIENTE
     </p>
     <!-- data-basicLightbox and data-id -->
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Scxs7L0vhZ4" frameborder="0" allowfullscreen data-basicLightbox data-id="1"></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/iDSOsx4l23E" frameborder="0" allowfullscreen data-basicLightbox data-id="1"></iframe>
   </div>
 </section>
 
@@ -194,8 +194,7 @@ headerTitle: Informe anual BBVA 2016
       </li>
     </ul>
     <div class="u-txt-center">
-      <a href="https://www.bbva.com/es/informacion/?bbvaSearch=premios+y+reconocimientos
-" target="_blank" class="button button--green">
+      <a href="https://www.bbva.com/es/destacados/premios/" target="_blank" class="button button--green">
         Premios y reconocimientos
       </a>
     </div>
@@ -207,7 +206,7 @@ headerTitle: Informe anual BBVA 2016
     <h2 class="figures-title">BBVA en cifras</h2>
     <p class="figures-text">
       Resumen del
-      <a href="#" data-show-id="2" href="https://vimeo.com/29193046" target="_blank">
+      <a href="#" data-show-id="2" href="https://youtu.be/IBrA-E2ryKg" target="_blank">
         <svg version="1.1" width="46" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
            viewBox="0 0 46 46" style="enable-background:new 0 0 46 46;" xml:space="preserve">
         <path fill="#FFFFFF" d="M23,0C10.3,0,0,10.3,0,23s10.3,23,23,23s23-10.3,23-23S35.7,0,23,0 M23,42.2C12.4,42.2,3.8,33.6,3.8,23
@@ -215,7 +214,8 @@ headerTitle: Informe anual BBVA 2016
         </svg>
       </a>
       año 2016
-      <iframe src="https://player.vimeo.com/video/29193046" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen data-basicLightbox data-id="2"></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/IBrA-E2ryKg" frameborder="0" allowfullscreen data-basicLightbox data-id="2"></iframe>
+
     </p>
     <p class="link-more is-white">
       <a href="{{site.baseurl}}/desempeno-en-2016/">
@@ -240,10 +240,13 @@ headerTitle: Informe anual BBVA 2016
   </div>
 </section>
 
-<section class="section section--grey">
+
+
+
+<section class="section section--grey">g
   <div class="container">
     <h2 class="title-section title-section--inside u-txt-center">Nuestros principales grupos de interés</h2>
-    <p class="paragraph u-txt-center paragraph--big"><span class="u-blue">Análisis de materialidad:</span> BBVA ha dado un gran paso adelante en el análisis de materialidad para asegurar que se pone el foco en los aspectos más relevantes, tanto para los grupos de interés como para el negocio de BBVA.</p>
+    <p class="paragraph u-txt-center paragraph--big"><a href="{{site.baseurl}}/downloads/materialidad.pdf" class="u-blue">Análisis de materialidad:</a> BBVA ha dado un gran paso adelante en el análisis de materialidad para asegurar que se pone el foco en los aspectos más relevantes, tanto para los grupos de interés como para el negocio de BBVA.</p>
     <ul class="list list--twoItems">
       <li class="list-item">
         <a href="{{site.baseurl}}/grupos-interes/cliente/" class="card-highlight">
@@ -302,7 +305,7 @@ industria financiera en general y para BBVA en particular</p>
       </li>
     </ul>
     <p class="link-more">
-      <a href="{{site.baseurl}}/downloads/grupos_interes.pdf">
+      <a href="{{site.baseurl}}/downloads/grupos_interes.pdf" target="_blank">
         <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
            viewBox="0 0 15.2 20.3" style="enable-background:new 0 0 15.2 20.3;" xml:space="preserve" width="18">
         <style type="text/css">
@@ -359,7 +362,7 @@ industria financiera en general y para BBVA en particular</p>
         <h2>Gobierno corporativo</h2>
         <p>BBVA cuenta un sistema de gobierno corporativo conformado por un conjunto de principios, normas, estructuras y procesos que regulan y ordenan las relaciones entre la Sociedad, su dirección, sus accionistas y otras partes interesadas y permiten, a su vez, una gestión y supervisión adecuada del Banco</p>
         <p class="link-more is-left">
-          <a href="{{site.baseurl}}/downloads/gobierno_corporativo.pdf">
+          <a href="{{site.baseurl}}/downloads/gobierno_corporativo.pdf" target="_blank">
             <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                viewBox="0 0 15.2 20.3" style="enable-background:new 0 0 15.2 20.3;" xml:space="preserve" width="18">
             <style type="text/css">
@@ -389,7 +392,7 @@ industria financiera en general y para BBVA en particular</p>
         <h2>Gestion del riesgo</h2>
         <p>BBVA cuenta con un modelo general de gestión y control de riesgos que  establece un adecuado sistema de gestión de los mismos, en función del perfil de riesgos y la estrategia de la Entidad</p>
         <p class="link-more is-left">
-          <a href="{{site.baseurl}}/downloads/gestion_riesgo.pdf">
+          <a href="http://accionistaseinversores.bbva.com/TLBB/fbinir/mult/5_cuentas _anuales_consolidadas_grupo_bbva2016_tcm926-633620.pdf" target="_blank">
             <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                viewBox="0 0 15.2 20.3" style="enable-background:new 0 0 15.2 20.3;" xml:space="preserve" width="18">
             <style type="text/css">

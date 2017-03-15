@@ -56,7 +56,7 @@ headerTitle: Report BBVA 2016
   <div class="container container--small">
     <h2 class="u-txt-center title-section title-section--inside">Relationship suppliers- BBVA based on</h2>
     <div class="section-media is-center">
-        <img src="{{site.baseurl}}/images/proveedores-relacion.svg" />
+        <img style="max-width: 710px;" src="{{site.baseurl}}/images/proveedores-relaciones-eng.svg" />
     </div>
   </div>
 </section>
@@ -73,7 +73,7 @@ headerTitle: Report BBVA 2016
     </div>
     <p class="u-txt-center paragraph is-dark paragraph--medium"><b>TOOLS</b></p>
     <div class="section-media is-center">
-        <img src="{{site.baseurl}}/images/proveedores-herramientas.svg" />
+        <img style="max-width: 710px;" src="{{site.baseurl}}/images/proveedores-herramienta-eng.svg" />
     </div>
 
     <div class="section-media is-center is-space--10">

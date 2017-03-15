@@ -141,7 +141,7 @@ headerTitle: Informe anual BBVA 2016
     <ul class="list list--threeItems">
       <li class="list-item">
         <p class="paragraph"><b>NIÑOS Y JÓVENES</b></p>
-        <h3 class="txt-number is-small">2,1 <small>M</small></h3>
+        <h3 class="txt-number is-small">2,1 <small>Millones</small></h3>
         <p class="paragraph u-blueDark is-book">Uso responsable del dinero</p>
       </li>
       <li class="list-item">
@@ -211,7 +211,7 @@ headerTitle: Informe anual BBVA 2016
 
 
     <p class="link-more is-white">
-<a href="{{site.baseurl}}/downloads/grupos_sociedad_programassociales.pdf">
+<a href="{{site.baseurl}}/downloads/grupos_sociedad_educacionfinanciera.pdf">
         <svg version="1.1" width="20" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 15.2 20.3" xml:space="preserve">
           <g>
             <path fill="#FFF" d="M10.2,0h-3H0.5C0.2,0,0,0.2,0,0.5v19.3c0,0.3,0.2,0.5,0.5,0.5h14.2c0.3,0,0.5-0.2,0.5-0.5V5.1L10.2,0z
@@ -267,7 +267,7 @@ headerTitle: Informe anual BBVA 2016
     <p class="paragraph paragraph--big">Es  una entidad sin ánimo de lucro cuya misión es promover el desarrollo económico y social, sostenible e inclusivo de las personas desfavorecidas a través de las finanzas productivas responsables</p>
     <ul class="list list--threeItems u-txt-center">
       <li class="list-item">
-        <h3 class="txt-number is-big">1,8 <small>Mill.</small></h3>
+        <h3 class="txt-number is-big">1,8 <small>Millones</small></h3>
         <p class="paragraph u-blueDark"><b>CLIENTES</b></p>
       </li>
       <li class="list-item">
@@ -275,14 +275,14 @@ headerTitle: Informe anual BBVA 2016
         <p class="paragraph u-blueDark"><b>EMPLEADOS</b></p>
       </li>
       <li class="list-item">
-        <h3 class="txt-number is-big">1,1 <small>Mill.</small></h3>
+        <h3 class="txt-number is-big">1,1 <small>Millones</small></h3>
         <p class="paragraph u-blueDark"><b>MUJERES</b></p>
       </li>
     </ul>
   </div>
 </section>
 
-<!--
+<
 <section class="section section--grey">
   <div class="container container--small">
     <h2 class="u-txt-center title-bold">BBVA Momentum</h2>
@@ -299,13 +299,13 @@ headerTitle: Informe anual BBVA 2016
         <p class="paragraph u-blueDark"><b>PARTICIPANTES</b></p>
       </li>
       <li class="list-item">
-        <h3 class="txt-number is-big">7,9 <small>Mill.</small></h3>
+        <h3 class="txt-number is-big">7,9 <small>Mill. €</small></h3>
         <p class="paragraph u-blueDark"><b>INVERSIÓN</b></p>
       </li>
     </ul>
 
     <p class="link-more">
-      <a href="#">
+      <a href="{{site.baseurl}}/downloads/emprendimiento_en.pdf" >
         <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
            viewBox="0 0 15.2 20.3" style="enable-background:new 0 0 15.2 20.3;" xml:space="preserve" width="18">
         <style type="text/css">
@@ -323,7 +323,7 @@ headerTitle: Informe anual BBVA 2016
       </a>
     </p>
   </div>
-</section>-->
+</section>
 
 <section class="section">
   <div class="container container--small">
