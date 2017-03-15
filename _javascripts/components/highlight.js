@@ -25,7 +25,7 @@ module.exports = function () {
     if (searchword) {
 
       var re = utils.createSearchTermRegExp(searchword);
-      $('.container *').not('iframe').contents().each(function () {
+      $('section .container *').not('iframe').contents().each(function () {
         if (this.nodeType !== 3) {
           return;
         }
