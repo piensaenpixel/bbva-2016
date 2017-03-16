@@ -236,7 +236,7 @@ sostenible</a></li>
             <p class="paragraph is-small">gestionados en <b>planes de pensiones</b></p>
           </li>
           <li class="list-item">
-            <h4 class="txt-number is-small">2,6 <small>Millones</small></h4>
+            <h4 class="txt-number is-small">2,5 <small>Millones</small></h4>
             <p class="paragraph is-small">de <b>pymes, microempresas y autónomos</b> apoyados o financiados por BBVA</p>
           </li>
           <li class="list-item">

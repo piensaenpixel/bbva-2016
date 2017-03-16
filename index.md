@@ -391,7 +391,7 @@ industria financiera en general y para BBVA en particular</p>
         <h2>Gestion del riesgo</h2>
         <p>BBVA cuenta con un modelo general de gestión y control de riesgos que  establece un adecuado sistema de gestión de los mismos, en función del perfil de riesgos y la estrategia de la Entidad</p>
         <p class="link-more is-left">
-          <a href="http://accionistaseinversores.bbva.com/TLBB/fbinir/mult/5_cuentas _anuales_consolidadas_grupo_bbva2016_tcm926-633620.pdf" target="_blank">
+          <a href="http://accionistaseinversores.bbva.com/TLBB/fbinir/mult/5_cuentas_anuales_consolidadas_grupo_bbva2016_tcm926-633620.pdf" target="_blank">
             <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                viewBox="0 0 15.2 20.3" style="enable-background:new 0 0 15.2 20.3;" xml:space="preserve" width="18">
             <style type="text/css">

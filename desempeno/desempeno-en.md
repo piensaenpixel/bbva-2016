@@ -244,15 +244,15 @@ economies in which BBVA operates</p>
             <p class="paragraph is-small">We <b>manage pension plans</b> for a total value of </p>
           </li>
           <li class="list-item">
-            <h4 class="txt-number is-small">2.555.542</h4>
+            <h4 class="txt-number is-small">2.6 <small>million</small></h4>
             <p class="paragraph is-small"><b>SMEs, micro-enterprises and self-employed workers</b> supported or financed by BBVA</p>
           </li>
           <li class="list-item">
-            <h4 class="txt-number is-small">9,8 <span>million</span></h4>
-            <p class="paragraph is-small">customers in financial inclusion segment</p>
+            <h4 class="txt-number is-small">9.8 <span>million</span></h4>
+            <p class="paragraph is-small">customers in <b>financial inclusion segment</b></p>
           </li>
           <li class="list-item">
-            <h4 class="txt-number is-small">1,8 <span>million</span></h4>
+            <h4 class="txt-number is-small">1.8 <span>million</span></h4>
             <p class="paragraph is-small"><b>micro-entrepreneurs</b> supported or financed with €1,009m from the BBVA
 Microfinance Foundation</p>
           </li>
@@ -278,7 +278,7 @@ Microfinance Foundation</p>
           <li class="list-item">
             <h5 class="txt-more">&nbsp;</h5>
             <div class="u-flex u-alignTop">
-              <h4 class="txt-number is-small u-blue ">2,5 <small>Mill</small></h4>
+              <h4 class="txt-number is-small u-blue ">2.5 <small>Mill</small></h4>
               <p class="paragraph is-small">people have participated in financial education programs</p>
             </div>
           </li>
@@ -301,7 +301,7 @@ Microfinance Foundation</p>
               <svg width="49px" height="45px" viewBox="343 -46 49 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                   <path d="M372.1706,-1.4164 C377.5406,-1.4164 381.8946,-5.8234 381.8946,-11.2604 C381.8946,-16.6954 377.5406,-21.1034 372.1706,-21.1034 C371.3336,-21.1034 370.5256,-20.9854 369.7516,-20.7834 C367.6826,-25.9184 362.7066,-29.5414 356.8906,-29.5414 C349.2186,-29.5414 343.0006,-23.2444 343.0006,-15.4794 C343.0006,-7.7104 349.2186,-1.4164 356.8906,-1.4164 L372.1706,-1.4164 Z M382.5236,-26.8684 C382.5236,-32.4864 377.9116,-37.0414 372.2226,-37.0414 C368.0986,-37.0414 364.5406,-34.6474 362.8956,-31.1904 C362.8576,-31.1124 362.7966,-30.9294 362.7606,-30.8494 C366.3716,-29.5214 369.5536,-26.8684 370.8406,-23.6184 C371.6156,-23.8194 372.4006,-23.8004 373.1386,-23.7484 C375.9686,-23.5494 378.3756,-22.3794 380.1516,-20.3744 C381.6326,-22.1364 382.5236,-24.3994 382.5236,-26.8684 Z M384.8446,-38.9134 L384.8456,-41.7114 L384.7706,-41.7864 L379.9386,-36.9984 L381.4246,-35.5254 L384.8446,-38.9134 Z M389.4626,-25.5834 L391.4606,-27.5614 L391.4606,-27.6664 L384.6276,-27.6664 L384.6276,-25.5834 L389.4626,-25.5834 Z M361.6036,-40.5954 L358.7796,-40.5964 L358.7046,-40.5214 L363.5356,-35.7334 L365.0226,-37.2074 L361.6036,-40.5954 Z M373.2746,-44.0204 L371.2776,-45.9994 L371.1716,-45.9994 L371.1716,-39.2294 L373.2746,-39.2294 L373.2746,-44.0204 Z" id="Fill-1" stroke="none" fill="#2ECDCD" fill-rule="evenodd"></path>
               </svg>&nbsp;
-            5,8%</h4>
+            5.8%</h4>
             <p class="paragraph is-small">reduction in <b>CO2 emission</b> per person</p>
           </li>
           <li class="list-item">
@@ -309,7 +309,7 @@ Microfinance Foundation</p>
               <svg width="30px" height="38px" viewBox="648 -34 30 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                   <path d="M663.2521,3.6403 C671.3961,3.6403 677.9971,-2.9617 677.9971,-11.1047 C677.9971,-11.2507 677.9941,-11.3957 677.9901,-11.5397 C677.7001,-24.5607 664.4831,-32.8777 664.4831,-32.8777 C663.8121,-33.3347 662.7111,-33.3357 662.0451,-32.8957 C662.0451,-32.8957 648.8051,-24.5617 648.5131,-11.5407 C648.5091,-11.3957 648.5061,-11.2507 648.5061,-11.1047 C648.5061,-2.9617 655.1081,3.6403 663.2521,3.6403" id="Fill-5" stroke="none" fill="#2ECDCD" fill-rule="evenodd"></path>
               </svg>&nbsp;
-            5,02%</h4>
+            5.02%</h4>
             <p class="paragraph is-small">reduction in <b>water consumption</b> per person</p>
           </li>
           <li class="list-item">
@@ -337,9 +337,9 @@ Microfinance Foundation</p>
                       <path d="M10.4201,20.8517 C10.4201,26.7987 15.3021,31.6207 21.3251,31.6207 C25.6911,31.6207 29.4571,29.0867 31.1991,25.4277 C31.2381,25.3447 31.3031,25.1507 31.3411,25.0657 C27.5181,23.6607 24.1501,20.8517 22.7871,17.4107 C21.9671,17.6237 21.1361,17.6037 20.3551,17.5487 C17.3581,17.3377 14.8111,16.0997 12.9311,13.9767 C11.3621,15.8417 10.4201,18.2377 10.4201,20.8517" id="Fill-18" fill="#2ECDCD"></path>
                   </g>
               </svg>&nbsp;
-              4,444 <small>M</small>
+              €4,444 <small>M</small>
             </h4>
-            <p class="paragraph is-small">allocated for financing <b>renewable energy</b> operations.</p>
+            <p class="paragraph is-small">allocated for financing <b>renewable energy</b> operations</p>
           </li>
           <li class="list-item">
             <h4 class="txt-number is-small u-flex u-alignCenter u-hcenter">

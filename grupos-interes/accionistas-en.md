@@ -33,7 +33,7 @@ headerTitle: Report BBVA 2016
 
 <section class="section section--blue section--piramids">
   <div class="container container--small">
-    <h2 class="txt-cite u-txt-center">BBVA seeks to create long-term value for all its stakeholders, particularly for its shareholders.</h2>
+    <h2 class="txt-cite u-txt-center">BBVA seeks to create long-term value for all its stakeholders, particularly for its shareholders</h2>
   </div>
 </section>
 
@@ -50,11 +50,11 @@ headerTitle: Report BBVA 2016
       </li>
       <li class="list-boxItem">
         <h3 class="list-boxItemTitle">BOOK VALUE PER SHARE</h3>
-        <p class="txt-number is-small">7,22 <small>€</small></p>
+        <p class="txt-number is-small">7.22 <small>€</small></p>
       </li>
       <li class="list-boxItem">
         <h3 class="list-boxItemTitle">CLOSING PRICE</h3>
-        <p class="txt-number is-small">6,61 <small>€</small></p>
+        <p class="txt-number is-small">6.61 <small>€</small></p>
       </li>
       <li class="list-boxItem">
         <h3 class="list-boxItemTitle">MARKET CAPITALIZATION</h3>
