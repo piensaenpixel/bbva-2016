@@ -71,7 +71,7 @@ major progress in our Strategic Priorities</h3>
     <h2 class="u-txt-center title-section">The most relevant aspects</h2>
     <ul class="list list--threeItems">
       <li class="list-item card">
-        <a href="https://www.bbva.com/en/news/economy/computerstudies-sciences-anddevelopment/bbva-signs-strategic-partnership-cisco/" target="_blank" class="card-inner">
+        <a href="https://www.bbva.com/en/news/economy/computerstudies-sciences-and-development/bbva-signs-strategic-partnership-cisco/" target="_blank" class="card-inner">
           <div class="card-media">
             <img src="{{site.baseurl}}/images/cisco.png" />
           </div>
@@ -85,7 +85,7 @@ major progress in our Strategic Priorities</h3>
         </a>
       </li>
       <li class="list-item card">
-        <a href="https://www.bbva.com/en/news/science-technology/bbva-acquires-finnish-bankingstart-holvi" target="_blank" class="card-inner">
+        <a href="https://www.bbva.com/en/news/science-technology/bbva-acquires-finnish-banking-start-holvi/" target="_blank" class="card-inner">
           <div class="card-media">
             <img src="{{site.baseurl}}/images/dummy-list.png" />
           </div>
@@ -99,7 +99,7 @@ major progress in our Strategic Priorities</h3>
         </a>
       </li>
       <li class="list-item card">
-        <a href="https://www.bbva.com/en/news/economy/computerstudies-sciences-anddevelopment/bbva-signs-strategic-collaboration-red-hat-accelerate-groups-globaltransformation/" target="_blank" class="card-inner">
+        <a href="https://www.bbva.com/en/uy/news/economy/technology/bbva-signs-strategic-collaboration-red-hat-accelerate-groups-global-transformation/" target="_blank" class="card-inner">
           <div class="card-media">
             <img src="{{site.baseurl}}/images/red-hat.png" />
           </div>
@@ -113,7 +113,7 @@ major progress in our Strategic Priorities</h3>
         </a>
       </li>
       <li class="list-item card">
-        <a href="https://www.bbva.com/en/news/economy/computerstudies-sciences-anddevelopment/bbva-signs-strategic-collaboration-red-hat-accelerate-groups-globaltransformation/" target="_blank" class="card-inner">
+        <a href="https://www.bbva.com/en/news/economy/economic-sectors/commerce/bbva-launches-commerce360-big-data-tool-designed-support-smes/" target="_blank" class="card-inner">
           <div class="card-media">
             <img src="{{site.baseurl}}/images/360.png" />
           </div>
@@ -127,7 +127,7 @@ major progress in our Strategic Priorities</h3>
         </a>
       </li>
       <li class="list-item card">
-        <a href="https://www.bbva.com/en/news/social-affairs/housing/bbvas-new-app-helps-customers-decidewhether-buy-home/" target="_blank" class="card-inner">
+        <a href="https://www.bbva.com/en/news/social-affairs/housing/bbvas-new-app-helps-customers-decide-whether-buy-home/" target="_blank" class="card-inner">
           <div class="card-media">
             <img src="{{site.baseurl}}/images/valora.png" />
           </div>
@@ -141,7 +141,7 @@ major progress in our Strategic Priorities</h3>
         </a>
       </li>
       <li class="list-item card">
-        <a href="https://www.bbva.com/en/news/economy/macroeconomics/bbvas-resilience-stands-outin-banking-stress-tests/" target="_blank" class="card-inner">
+        <a href="https://www.bbva.com/en/news/economy/macroeconomics/bbvas-resilience-stands-out-in-banking-stress-tests/" target="_blank" class="card-inner">
           <div class="card-media">
             <img src="{{site.baseurl}}/images/stress.png" />
           </div>
@@ -155,7 +155,7 @@ major progress in our Strategic Priorities</h3>
         </a>
       </li>
       <li class="list-item card">
-        <a href="https://www.bbva.com/en/news/social-affairs/housing/bbva-generalitat-regionalgovernment-catalonia-sign-social-project-envisaging-transfer-1800-housing-catalonia/" target="_blank" class="card-inner">
+        <a href="https://www.bbva.com/en/news/social-affairs/housing/bbva-generalitat-regional-government-catalonia-sign-social-project-envisaging-transfer-1800-housing-catalonia/" target="_blank" class="card-inner">
           <div class="card-media">
             <img src="{{site.baseurl}}/images/generalitat.png" />
           </div>
@@ -169,7 +169,7 @@ major progress in our Strategic Priorities</h3>
         </a>
       </li>
       <li class="list-item card">
-        <a href="https://www.bbva.com/en/news/communication-marketing-and-advertising/first-timespain-bbva-lets-open-bank-account-selfie-video-call/" target="_blank" class="card-inner">
+        <a href="https://www.bbva.com/en/news/communication-marketing-and-advertising/first-time-spain-bbva-lets-open-bank-account-selfie-video-call/" target="_blank" class="card-inner">
           <div class="card-media">
             <img src="{{site.baseurl}}/images/selfie.png" />
           </div>
@@ -183,7 +183,7 @@ major progress in our Strategic Priorities</h3>
         </a>
       </li>
       <li class="list-item card">
-        <a href="https://www.bbva.com/en/news/economy/financial-and-commercial-services/fintech/bbvasigns-mou-salesforce-strengthen-crm-strategy/" target="_blank" class="card-inner">
+        <a href="https://www.bbva.com/en/news/economy/financial-and-commercial-services/fintech/bbva-signs-mou-salesforce-strengthen-crm-strategy/" target="_blank" class="card-inner">
           <div class="card-media">
             <img src="{{site.baseurl}}/images/salesforce.png" />
           </div>

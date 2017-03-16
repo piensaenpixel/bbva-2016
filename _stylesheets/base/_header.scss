@@ -215,6 +215,10 @@
   @include justify-content(space-between);
   margin-bottom: 50px;
   border-bottom: 1px solid #ccc;
+  &.tabs--lightbox {
+    width: 350px;
+    margin: 0 auto 20px auto;
+  }
   &.is-blue {
     border-bottom: 1px solid #49A5E6;
     .tabs-item a {

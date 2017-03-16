@@ -243,7 +243,7 @@ headerTitle: Informe anual BBVA 2016
 
 
 
-<section class="section section--grey">g
+<section class="section section--grey">
   <div class="container">
     <h2 class="title-section title-section--inside u-txt-center">Nuestros principales grupos de interés</h2>
     <p class="paragraph u-txt-center paragraph--big"><a href="{{site.baseurl}}/downloads/materialidad.pdf" class="u-blue">Análisis de materialidad:</a> BBVA ha dado un gran paso adelante en el análisis de materialidad para asegurar que se pone el foco en los aspectos más relevantes, tanto para los grupos de interés como para el negocio de BBVA.</p>

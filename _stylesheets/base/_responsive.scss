@@ -1,0 +1,127 @@
+$mobile: 740px;
+
+
+@media (max-width: $mobile) {
+  .u-hideMobile {
+    display: none;
+  }
+  .list--threeItems .list-item,
+  .list--twoItems .list-item,
+  .list--fourItems .list-item {
+     width: 100%;
+  }
+  .list--twoItems .list-item {
+    margin-bottom: 60px;
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+  .letter {
+    width: 100%;
+    padding-bottom: 380px;
+  }
+  .section--header h1 {
+    font-size: 50px;
+  }
+  .section--header h2 {
+    font-size: 20px;
+  }
+  .section--header p a {
+    display: block;
+    margin: 20px 0;
+  }
+  .section--estrategia h3 {
+    font-size: 44px;
+  }
+  .card-highlight .card-highlightTxt {
+    position: relative;
+  }
+  .columns--2 {
+    -webkit-column-count: 1;
+    -moz-column-count: 1;
+    column-count: 1;
+  }
+  .list-buttons {
+    display: block;
+  }
+  .list-buttons .list-buttonsItem {
+    width: 100%;
+    margin: 0 0 30px 0;
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+  .blockquote {
+    padding-right: 40px;
+    font-size: 25px;
+  }
+  .section-header h1 {
+    text-align: center;
+  }
+  .tabs-header {
+    text-align: center;
+    .paragraph.u-flex {
+      @include justify-content(center);
+    }
+  }
+  .tabs {
+    display: block;
+  }
+  .tabs-item a.is-active {
+    border-bottom: 0 !important;
+  }
+  .tabs .tabs-item {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .list--threeItems.list--images .list-item {
+    width: 50%;
+  }
+  .section-media img {
+    max-width: 100% !important;
+  }
+  .list-box {
+    display: block;
+    .list-boxItem {
+      border: 0;
+      border-bottom: 1px solid #0085d3;
+      &:last-child {
+        border-bottom: 0;
+      }
+    }
+  }
+  .descriptions {
+    display: block;
+    dt {
+      margin: 0 0 10px 0;
+    }
+  }
+  .list-numbers {
+    display: block;
+    text-align: center;
+    > li {
+      margin: 0;
+      padding: 0;
+      margin-bottom: 30px;
+      padding-bottom: 30px;
+      border: 0;
+      border-bottom: 1px solid #000;
+      &:last-child {
+        border: 0;
+        margin: 0;
+        padding: 0;
+      }
+    }
+  }
+  .section-proveedores .list--threeItems .list-item {
+    width: 100%;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+    border: 0;
+    border-bottom: 1px solid #fff;
+    &:last-child {
+      margin-bottom: 0;
+      padding-bottom: 0;
+    }
+  }
+}
