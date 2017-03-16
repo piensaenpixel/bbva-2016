@@ -236,7 +236,7 @@ sostenible</a></li>
             <p class="paragraph is-small">gestionados en <b>planes de pensiones</b></p>
           </li>
           <li class="list-item">
-            <h4 class="txt-number is-small">2.6 <small>Millones</small></h4>
+            <h4 class="txt-number is-small">2,6 <small>Millones</small></h4>
             <p class="paragraph is-small">de <b>pymes, microempresas y autónomos</b> apoyados o financiados por BBVA</p>
           </li>
           <li class="list-item">
@@ -270,14 +270,14 @@ la <b>inclusión financiera</b></p>
           <li class="list-item">
             <h5 class="txt-more">&nbsp;</h5>
             <div class="u-flex u-alignTop">
-              <h4 class="txt-number is-small u-blue ">2,1 <small>Mill.</small></h4>
+              <h4 class="txt-number is-small u-blue ">2,5 <small>Mill.</small></h4>
               <p class="paragraph is-small">de personas han participado en programas de educación financiera</p>
             </div>
           </li>
           <li class="list-item">
             <h5 class="txt-more">&nbsp;</h5>
             <div class="u-flex u-alignTop">
-              <h4 class="txt-number is-small u-blue ">26 <small>Mill. €</small></h4>
+              <h4 class="txt-number is-small u-blue ">25 <small>Mill. €</small></h4>
               <p class="paragraph is-small">dedicados a programas de conocimiento, educación y cultura</p>
             </div>
           </li>

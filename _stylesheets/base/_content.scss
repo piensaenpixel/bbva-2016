@@ -61,7 +61,9 @@
   padding: 154px 0 0 0;
   height: 820px;
   position: relative;
-
+  @media (max-width: $mobile) {
+    height: 600px;
+  }
   &::before {
     background: $blueHeader;
     bottom: 0;
@@ -439,6 +441,7 @@
   width: 50%;
   position: relative;
   z-index: 2;
+  padding-bottom: 60px;
 
   h2 {
     font: 36px/1 'BentonLight';
@@ -453,7 +456,7 @@
 
   p {
     font: 18px/1 'BentonMedium';
-    margin-bottom: 100px;
+    margin-bottom: 20px;
   }
   a {
     font: 15px/1 'BentonMedium';

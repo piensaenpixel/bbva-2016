@@ -19,6 +19,14 @@ module.exports = {
   }
 };
 
+var scroll = $('.section[data-value=principal]').innerHeight()
+
+
+
+
+
+
+
 $( ".js-searchAction" ).click(function() {
   /*$( "body" ).addClass('block');*/
   $( ".search" ).addClass('is-active');
@@ -39,6 +47,7 @@ $( ".js-hamburguer" ).click(function() {
   $('.closeMenu-icon').toggleClass('is-open');
 });
 
+/*
 function fixHeader() {
   $('.container--fixed').css('padding-top', value+'px');
 };
@@ -46,8 +55,29 @@ function fixHeader() {
 $(document).resize(function() {
   fixHeader();
 });
+  fixHeader();
 
-fixHeader();
+*/
+
+
+$(document).ready(function() {
 
 
 
+  var userScrolled = false;
+
+  $(window).scroll(function(){
+     userScrolled = true;
+  });
+  setInterval(function() {
+    if (userScrolled) {
+       if (scroll <= $(window).scrollTop()){
+         $('.header').addClass('scrolleable');
+       } else {
+         $('.header').removeClass('scrolleable');
+       }
+      userScrolled = false;
+    }
+  }, 50);
+
+});

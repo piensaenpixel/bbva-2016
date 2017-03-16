@@ -15914,6 +15914,14 @@
 	  }
 	};
 
+	var scroll = $('.section[data-value=principal]').innerHeight()
+
+
+
+
+
+
+
 	$( ".js-searchAction" ).click(function() {
 	  /*$( "body" ).addClass('block');*/
 	  $( ".search" ).addClass('is-active');
@@ -15934,6 +15942,7 @@
 	  $('.closeMenu-icon').toggleClass('is-open');
 	});
 
+	/*
 	function fixHeader() {
 	  $('.container--fixed').css('padding-top', value+'px');
 	};
@@ -15941,11 +15950,32 @@
 	$(document).resize(function() {
 	  fixHeader();
 	});
+	  fixHeader();
 
-	fixHeader();
+	*/
+
+
+	$(document).ready(function() {
 
 
 
+	  var userScrolled = false;
+
+	  $(window).scroll(function(){
+	     userScrolled = true;
+	  });
+	  setInterval(function() {
+	    if (userScrolled) {
+	       if (scroll <= $(window).scrollTop()){
+	         $('.header').addClass('scrolleable');
+	       } else {
+	         $('.header').removeClass('scrolleable');
+	       }
+	      userScrolled = false;
+	    }
+	  }, 50);
+
+	});
 
 
 /***/ },

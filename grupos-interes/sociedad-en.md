@@ -412,7 +412,7 @@ and publication of socioeconomic reports</p>
     <p class="paragraph paragraph--big">BBVA is committed to transparency in tax payments, which is why, one more year, we have voluntarily disclosed all major tax payments in the countries where we have a significant presence</p>
     <div class="section-media is-center is-space--30 ">
         <img style="max-width: 710px;" src="{{site.baseurl}}/images/sociedad-contribution-eng.svg" />
-    </div><!--
+    </div>
     <p class="link-more">
 <a href="{{site.baseurl}}/downloads/grupos_sociedad_fiscal_en.pdf"  target="_blank">
         <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
@@ -431,7 +431,6 @@ and publication of socioeconomic reports</p>
         Read more
       </a>
     </p>
--->
   </div>
 </section>
 

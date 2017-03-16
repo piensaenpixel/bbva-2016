@@ -20,6 +20,7 @@
     .subnavigation {
       display: none;
     }
+
   }
 }
 .blocked .header {
@@ -28,7 +29,9 @@
 
 .Home .header {
   background: transparent;
-
+  &.scrolleable {
+    background: #001d46 !important; 
+  }
   &.is-visible,
   &.is-search {
     background: $darkblue;

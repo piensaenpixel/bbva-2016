@@ -393,7 +393,7 @@ headerTitle: Informe anual BBVA 2016
     <p class="paragraph paragraph--big">BBVA está comprometido con la transparencia en el pago de tributos y esa es la razón por la que, un año más,  desglosamos voluntariamente la contribución fiscal total en aquellos países en los que tenemos una presencia significativa.</p>
     <div class="section-media is-center is-space--30 ">
         <img src="{{site.baseurl}}/images/sociedad-contribucion.svg" />
-    </div><!--
+    </div>
     <p class="link-more">
 <a href="{{site.baseurl}}/downloads/grupos_sociedad_fiscal.pdf"  target="_blank">
         <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
@@ -412,7 +412,7 @@ headerTitle: Informe anual BBVA 2016
         Leer más
       </a>
     </p>
--->
+
   </div>
 </section>
 

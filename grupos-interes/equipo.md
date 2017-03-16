@@ -53,7 +53,7 @@ headerTitle: Informe anual BBVA 2016
 <section class="section section--grey">
   <div class="container">
     <div class="section-media is-center">
-      <img style="max-with: 786px;" src="{{site.baseurl}}/images/number-employeers.svg" />
+      <img style="max-with: 786px;" src="{{site.baseurl}}/images/number-employees.svg" />
     </div>
   </div>
 </section>

@@ -42,8 +42,6 @@ headerTitle: Informe anual BBVA 2016
 <section class="section section--grey">
   <div class="container container--small">
     <h2 class="u-txt-center title-section title-section--inside">La acción BBVA</h2>
-    <p class="paragraph no-margin is-huge is-dark u-txt-center">Cotiza en las principales bolsas de valores mundiales</p>
-
     <p class="paragraph is-s paragraph--medium u-txt-center">(31 - 12 - 2016)</p>
     <ul class="list-box">
       <li class="list-boxItem">
@@ -63,8 +61,10 @@ headerTitle: Informe anual BBVA 2016
         <p class="txt-number is-small">42.118 <small>M€</small></p>
       </li>
     </ul>
-
     <hr class="break" />
+
+    <p class="paragraph paragraph--medium is-huge is-dark u-txt-center">Cotiza en las principales bolsas de valores mundiales</p>
+
     <div class="section-media is-center">
       <img src="{{site.baseurl}}/images/map-acciones.svg" />
     </div>

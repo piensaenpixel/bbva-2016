@@ -41,7 +41,6 @@ headerTitle: Report BBVA 2016
 <section class="section section--grey">
   <div class="container container--small">
     <h2 class="u-txt-center title-section title-section--inside">BBVA share</h2>
-    <p class="paragraph no-margin is-huge is-dark u-txt-center">Listed on the main international stock markets</p>
 
     <p class="paragraph is-s paragraph--medium u-txt-center">(31 - 12 - 2016)</p>
     <ul class="list-box">
@@ -64,6 +63,9 @@ headerTitle: Report BBVA 2016
     </ul>
 
     <hr class="break" />
+    <p class="paragraph paragraph--medium no-margin is-huge is-dark u-txt-center">Listed on the main international stock markets</p>
+
+
     <div class="section-media is-center">
       <img style="max-width: 710px;" src="{{site.baseurl}}/images/map-acciones-eng.svg" />
     </div>
