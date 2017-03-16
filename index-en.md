@@ -57,8 +57,7 @@ headerTitle: Report BBVA 2016
       <h3>2016 was a good year for BBVA. We increased our earnings and made
 major progress in our Strategic Priorities</h3>
       <p>Francisco González - BBVA Group Executive Chairman</p>
-      <!--
-      <a href="{{site.baseurl}}/carta-del-presidente/">Leer más</a>-->
+      <a href="{{site.baseurl}}/carta-del-presidente/">Read more</a>
     </div>
     <div class="letter-media">
       <img src="{{site.baseurl}}/images/francisco-gonzalez.png" />

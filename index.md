@@ -53,8 +53,7 @@ headerTitle: Informe anual BBVA 2016
       </svg>
       <h3>2016 ha sido un buen ejercicio para BBVA en el que hemos incrementado los beneficios y hemos avanzado mucho en nuestras Prioridades Estratégicas</h3>
       <p>Francisco González - Presidente de BBVA</p>
-      <!--
-      <a href="{{site.baseurl}}/carta-del-presidente/">Leer más</a>-->
+      <a href="{{site.baseurl}}/carta-del-presidente/">Leer más</a>
     </div>
     <div class="letter-media">
       <img src="{{site.baseurl}}/images/francisco-gonzalez.png" />

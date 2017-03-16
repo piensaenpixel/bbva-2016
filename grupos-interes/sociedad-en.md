@@ -119,7 +119,7 @@ and create opportunities for people.</p>
     </div>
 
     <p class="link-more">
-<a href="{{site.baseurl}}/downloads/grupos_sociedad_en.pdf"  target="_blank">
+        <a href="{{site.baseurl}}/downloads/grupos_sociedad_programassociales_en.pdf"  target="_blank">
             <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 15.2 20.3" style="enable-background:new 0 0 15.2 20.3;" xml:space="preserve" width="18">
                 <style type="text/css">
                 .st0 {
@@ -304,27 +304,26 @@ program.</p>
 <section class="section section--grey">
   <div class="container container--small">
     <h2 class="u-txt-center title-bold">BBVA Momentum</h2>
-    <div class="section-media is-center is-space--30 ">
+    <div class="section-media is-center is-space--60 ">
         <img src="{{site.baseurl}}/images/momentum.png" />
     </div>
-    <p class="paragraph paragraph--big">Es  una entidad sin ánimo de lucro cuya misión es promover el desarrollo económico y social, sostenible e inclusivo de las personas desfavorecidas a través de las finanzas productivas responsables</p>
    <ul class="list list--threeItems u-txt-center">
       <li class="list-item">
         <h3 class="txt-number is-big">50</h3>
-        <p class="paragraph u-blueDark"><b>EMPRESAS FINANCIADAS</b></p>
+        <p class="paragraph u-blueDark"><b>SUPPORTED COMPANIES</b></p>
       </li>
       <li class="list-item">
         <h3 class="txt-number is-big">112</h3>
-        <p class="paragraph u-blueDark"><b>PARTICIPANTES</b></p>
+        <p class="paragraph u-blueDark"><b>PARTICIPANTS</b></p>
       </li>
       <li class="list-item">
         <h3 class="txt-number is-big">€7,9 <small>Mill.</small></h3>
-        <p class="paragraph u-blueDark"><b>INVERSIÓN</b></p>
+        <p class="paragraph u-blueDark"><b>SOCIAL INVESTMENT</b></p>
       </li>
     </ul>
 
     <p class="link-more">
-      <a href="{{site.baseurl}}/downloads/emprendimiento_en.pdf"  target="_blank">
+      <a href="{{site.baseurl}}/downloads/grupos_sociedad_emprendimiento_en.pdf"  target="_blank">
         <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
            viewBox="0 0 15.2 20.3" style="enable-background:new 0 0 15.2 20.3;" xml:space="preserve" width="18">
         <style type="text/css">
@@ -413,7 +412,7 @@ and publication of socioeconomic reports</p>
     <p class="paragraph paragraph--big">BBVA is committed to transparency in tax payments, which is why, one more year, we have voluntarily disclosed all major tax payments in the countries where we have a significant presence</p>
     <div class="section-media is-center is-space--30 ">
         <img style="max-width: 710px;" src="{{site.baseurl}}/images/sociedad-contribution-eng.svg" />
-    </div>
+    </div><!--
     <p class="link-more">
 <a href="{{site.baseurl}}/downloads/grupos_sociedad_fiscal_en.pdf"  target="_blank">
         <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
@@ -432,7 +431,7 @@ and publication of socioeconomic reports</p>
         Read more
       </a>
     </p>
-
+-->
   </div>
 </section>
 
