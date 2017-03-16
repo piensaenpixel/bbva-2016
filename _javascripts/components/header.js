@@ -31,3 +31,23 @@ $( ".js-searchClose" ).click(function() {
   $( ".search" ).removeClass('is-active');
   $( ".header" ).removeClass('is-search');
 });
+
+$( ".js-hamburguer" ).click(function() {
+  $('body').toggleClass('blocked');
+  $('.navigation-mobile').toggleClass('is-open');
+  $('.hamburguer-icon').toggleClass('is-hidden');
+  $('.closeMenu-icon').toggleClass('is-open');
+});
+
+function fixHeader() {
+  $('.container--fixed').css('padding-top', value+'px');
+};
+
+$(document).resize(function() {
+  fixHeader();
+});
+
+fixHeader();
+
+
+

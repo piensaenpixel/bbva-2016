@@ -8,6 +8,22 @@
   left: 0;
   z-index: 10;
   transition: background-color 0.5s ease;
+  @media (max-width: $mobile) {
+    padding: 15px 13px;
+    .container {
+      padding-right: 0;
+      padding-left: 0;
+    }
+    .options {
+      display: none;
+    }
+    .subnavigation {
+      display: none;
+    }
+  }
+}
+.blocked .header {
+  z-index: 21;
 }
 
 .Home .header {
@@ -20,7 +36,10 @@
 }
 
 .header ~.principal {
-  margin: 142px 0 0 0;
+  margin: 138px 0 0 0;
+  @media (max-width: $mobile) {
+    margin-top: 78px;
+  }
 }
 
 .header-container {
@@ -29,6 +48,16 @@
   margin-bottom: 4px;
   margin-top: 23px;
   position: relative;
+  @media (max-width: $mobile) {
+    @include align-items(center);
+    margin: 0;
+    .navigation {
+      display: none;
+    }
+    .header-containerLogo svg {
+      width: 80px;
+    }
+  }
 }
 
 .is-search .header-containerLogo {
@@ -273,3 +302,114 @@
     }
   }
 }
+
+
+.hamburguer {
+  display: none;
+  margin-right: 24px;
+  cursor: pointer;
+  width: 18px;
+  height: 18px;
+  @media (max-width: $mobile) {
+    display: block;
+  }
+}
+
+.navigation-mobile {
+  display: none;
+  transform: translateX(-100%);
+  &.is-open {
+    transform: translateX(0);
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+    background: $darkblue;
+    top: 0;
+    display: block;
+    padding: 60px 20px 13px 20px;
+    z-index: 20;
+    .menu {
+      @include flex-direction(column);
+    }
+    > .menu {
+      height: calc(100% - 50px);
+      overflow: auto;
+    }
+    .menu-item {
+      border: 0;
+      border-bottom: 1px solid rgba(233, 233, 233, 0.2);
+      margin: 0 15px;
+      padding: 16px 15px;
+      font-size: 17px;
+      font-family: 'BentonLight';
+      a.active + .subnavigation {
+        display: block;
+        background: none;
+        padding: 0;
+        .menu-item {
+          padding: 0;
+          border: 0;
+          font-size: 15px;
+          margin-top: 15px;
+        }
+      }
+    }
+    .subnavigation {
+      background: none;
+      margin: 0;
+      padding: 0;
+      .menu-item {
+        padding: 12px 32px;
+      }
+    }
+  }
+}
+
+.mobile-language {
+  @include display-flex;
+  font-size: 17px;
+  line-height: 1;
+  font-family: 'BentonLight';
+  position: absolute;
+  left: 28px;
+  bottom: 28px;
+  > li {
+    margin-right: 8px;
+    padding-right: 8px;
+    border-right: 1px solid rgba(233, 233, 233, 0.6);
+    &:last-child {
+      margin: 0;
+      padding: 0;
+      border: 0;
+    }
+  }
+  a {
+    color: rgba(233, 233, 233, 0.6);
+    &.active {
+      color: rgba(233, 233, 233, 1);
+    }
+  }
+}
+
+.hamburguer-icon {
+  @include display-flex();
+  @include align-items(center);
+  @include justify-content(center);
+  width: 18px;
+  height: 18px;
+  &.is-hidden {
+    display: none;
+  }
+}
+
+.closeMenu-icon {
+  display: none;
+  width: 18px;
+  height: 18px;
+  &.is-open {
+    @include display-flex();
+    @include align-items(center);
+    @include justify-content(center);
+  }
+}
+
