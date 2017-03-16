@@ -77,11 +77,11 @@ providing the best employee experience</h2>
     <p class="paragraph u-txt-center paragraph--big">In 2016, <b>Talent & Culture</b> has defined its role as an area that must
 support the Bank to achieve its strategic objectives and create a
 competitive advantage through a first-class workforce, inspired by our
-Purpose and working together as a single team.</p>
+Purpose and working together as a single team</p>
 
 
     <h3 class="paragraph u-txt-center u-upperCase u-blue"><b>Transparency and consistency</b></h3>
-    <p class="paragraph paragraph--medium u-txt-center">as two fundamental pillars and three basic principles defined to guide this activity:</p>
+    <p class="paragraph paragraph--medium u-txt-center">as two fundamental pillars and three basic principles defined to guide this activity</p>
 
 
     <ul class="list list--threeItems u-txt-center">

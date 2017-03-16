@@ -265,7 +265,7 @@ Microfinance Foundation</p>
         <ul class="list  list--twoItems list--decoration">
           <li class="list-item">
             <div clas="u-flex u-alignTop">
-              <h4 class="txt-number is-small u-blue ">€93,3 <small>M</small></h4>
+              <h4 class="txt-number is-small u-blue ">€93.3 <small>M</small></h4>
               <p class="paragraph is-small">allocated to social programs, 2.7% of the Group's net attributable profit</p>
             </div>
           </li>
@@ -278,7 +278,7 @@ Microfinance Foundation</p>
           <li class="list-item">
             <h5 class="txt-more">&nbsp;</h5>
             <div class="u-flex u-alignTop">
-              <h4 class="txt-number is-small u-blue ">2,1 <small>M</small></h4>
+              <h4 class="txt-number is-small u-blue ">2,5 <small>Mill</small></h4>
               <p class="paragraph is-small">people have participated in financial education programs</p>
             </div>
           </li>

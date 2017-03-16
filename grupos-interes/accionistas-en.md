@@ -76,19 +76,19 @@ headerTitle: Report BBVA 2016
     <ul class="list-box">
       <li class="list-boxItem">
         <h3 class="list-boxItemTitle">IBEX35</h3>
-        <p class="txt-number is-small">8,7%</p>
+        <p class="txt-number is-small">8.7%</p>
       </li>
       <li class="list-boxItem">
         <h3 class="list-boxItemTitle">EURO STOXX 50</h3>
-        <p class="txt-number is-small">1,9%</p>
+        <p class="txt-number is-small">1.9%</p>
       </li>
       <li class="list-boxItem">
         <h3 class="list-boxItemTitle">EURO STOXX BANKS</h3>
-        <p class="txt-number is-small">9,3%</p>
+        <p class="txt-number is-small">9.3%</p>
       </li>
       <li class="list-boxItem">
         <h3 class="list-boxItemTitle">STOXX EUROPE 600 BANKS</h3>
-        <p class="txt-number is-small">4,4%</p>
+        <p class="txt-number is-small">4.4%</p>
       </li>
     </ul>
 
