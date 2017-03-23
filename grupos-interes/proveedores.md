@@ -85,13 +85,13 @@ headerTitle: Informe anual BBVA 2016
     <div class="section section--s section--blue section--piramids-light section-proveedores">
       <ul class="list list-figures list--threeItems">
         <li class="list-item">
-          <p class="paragraph"><b>Entorno público</b> accesible <i>online</i> con información para proveedores</p>
+          <p class="paragraph"><b>Entorno público</b> accesible <i>online</i> con información para proveedores.</p>
         </li>
         <li class="list-item">
-          <p class="paragraph"><b>Entorno privado</b> que permite operar de forma digital en diferentes fases del proceso</p>
+          <p class="paragraph"><b>Entorno privado</b> que permite operar de forma digital en diferentes fases del proceso.</p>
         </li>
         <li class="list-item">
-          <p class="paragraph"><b>Directorio</b> de proveedores</p>
+          <p class="paragraph"><b>Directorio</b> de proveedores.</p>
         </li>
       </ul>
     </div>

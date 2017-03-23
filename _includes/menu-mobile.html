@@ -3,16 +3,33 @@
   <ul class="menu">
     {% for menu in site.data.header.menu %}
       <li class="menu-item">
+      <!--
         <a {% if page.submenu == menu.submenu %}class="active"{% endif %} href="{{site.baseurl}}{{ menu.url }}">
           {{ menu.title }}
-        </a>
+        </a>-->
+        {% if page.url == menu.url %}
+          <a href="{{site.baseurl}}{{menu.url}}" class="active">{{ menu.title }}</a>
+        {% else %}
+          <a href="{{site.baseurl}}{{menu.url}}">{{ menu.title }}</a>
+        {% endif %}
+
       </li>
     {% endfor %}
     <li>
-      {% unless page.submenu == null %}
       <nav class="subnavigation">
         <ul class="menu">
           {% assign sorted_pages = (site.pages | sort: 'order') %}
+          {% for submenu in site.data.header.submenu %}
+              <li class="menu-item">
+              {% if page.url == submenu.url %}
+                <a href="{{site.baseurl}}{{submenu.url}}" class="active">{{ submenu.title }}</a>
+              {% else %}
+                <a href="{{site.baseurl}}{{submenu.url}}">{{ submenu.title }}</a>
+              {% endif %}
+              </li>
+          {% endfor %}
+
+<!--
           {% for node in sorted_pages %}
             {% if page.submenu == node.submenu %}
               <li class="menu-item">
@@ -23,10 +40,9 @@
               {% endif %}
               </li>
             {% endif %}
-          {% endfor %}
+          {% endfor %}-->
         </ul>
         </nav>
-      {% endunless %}
     </li>
   </ul>
   <ul class="mobile-language">

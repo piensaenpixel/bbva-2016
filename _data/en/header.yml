@@ -12,3 +12,16 @@ menu:
     url: /estrategia/
   - title: Primary stakeholders
     url: /grupos-interes/cliente/
+submenu:
+  - title: The customer
+    url: /grupos-interes/cliente/
+  - title: The team
+    url: /grupos-interes/equipo/
+  - title: Shareholders
+    url: /grupos-interes/accionistas/
+  - title: Society
+    url: /grupos-interes/sociedad/
+  - title: Suppliers
+    url: /grupos-interes/proveedores/
+  - title: Supervisors and regulators
+    url: /grupos-interes/reguladores/

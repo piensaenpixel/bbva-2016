@@ -12,3 +12,16 @@ menu:
     url: /estrategia/
   - title: Grupos de interés
     url: /grupos-interes/cliente/
+submenu:
+  - title: Cliente
+    url: /grupos-interes/cliente/
+  - title: Equipo
+    url: /grupos-interes/equipo/
+  - title: Accionistas
+    url: /grupos-interes/accionistas/
+  - title: Sociedad
+    url: /grupos-interes/sociedad/
+  - title: Proveedores
+    url: /grupos-interes/proveedores/
+  - title: Supervisores y reguladores
+    url: /grupos-interes/reguladores/
