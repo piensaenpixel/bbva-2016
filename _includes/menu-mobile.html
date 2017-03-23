@@ -38,4 +38,22 @@
       </li>
     {% endfor %}
   </ul>
+
+    {% for options in site.data.header.options %}
+      {% if forloop.index == 1 %}
+      {% else %}
+        <p class="download-mobile">
+          <a href="{% if lang == site.default_lang %} {{site.baseurl}}/downloads/bbva_2016.pdf {% else %} {{site.baseurl}}/downloads/bbva_2016_en.pdf {% endif %}" target="_blank">
+            {{ options.title }}
+          </a>
+        </p>
+      {% endif %}
+      </li>
+    {% endfor %}
+
+  <p class="download-mobile">
+    <a href="{% if lang == site.default_lang %} {{site.baseurl}}/downloads/bbva_2016.pdf {% else %} {{site.baseurl}}/downloads/bbva_2016_en.pdf {% endif %}" target="_blank">
+      {{ options.title }}
+    </a>
+  </p>
 </nav>

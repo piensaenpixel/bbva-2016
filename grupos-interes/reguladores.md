@@ -33,7 +33,7 @@ headerTitle: Informe anual BBVA 2016
 
 <section class="section section--blue section--piramids">
   <div class="container container--small">
-    <h2 class="txt-cite u-txt-center">El diálogo con supervisores y reguladores se ha convertido en una tarea fundamental en un entorno donde la presión y la cultura regulatoria son cada  vez mayores.</h2>
+    <h2 class="txt-cite u-txt-center">El diálogo con supervisores y reguladores se ha convertido en una tarea fundamental en un entorno donde la presión y la cultura regulatoria son cada vez mayores</h2>
   </div>
 </section>
 <section class="section section--grey">

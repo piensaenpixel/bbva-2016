@@ -64,8 +64,8 @@ headerTitle: Informe anual BBVA 2016
 
 <section class="section">
   <div class="container container--small">
-    <h2 class="u-txt-center title-section title-section--inside">Proceso de aprovisionamiento</h2>
-    <p  class="u-txt-center paragraph u-blue paragraph--medium"><b>EN EL GRUPO QUE APUESTA POR LAS NUEVAS TECNOLOGÍAS</b></p>
+    <h2 class="u-txt-center title-section title-section--inside">Proceso de aprovisionamiento en el Grupo</h2>
+    <p  class="u-txt-center paragraph u-blue paragraph--medium u-upperCase"><b>Que apuesta por las nuevas tecnologías</b></p>
     <div class="section-media is-center is-space--10">
       <svg width="25px" height="24px" viewBox="3247 -708 25 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
           <path d="M3258.854,-686.2401 L3256.678,-684.0641 L3271.91,-684.0641 L3271.91,-686.2401 L3258.854,-686.2401 Z M3271.483,-703.7781 L3267.597,-707.6821 C3267.171,-708.1091 3266.489,-708.1041 3266.065,-707.6781 L3262.596,-704.1941 L3266.387,-700.3851 L3263.137,-700.3851 L3260.971,-702.5611 L3247.974,-689.5051 L3247.974,-684.0651 L3253.389,-684.0651 L3271.48,-702.2381 C3271.913,-702.6731 3271.906,-703.3531 3271.483,-703.7781 L3271.483,-703.7781 Z" id="Fill-1" stroke="none" fill="#2A86CA" fill-rule="evenodd"></path>

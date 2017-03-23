@@ -1016,11 +1016,13 @@ span.highlight {
 }
 
 .content-up {
+  display: none;
   @include display-flex;
   @include align-items(center);
+  @inlude justify-content(center);
   position: fixed;
-  right: 30px;
-  bottom: 30px;
+  right: 20px;
+  bottom: 20px;
   color: $bbvablue;
   font-family: 'BentonBook';
   font-size: 15px;
@@ -1029,7 +1031,14 @@ span.highlight {
   transition: opacity 300ms;
   pointer-events: none;
   visibility: hidden;
+  background: $darkblue;
+  padding: 4px 12px;
+  border-radius: 2px;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
 
+  @media (max-width: $mobile) {
+    display: block;
+  }
   &.is-show {
     cursor: pointer;
     pointer-events: all;
@@ -1038,9 +1047,6 @@ span.highlight {
   }
   &:hover {
     text-decoration: underline;
-  }
-  svg {
-    margin-right: 8px;
   }
 }
 .content p + ul.cita {
