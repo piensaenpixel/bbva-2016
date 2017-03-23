@@ -16,6 +16,7 @@ $(function () {
   require('./components/tabs').init();
   require('./components/lightbox').init();
   require('./components/modals').init();
+  require('./components/scrollToTop').init();
 
   var highlight = require('./components/highlight');
   highlight();
