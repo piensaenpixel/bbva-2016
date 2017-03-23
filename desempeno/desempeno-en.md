@@ -12,7 +12,20 @@ headerTitle: Report BBVA 2016
   <div class="section-header section-header--strategy">
     <div>
       <h1>BBVA in figures</h1>
-      <p class="u-white u-txt-center u-upperCase">a summary of 2016</p>
+      <p class="u-white u-txt-center u-flex u-alignCenter u-hcenter">
+        A summary of
+        <a href="#" style="margin: 0 12px;" data-show-id="2" href="https://www.youtube.com/embed/jg4jIiVYDg8" target="_blank">
+          <svg version="1.1" width="46" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+             viewBox="0 0 46 46" style="enable-background:new 0 0 46 46;" xml:space="preserve">
+          <path fill="#FFFFFF" d="M23,0C10.3,0,0,10.3,0,23s10.3,23,23,23s23-10.3,23-23S35.7,0,23,0 M23,42.2C12.4,42.2,3.8,33.6,3.8,23
+            S12.4,3.8,23,3.8S42.2,12.4,42.2,23S33.6,42.2,23,42.2 M19.5,32.7V13.4L32.4,23L19.5,32.7z"/>
+          </svg>
+        </a>
+        2016
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/jg4jIiVYDg8" frameborder="0" allowfullscreen data-basicLightbox data-id="2"></iframe>
+
+      </p>
+
     </div>
   </div>
 </section>
@@ -47,16 +60,17 @@ and future possible.</p>
 <section class="section section--blue section--blueDark">
   <div class="container container--small">
     <h2 class="title-section title-section--inside u-txt-center">Financial performance</h2>
-    <p class="paragraph paragraph--big">The difference between what the bank pays for deposits and the interest it charges for
-loans, i.e. the net interest income, is its main source of revenue. Recurring revenues,
-which are the sum of net interest income and income from fees and commissions, allows
-the bank to cover its overheads, including salaries and payments to suppliers, and secure
-a <b>profit</b>, which is subsequently distributed by the payment of taxes and dividends. The role
-of banks thus has a positive impact on society. It also requires the maintenance of levels
-of capital that are sufficient to keep the entity solvent.</p>
+    <p class="paragraph paragraph--big">The difference between what the bank pays for deposits and the interest it
+charges for loans, i.e. the net interest income, is its main source of revenue.
+Recurring revenues, which are the sum of net interest income and income from
+fees and commissions, allow the bank to cover its overheads, including
+salaries and payments to suppliers, and secure a profit , which is subsequently
+distributed by the payment of taxes and dividends. The role of banks thus has a
+positive impact on society. It also requires the maintenance of levels of capital
+that are sufficient to keep the entity solvent</p>
     <ul class="tabs is-blue">
       <li class="tabs-item"><a href="#resultados" class="is-active">Results</a></li>
-      <li class="tabs-item"><a href="#balance">Balance sheet</a></li>
+      <li class="tabs-item"><a href="#balance">Balance sheet and activity</a></li>
       <li class="tabs-item"><a href="#rentabilidad">Profitability / Efficiency</a></li>
       <li class="tabs-item"><a href="#riesgo">Risk management</a></li>
       <li class="tabs-item"><a href="#solvencia">Solvency</a></li>
@@ -104,7 +118,7 @@ of capital that are sufficient to keep the entity solvent.</p>
       </div>
       <div class="tabs-item" id="balance">
         <div class="tabs-header">
-          <h3 class="tabs-title">Balance sheet</h3>
+          <h3 class="tabs-title">Balance sheet and business activity</h3>
           <p class="paragraph u-txt-center">Activity at very similar levels to the previous year in an adverse environment. Reduction of non-performing loans</p>
           <img src="{{site.baseurl}}/images/des_financiero_balance_en.svg" />
         </div>
@@ -148,8 +162,9 @@ Opportunities.</b></p>
     <ul class="tabs">
       <li class="tabs-item"><a href="#riqueza" class="is-active">Wealth creation</a></li>
       <li class="tabs-item"><a href="#desarrollo">Contribution to growth and welfare</a></li>
-      <li class="tabs-item"><a href="#aportacion">Direct contribution to society</a></li>
-      <li class="tabs-item"><a href="#sostenible">Contribution to sustainable development</a></li>
+      <li class="tabs-item"><a href="#aportacion">Contribution to
+society</a></li>
+      <li class="tabs-item"><a href="#sostenible">Sustainable development</a></li>
     </ul>
     <div class="tabs-container">
       <div class="tabs-item" id="riqueza">
@@ -236,23 +251,23 @@ economies in which BBVA operates</p>
             <p class="paragraph is-small"><b>customers</b> in 35 countries; 18 million digital customers</p>
           </li>
           <li class="list-item">
-            <h4 class="txt-number is-small">€122,758  <small>M</small></h4>
+            <h4 class="txt-number is-small">€122,758 <small>M of homes financed</small></h4>
             <p class="paragraph is-small">We <b>finance homes</b> for a total amount of</p>
           </li>
           <li class="list-item">
-            <h4 class="txt-number is-small">€33,418  <small>M</small></h4>
+            <h4 class="txt-number is-small">€33,418 <small>M of pension funds managed</small></h4>
             <p class="paragraph is-small">We <b>manage pension plans</b> for a total value of </p>
           </li>
           <li class="list-item">
-            <h4 class="txt-number is-small">2.6 <small>million</small></h4>
+            <h4 class="txt-number is-small">2.5 <small>million</small></h4>
             <p class="paragraph is-small"><b>SMEs, micro-enterprises and self-employed workers</b> supported or financed by BBVA</p>
           </li>
           <li class="list-item">
-            <h4 class="txt-number is-small">9.8 <span>million</span></h4>
+            <h4 class="txt-number is-small">9.8 <small>million</small></h4>
             <p class="paragraph is-small">customers in <b>financial inclusion segment</b></p>
           </li>
           <li class="list-item">
-            <h4 class="txt-number is-small">1.8 <span>million</span></h4>
+            <h4 class="txt-number is-small">1.8 <small>million</small></h4>
             <p class="paragraph is-small"><b>micro-entrepreneurs</b> supported or financed with €1,009m from the BBVA
 Microfinance Foundation</p>
           </li>
@@ -278,7 +293,7 @@ Microfinance Foundation</p>
           <li class="list-item">
             <h5 class="txt-more">&nbsp;</h5>
             <div class="u-flex u-alignTop">
-              <h4 class="txt-number is-small u-blue ">2.5 <small>Mill</small></h4>
+              <h4 class="txt-number is-small u-blue ">2.5 <small>Million</small></h4>
               <p class="paragraph is-small">people have participated in financial education programs</p>
             </div>
           </li>
@@ -286,7 +301,7 @@ Microfinance Foundation</p>
             <h5 class="txt-more">&nbsp;</h5>
             <div class="u-flex u-alignTop">
               <h4 class="txt-number is-small u-blue">€25 <small>M</small></h4>
-              <p class="paragraph is-small">dedicated to Knowledge, education and culture programs</p>
+              <p class="paragraph is-small">dedicated to knowledge, education and culture programs</p>
             </div>
           </li>
         </ul>
@@ -302,7 +317,7 @@ Microfinance Foundation</p>
                   <path d="M372.1706,-1.4164 C377.5406,-1.4164 381.8946,-5.8234 381.8946,-11.2604 C381.8946,-16.6954 377.5406,-21.1034 372.1706,-21.1034 C371.3336,-21.1034 370.5256,-20.9854 369.7516,-20.7834 C367.6826,-25.9184 362.7066,-29.5414 356.8906,-29.5414 C349.2186,-29.5414 343.0006,-23.2444 343.0006,-15.4794 C343.0006,-7.7104 349.2186,-1.4164 356.8906,-1.4164 L372.1706,-1.4164 Z M382.5236,-26.8684 C382.5236,-32.4864 377.9116,-37.0414 372.2226,-37.0414 C368.0986,-37.0414 364.5406,-34.6474 362.8956,-31.1904 C362.8576,-31.1124 362.7966,-30.9294 362.7606,-30.8494 C366.3716,-29.5214 369.5536,-26.8684 370.8406,-23.6184 C371.6156,-23.8194 372.4006,-23.8004 373.1386,-23.7484 C375.9686,-23.5494 378.3756,-22.3794 380.1516,-20.3744 C381.6326,-22.1364 382.5236,-24.3994 382.5236,-26.8684 Z M384.8446,-38.9134 L384.8456,-41.7114 L384.7706,-41.7864 L379.9386,-36.9984 L381.4246,-35.5254 L384.8446,-38.9134 Z M389.4626,-25.5834 L391.4606,-27.5614 L391.4606,-27.6664 L384.6276,-27.6664 L384.6276,-25.5834 L389.4626,-25.5834 Z M361.6036,-40.5954 L358.7796,-40.5964 L358.7046,-40.5214 L363.5356,-35.7334 L365.0226,-37.2074 L361.6036,-40.5954 Z M373.2746,-44.0204 L371.2776,-45.9994 L371.1716,-45.9994 L371.1716,-39.2294 L373.2746,-39.2294 L373.2746,-44.0204 Z" id="Fill-1" stroke="none" fill="#2ECDCD" fill-rule="evenodd"></path>
               </svg>&nbsp;
             5.8%</h4>
-            <p class="paragraph is-small">reduction in <b>CO2 emission</b> per person</p>
+            <p class="paragraph is-small">reduction in <b>CO<sub>2</sub> emission</b> per person</p>
           </li>
           <li class="list-item">
             <h4 class="txt-number is-small u-flex u-alignCenter u-hcenter">

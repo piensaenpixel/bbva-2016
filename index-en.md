@@ -237,18 +237,9 @@ major progress in our Strategic Priorities</h3>
     <p>During 2016, the BBVA Group made great progress in its Transformation Journey. The Entity’s new
 strategy has been bolstered with particular focus on digitalization and customer experience,
 simplifying the organizational structure and redefining the Bank’s new tagline: “Creating
-Opportunities”.</p>
+Opportunities”</p>
     <p class="link-more is-white">
       <a href="{{site.baseurl}}/estrategia/">
-        <svg version="1.1" width="20" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 15.2 20.3" xml:space="preserve">
-          <g>
-            <path fill="#FFF" d="M10.2,0h-3H0.5C0.2,0,0,0.2,0,0.5v19.3c0,0.3,0.2,0.5,0.5,0.5h14.2c0.3,0,0.5-0.2,0.5-0.5V5.1L10.2,0z
-               M3.4,11.3H2.9v1.4H1.7V8.2h1.7c1,0,2,0.2,2,1.5C5.3,11.1,4.3,11.3,3.4,11.3z M7.4,12.7H5.8V8.2h1.5c1.3,0,2.5,0.5,2.5,2.2
-              C9.8,12.2,8.7,12.7,7.4,12.7z M13.6,9.2h-1.9v0.8H13v1h-1.3v1.6h-1.3V8.2h3.1V9.2z"/>
-            <path class="#FFF" d="M3.4,9.1H2.9v1.2h0.5c0.6,0,0.7-0.3,0.7-0.6C4.1,9.4,4,9.1,3.4,9.1z"/>
-            <path class="#FFF" d="M7.4,9.2H7.1v2.5h0.3c0.9,0,1.2-0.3,1.2-1.3C8.6,9.6,8.3,9.2,7.4,9.2z"/>
-          </g>
-          </svg>
           Read more
       </a>
     </p>
@@ -258,10 +249,10 @@ Opportunities”.</p>
 <section class="section section--grey">
   <div class="container">
     <h2 class="title-section title-section--inside u-txt-center">Primary stakeholders</h2>
-    <p class="paragraph u-txt-center paragraph--big"><a href="{{site.baseurl}}/downloads/materialidad_en.pdf" class="u-blue">Materiality analysis.</a> BBVA has taken a great step forward in materiality analysis to
+    <p class="paragraph u-txt-center paragraph--big"><a href="{{site.baseurl}}/downloads/materialidad_en.pdf" target="_blank" class="u-blue">Materiality analysis.</a> BBVA has taken a great step forward in materiality analysis to
 ensure that the focus is on the most relevant aspects for both the stakeholders and the
 BBVA business.</p>
-    <ul class="list list--twoItems">
+    <ul class="list list--twoItems list--groups">
       <li class="list-item">
         <a href="{{site.baseurl}}/grupos-interes/cliente/" class="card-highlight">
           <img src="{{site.baseurl}}/images/home-cliente.png" />
@@ -425,20 +416,7 @@ for an adequate management and oversight of the Bank </p>
 established an adequate risk management system, in line with the
 Entity's risk profile and strategy</p>
         <p class="link-more is-left">
-          <a href="http://accionistaseinversores.bbva.com/TLBB/fbinir/mult/5_cuentas _anuales_consolidadas_grupo_bbva2016_tcm926-633620.pdf" target="_blank">
-            <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-               viewBox="0 0 15.2 20.3" style="enable-background:new 0 0 15.2 20.3;" xml:space="preserve" width="18">
-            <style type="text/css">
-              .st0{fill-rule:evenodd;clip-rule:evenodd;fill:#2E86C8;}
-            </style>
-            <g>
-              <path class="st0" d="M10.2,0h-3H0.5C0.2,0,0,0.2,0,0.5v19.3c0,0.3,0.2,0.5,0.5,0.5h14.2c0.3,0,0.5-0.2,0.5-0.5V5.1L10.2,0z
-                 M3.4,11.3H2.9v1.4H1.7V8.2h1.7c1,0,2,0.2,2,1.5C5.3,11.1,4.3,11.3,3.4,11.3z M7.4,12.7H5.8V8.2h1.5c1.3,0,2.5,0.5,2.5,2.2
-                C9.8,12.2,8.7,12.7,7.4,12.7z M13.6,9.2h-1.9v0.8H13v1h-1.3v1.6h-1.3V8.2h3.1V9.2z"/>
-              <path class="st0" d="M3.4,9.1H2.9v1.2h0.5c0.6,0,0.7-0.3,0.7-0.6C4.1,9.4,4,9.1,3.4,9.1z"/>
-              <path class="st0" d="M7.4,9.2H7.1v2.5h0.3c0.9,0,1.2-0.3,1.2-1.3C8.6,9.6,8.3,9.2,7.4,9.2z"/>
-            </g>
-            </svg>
+          <a href="https://accionistaseinversores.bbva.com/TLBB/micros/bbva2016/en/cuentas/notas-estados-financieros/index.html" target="_blank">
             Read more
           </a>
         </p>

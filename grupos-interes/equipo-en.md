@@ -34,9 +34,11 @@ headerTitle: Report BBVA 2016
 
 <section class="section section--blue section--piramids">
   <div class="container container--small">
-    <h2 class="txt-cite">One of the BBVA's six Strategic Priorities Attracting, developing, motivating and
-retaining a first-class workforce, and
-providing the best employee experience</h2>
+    <h2 class="txt-cite">One of the BBVA's six
+Strategic Priorities is to attract,
+develop, motivate and retain a
+first-class workforce, and provide the
+best employee experience</h2>
   </div>
 </section>
 
@@ -63,9 +65,9 @@ providing the best employee experience</h2>
 <section class="section section--blue">
   <div class="container">
     <h2 class="u-txt-center title-section title-section--inside">Best place to work</h2>
-    <div class="section-media is-center">
+    <!--<div class="section-media is-center">
       <img style="max-width: 616px;" src="{{site.baseurl}}/images/best-place-en.svg" />
-    </div>
+    </div>-->
   </div>
 </section>
 
@@ -207,7 +209,7 @@ committed deadlines, and making things simple</p>
 
 
         </div>
-        <h4 class="paragraph is-l no-margin"><b><i>One team</i></b></h4>
+        <h4 class="paragraph is-l no-margin"><b>One team</b></h4>
         <p class="paragraph">working as a single team across all regions, with no
 functional silos</p>
       </li>

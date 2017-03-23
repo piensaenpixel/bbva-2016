@@ -72,7 +72,7 @@ financial education, the entrepreneurship and the knowledge</h2>
               </g>
           </svg>
         </div>
-        <h3 class="paragraph u-blue u-upperCase"><b>Financial Education</b></h3>
+        <h3 class="paragraph u-blue u-upperCase"><b>Financial education</b></h3>
         <p class="paragraph">Aimed at promoting
 training in financial literacy to enable people to
 make informed financial decisions</p>
@@ -149,7 +149,7 @@ and create opportunities for people</p>
     <ul class="list list--threeItems">
       <li class="list-item">
         <p class="paragraph u-upperCase"><b>Children and young adults</b></p>
-        <h3 class="txt-number is-small">2.1 <small>M</small></h3>
+        <h3 class="txt-number is-small">2.1 <small>Million</small></h3>
         <p class="paragraph u-blueDark is-book">Responsible use of money</p>
       </li>
       <li class="list-item">
@@ -188,7 +188,7 @@ medium-sized businesses </p>
         </ul>
       </li>
       <li class="list-item">
-        <h3 class="paragraph u-blueDark u-upperCase"><b>Main programs</b></h3>
+        <h3 class="paragraph u-blueDark u-upperCase"><b>Main initiatives</b></h3>
         <ul class="list-decoration is-dark">
           <li class="list-decorationItem">
             <p class="paragraph no-margin">My Retirement</p>
@@ -205,7 +205,7 @@ medium-sized businesses </p>
         </ul>
       </li>
       <li class="list-item">
-        <h3 class="paragraph u-blueDark u-upperCase"><b>Main programas</b></h3>
+        <h3 class="paragraph u-blueDark u-upperCase"><b>Main initiatives</b></h3>
         <ul class="list-decoration is-dark">
           <li class="list-decorationItem">
             <p class="paragraph no-margin">Activate Your Business</p>
@@ -257,7 +257,7 @@ entrepreneurs:</p>
           </svg>
         </div>
         <p class="paragraph">The most vulnerable, which it supports through
-the BBVA Microfinance Foundation.</p>
+the BBVA Microfinance Foundation</p>
       </li>
         <li class="list-item">
         <div class="list-media is-mini is-left">
@@ -269,7 +269,7 @@ the BBVA Microfinance Foundation.</p>
         </div>
         <p class="paragraph">Those who create high social impact through their
 enterprises, by way of the BBVA Momentum
-program.</p>
+program</p>
       </li>
     </ul>
   </div>
@@ -285,7 +285,7 @@ program.</p>
     <p class="paragraph paragraph--big">Is a non-profit institution whose mission is to promote sustainable and inclusive economic and social development for the most underprivileged people in society through responsible productive finance</p>
     <ul class="list list--threeItems u-txt-center">
       <li class="list-item">
-        <h3 class="txt-number is-big">1.8 <small>Mill.</small></h3>
+        <h3 class="txt-number is-big">1.8 <small>Million</small></h3>
         <p class="paragraph u-blueDark"><b>CUSTOMERS</b></p>
       </li>
       <li class="list-item">
@@ -293,7 +293,7 @@ program.</p>
         <p class="paragraph u-blueDark"><b>EMPLOYEES</b></p>
       </li>
       <li class="list-item">
-        <h3 class="txt-number is-big">1.1 <small>Mill.</small></h3>
+        <h3 class="txt-number is-big">1.1 <small>Million</small></h3>
         <p class="paragraph u-blueDark"><b>WOMEN</b></p>
       </li>
     </ul>
@@ -317,7 +317,7 @@ program.</p>
         <p class="paragraph u-blueDark"><b>PARTICIPANTS</b></p>
       </li>
       <li class="list-item">
-        <h3 class="txt-number is-big">€7.9 <small>Mill.</small></h3>
+        <h3 class="txt-number is-big">€7.9 <small>M</small></h3>
         <p class="paragraph u-blueDark"><b>SOCIAL INVESTMENT</b></p>
       </li>
     </ul>
@@ -346,7 +346,7 @@ program.</p>
 <section class="section">
   <div class="container container--small">
     <h2 class="u-txt-center title-section--inside title-section">Knowledge, education and culture</h2>
-    <p class="paragraph paragraph--big is-dark">They basically include the activities of the BBVA Foundation and the BBVA Research department in addition to local programs and initiatives focusing on education, science and culture.</p>
+    <p class="paragraph paragraph--big is-dark">They basically include the activities of the BBVA Foundation and the BBVA Research department in addition to local programs and initiatives focusing on education, science and culture</p>
 
 
     <dl class="descriptions">
@@ -355,14 +355,14 @@ program.</p>
         <p class="paragraph">It has strengthened its commitment to drive and disseminate knowledge through the consolidation of its activities:</p>
         <ul class="list-decoration">
           <li class="list-decorationItem">
-            <p class="paragraph">Supporting the community of researchers and creators and fostering the diffusion of their work</p>
+            <p class="paragraph">Supporting the community of researchers and creators and fostering the diffusion of their work.</p>
           </li>
           <li class="list-decorationItem">
-            <p class="paragraph">Supporting art and culture</p>
+            <p class="paragraph">Supporting art and culture.</p>
           </li>
           <li class="list-decorationItem">
             <p class="paragraph">Collaborating with the generation of research
-and publication of socioeconomic reports</p>
+and publication of socioeconomic reports.</p>
           </li>
         </ul>
       </dd>
@@ -376,7 +376,7 @@ and publication of socioeconomic reports</p>
     </dl>
     <hr class="break" />
     <dl class="descriptions">
-      <dt><p class="paragraph is-l is-dark"><b>Educación en valores</b></p></dt>
+      <dt><p class="paragraph is-l is-dark"><b>Education in values</b></p></dt>
       <dd>
         <p class="paragraph">To promote social integration and training among children and young people</p>
       </dd>
@@ -440,6 +440,9 @@ and publication of socioeconomic reports</p>
     <p class="paragraph paragraph--big">In 2016 we launched our third Global Eco-efficiency Plan (GEP) until 2020 and worked to minimize our environmental footprint</p>
     <div class="section-media is-center is-space--30 ">
         <img style="max-width: 710px;" src="{{site.baseurl}}/images/sociedad-medioambiente-eng.svg" />
+    </div>
+    <div class="section-media is-center is-space--30 ">
+        <img style="max-width: 710px;" src="{{site.baseurl}}/images/sociedad-medioambiente2-eng.svg" />
     </div>
     <p class="link-more">
 <a href="{{site.baseurl}}/downloads/grupos_sociedad_medioambiente_en.pdf"  target="_blank">

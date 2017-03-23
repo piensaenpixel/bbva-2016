@@ -46,7 +46,7 @@ headerTitle: Report BBVA 2016
     <ul class="list-box">
       <li class="list-boxItem">
         <h3 class="list-boxItemTitle">NUMBER OF SHARES ISSUED</h3>
-        <p class="txt-number is-small">6,567 <small>M</small></p>
+        <p class="txt-number is-small">6,567 <small>Million</small></p>
       </li>
       <li class="list-boxItem">
         <h3 class="list-boxItemTitle">BOOK VALUE PER SHARE</h3>
@@ -54,16 +54,16 @@ headerTitle: Report BBVA 2016
       </li>
       <li class="list-boxItem">
         <h3 class="list-boxItemTitle">CLOSING PRICE</h3>
-        <p class="txt-number is-small">6.61 <small>€</small></p>
+        <p class="txt-number is-small">6.61 <small>€ per share</small></p>
       </li>
       <li class="list-boxItem">
         <h3 class="list-boxItemTitle">MARKET CAPITALIZATION</h3>
-        <p class="txt-number is-small">42,118 <small>M€</small></p>
+        <p class="txt-number is-small">€42,118 <small>M</small></p>
       </li>
     </ul>
 
     <hr class="break" />
-    <p class="paragraph paragraph--medium no-margin is-huge is-dark u-txt-center">Listed on the main international stock markets</p>
+    <p class="u-txt-center title-section title-section--inside">Listed on the main international stock markets</p>
 
 
     <div class="section-media is-center">
@@ -71,7 +71,7 @@ headerTitle: Report BBVA 2016
     </div>
 
     <hr class="break" />
-    <p class="u-txt-center title-section title-section--inside u-upperCase">WEIGHTING</p>
+    <p class="u-txt-center title-section title-section--inside">Weightings</p>
     <p class="paragraph is-s paragraph--medium u-txt-center">(31 - 12 - 2016)</p>
     <ul class="list-box">
       <li class="list-boxItem">
@@ -110,7 +110,7 @@ headerTitle: Report BBVA 2016
 <section class="section section--grey">
   <div class="container container--small">
     <h2 class="u-txt-center title-section title-section--inside">Remuneration</h2>
-    <p class="paragraph paragraph--big u-txt-center">BBVA Shareholders’ have perceived €1,043m as cash remuneration.</p>
+    <p class="paragraph paragraph--big u-txt-center">BBVA Shareholders’ have perceived €1,043m as cash remuneration</p>
     <div class="section-media is-center">
       <img style="max-width: 247px;" src="{{site.baseurl}}/images/des_remuneracion_accionistas_en.svg" />
     </div>

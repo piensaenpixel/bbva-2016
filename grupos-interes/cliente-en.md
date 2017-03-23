@@ -104,7 +104,7 @@ communication strategy</b> is crucial</h2>
           <path class="st0" d="M7.4,9.2H7.1v2.5h0.3c0.9,0,1.2-0.3,1.2-1.3C8.6,9.6,8.3,9.2,7.4,9.2z"></path>
         </g>
         </svg>
-          Leer más
+          Read more
       </a>
     </p>
 

@@ -245,8 +245,8 @@ headerTitle: Informe anual BBVA 2016
 <section class="section section--grey">
   <div class="container">
     <h2 class="title-section title-section--inside u-txt-center">Nuestros principales grupos de interés</h2>
-    <p class="paragraph u-txt-center paragraph--big"><a href="{{site.baseurl}}/downloads/materialidad.pdf" class="u-blue">Análisis de materialidad:</a> BBVA ha dado un gran paso adelante en el análisis de materialidad para asegurar que se pone el foco en los aspectos más relevantes, tanto para los grupos de interés como para el negocio de BBVA.</p>
-    <ul class="list list--twoItems">
+    <p class="paragraph u-txt-center paragraph--big"><a href="{{site.baseurl}}/downloads/materialidad.pdf" target="_blank" class="u-blue">Análisis de materialidad:</a> BBVA ha dado un gran paso adelante en el análisis de materialidad para asegurar que se pone el foco en los aspectos más relevantes, tanto para los grupos de interés como para el negocio de BBVA.</p>
+    <ul class="list list--twoItems list--groups">
       <li class="list-item">
         <a href="{{site.baseurl}}/grupos-interes/cliente/" class="card-highlight">
           <img src="{{site.baseurl}}/images/home-cliente.png" />
@@ -391,20 +391,7 @@ industria financiera en general y para BBVA en particular</p>
         <h2>Gestion del riesgo</h2>
         <p>BBVA cuenta con un modelo general de gestión y control de riesgos que  establece un adecuado sistema de gestión de los mismos, en función del perfil de riesgos y la estrategia de la Entidad</p>
         <p class="link-more is-left">
-          <a href="http://accionistaseinversores.bbva.com/TLBB/fbinir/mult/5_cuentas_anuales_consolidadas_grupo_bbva2016_tcm926-633620.pdf" target="_blank">
-            <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-               viewBox="0 0 15.2 20.3" style="enable-background:new 0 0 15.2 20.3;" xml:space="preserve" width="18">
-            <style type="text/css">
-              .st0{fill-rule:evenodd;clip-rule:evenodd;fill:#2E86C8;}
-            </style>
-            <g>
-              <path class="st0" d="M10.2,0h-3H0.5C0.2,0,0,0.2,0,0.5v19.3c0,0.3,0.2,0.5,0.5,0.5h14.2c0.3,0,0.5-0.2,0.5-0.5V5.1L10.2,0z
-                 M3.4,11.3H2.9v1.4H1.7V8.2h1.7c1,0,2,0.2,2,1.5C5.3,11.1,4.3,11.3,3.4,11.3z M7.4,12.7H5.8V8.2h1.5c1.3,0,2.5,0.5,2.5,2.2
-                C9.8,12.2,8.7,12.7,7.4,12.7z M13.6,9.2h-1.9v0.8H13v1h-1.3v1.6h-1.3V8.2h3.1V9.2z"/>
-              <path class="st0" d="M3.4,9.1H2.9v1.2h0.5c0.6,0,0.7-0.3,0.7-0.6C4.1,9.4,4,9.1,3.4,9.1z"/>
-              <path class="st0" d="M7.4,9.2H7.1v2.5h0.3c0.9,0,1.2-0.3,1.2-1.3C8.6,9.6,8.3,9.2,7.4,9.2z"/>
-            </g>
-            </svg>
+          <a href="https://accionistaseinversores.bbva.com/TLBB/micros/bbva2016/cuentas/notas-estados-financieros/index.html#7-gestión-de-riesgos" target="_blank">
             Leer más
           </a>
         </p>

@@ -76,7 +76,7 @@ headerTitle: Informe anual BBVA 2016
           </svg>
         </div>
         <h3 class="paragraph is-dark"><b>Para avanzar en nuestro proceso de transformación (TCR en la banca digital):</b></h3>
-        <p class="paragraph">TCR en los nuevos equipos de trabajo agile.</p>
+        <p class="paragraph">TCR en los nuevos equipos de trabajo <i>agile</i>.</p>
       </li>
     </ul>
 

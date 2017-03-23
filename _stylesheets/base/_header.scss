@@ -54,7 +54,7 @@
   @media (max-width: $mobile) {
     @include align-items(center);
     margin: 0;
-    .navigation {
+    .navigation .menu {
       display: none;
     }
     .header-containerLogo svg {
@@ -86,7 +86,7 @@
 .menu-item {
   font-family: 'BentonMedium';
   font-size: 12px;
-  margin-right: 50px;
+  margin-right: 40px;
   text-transform: uppercase;
 
   a {
@@ -153,10 +153,21 @@
   right: 0;
   bottom: -3px;
   left: auto;
+  @media (max-width: $mobile) {
+    position: absolute;
+    right: 0;
+    top: 10px;
+    left: auto;
+    bottom: auto;
+  }
 
   &.is-active {
     @include display-flex();
     left: 0;
+    @media (max-width: $mobile) {
+      background: #001d46;
+      transition: background-color 0.5s ease;
+    }
     .search-item {
       margin-right: 12px;
     }
@@ -322,15 +333,16 @@
   display: none;
   transform: translateX(-100%);
   &.is-open {
-    transform: translateX(0);
+    transform: translateX(0) translateZ(0);
     width: 100%;
-    height: 100vh;
+    height: 100%;
     position: fixed;
     background: $darkblue;
     top: 0;
     display: block;
     padding: 60px 20px 13px 20px;
     z-index: 20;
+    backface-visibility: hidden;
     .menu {
       @include flex-direction(column);
     }

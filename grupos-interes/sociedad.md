@@ -328,7 +328,7 @@ headerTitle: Informe anual BBVA 2016
 <section class="section">
   <div class="container container--small">
     <h2 class="u-txt-center title-section--inside title-section">Conocimiento, educación y cultura</h2>
-    <p class="paragraph paragraph--big is-dark">Básicamente incluye la actividad de la Fundación BBVA, la labor del departamento BBVA Research y las iniciativas locales con foco en la educación en valores</p>
+    <p class="paragraph paragraph--big is-dark">Básicamente incluye la actividad de la Fundación BBVA, la labor del departamento BBVA Research y las iniciativas locales con foco en la educación en valores.</p>
 
 
     <dl class="descriptions">
@@ -426,6 +426,11 @@ headerTitle: Informe anual BBVA 2016
     <div class="section-media is-center is-space--30 ">
         <img src="{{site.baseurl}}/images/sociedad-medioambiente.svg" />
     </div>
+    <div class="section-media is-center is-space--30 ">
+        <img src="{{site.baseurl}}/images/sociedad-medioambiente2.svg" />
+    </div>
+
+
     <p class="link-more">
 <a href="{{site.baseurl}}/downloads/grupos_sociedad_medioambiente.pdf"  target="_blank">
         <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"

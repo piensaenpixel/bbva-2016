@@ -73,7 +73,7 @@ headerTitle: Informe anual BBVA 2016
 <section class="section">
   <div class="container container--small">
     <h2 class="u-txt-center title-section title-section--inside">Un talento de primer nivel</h2>
-    <p class="paragraph u-txt-center paragraph--big">En 2016, <b>Talent & Culture</b> ha definido su rol como un área que debe apoyar al Banco para conseguir sus objetivos estratégicos y crear una ventaja competitiva a través de un equipo de primer nivel, inspirado por nuestro Propósito y que trabaje como un solo equipo</p>
+    <p class="paragraph u-txt-center paragraph--big">En 2016, <b>Talent & Culture</b> ha definido su <i>rol</i> como un área que debe apoyar al Banco para conseguir sus objetivos estratégicos y crear una ventaja competitiva a través de un equipo de primer nivel, inspirado por nuestro Propósito y que trabaje como un solo equipo</p>
 
 
     <h3 class="paragraph u-txt-center u-upperCase u-blue"><b>Transparencia y consistencia</b></h3>
@@ -212,6 +212,6 @@ headerTitle: Informe anual BBVA 2016
 
 <section class="section section--blue section--blueOpacity" data-parallax="scroll" data-speed=".4" data-image-src="{{site.baseurl}}/images/quote-equipo.png">
   <div class="container container--small">
-    <h2 class="txt-cite">"Estamos construyendo una cultura, un entorno y una forma de trabajo que sitúa al cliente en el centro de todo lo que hacemos"</h2>
+    <h2 class="txt-cite">Estamos construyendo una cultura, un entorno y una forma de trabajo que sitúa al cliente en el centro de todo lo que hacemos</h2>
   </div>
 </section>

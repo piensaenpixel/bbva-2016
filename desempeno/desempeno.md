@@ -12,7 +12,18 @@ headerTitle: Informe anual BBVA 2016
   <div class="section-header section-header--strategy">
     <div>
       <h1>BBVA en cifras</h1>
-      <p class="u-white u-txt-center u-upperCase">Resumen del año 2016</p>
+      <p class="u-white u-txt-center u-flex u-alignCenter u-hcenter">
+        Resumen del
+        <a href="#" style="margin: 0 12px;" data-show-id="2" href="https://youtu.be/IBrA-E2ryKg" target="_blank">
+          <svg version="1.1" width="46" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+             viewBox="0 0 46 46" style="enable-background:new 0 0 46 46;" xml:space="preserve">
+          <path fill="#FFFFFF" d="M23,0C10.3,0,0,10.3,0,23s10.3,23,23,23s23-10.3,23-23S35.7,0,23,0 M23,42.2C12.4,42.2,3.8,33.6,3.8,23
+            S12.4,3.8,23,3.8S42.2,12.4,42.2,23S33.6,42.2,23,42.2 M19.5,32.7V13.4L32.4,23L19.5,32.7z"/>
+          </svg>
+        </a>
+        año 2016
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/IBrA-E2ryKg" frameborder="0" allowfullscreen data-basicLightbox data-id="2"></iframe>
+      </p>
     </div>
   </div>
 </section>
@@ -105,8 +116,8 @@ headerTitle: Informe anual BBVA 2016
       </div>
       <div class="tabs-item" id="rentabilidad">
         <div class="tabs-header">
-          <h3 class="tabs-title">Rentabilidad/ Eficiencia</h3>
-          <p class="paragraph u-txt-center">Mejora en los ratios de rentabilidad y eficiencia</p>
+          <h3 class="tabs-title">Rentabilidad/Eficiencia</h3>
+          <p class="paragraph u-txt-center">Mejora de los ratios de rentabilidad y eficiencia</p>
           <img src="{{site.baseurl}}/images/des_financiero_rentabilidad.svg" />
         </div>
       </div>
@@ -270,7 +281,7 @@ la <b>inclusión financiera</b></p>
           <li class="list-item">
             <h5 class="txt-more">&nbsp;</h5>
             <div class="u-flex u-alignTop">
-              <h4 class="txt-number is-small u-blue ">2,5 <small>Mill.</small></h4>
+              <h4 class="txt-number is-small u-blue ">2,5 <small>Millones</small></h4>
               <p class="paragraph is-small">de personas han participado en programas de educación financiera</p>
             </div>
           </li>
@@ -294,7 +305,7 @@ la <b>inclusión financiera</b></p>
                   <path d="M372.1706,-1.4164 C377.5406,-1.4164 381.8946,-5.8234 381.8946,-11.2604 C381.8946,-16.6954 377.5406,-21.1034 372.1706,-21.1034 C371.3336,-21.1034 370.5256,-20.9854 369.7516,-20.7834 C367.6826,-25.9184 362.7066,-29.5414 356.8906,-29.5414 C349.2186,-29.5414 343.0006,-23.2444 343.0006,-15.4794 C343.0006,-7.7104 349.2186,-1.4164 356.8906,-1.4164 L372.1706,-1.4164 Z M382.5236,-26.8684 C382.5236,-32.4864 377.9116,-37.0414 372.2226,-37.0414 C368.0986,-37.0414 364.5406,-34.6474 362.8956,-31.1904 C362.8576,-31.1124 362.7966,-30.9294 362.7606,-30.8494 C366.3716,-29.5214 369.5536,-26.8684 370.8406,-23.6184 C371.6156,-23.8194 372.4006,-23.8004 373.1386,-23.7484 C375.9686,-23.5494 378.3756,-22.3794 380.1516,-20.3744 C381.6326,-22.1364 382.5236,-24.3994 382.5236,-26.8684 Z M384.8446,-38.9134 L384.8456,-41.7114 L384.7706,-41.7864 L379.9386,-36.9984 L381.4246,-35.5254 L384.8446,-38.9134 Z M389.4626,-25.5834 L391.4606,-27.5614 L391.4606,-27.6664 L384.6276,-27.6664 L384.6276,-25.5834 L389.4626,-25.5834 Z M361.6036,-40.5954 L358.7796,-40.5964 L358.7046,-40.5214 L363.5356,-35.7334 L365.0226,-37.2074 L361.6036,-40.5954 Z M373.2746,-44.0204 L371.2776,-45.9994 L371.1716,-45.9994 L371.1716,-39.2294 L373.2746,-39.2294 L373.2746,-44.0204 Z" id="Fill-1" stroke="none" fill="#2ECDCD" fill-rule="evenodd"></path>
               </svg>&nbsp;
             5,8%</h4>
-            <p class="paragraph is-small">de reducción de <b>emisiones de CO2</b> por persona</p>
+            <p class="paragraph is-small">de reducción de <b>emisiones de CO<sub>2</sub></b> por persona</p>
           </li>
           <li class="list-item">
             <h4 class="txt-number is-small u-flex u-alignCenter u-hcenter">

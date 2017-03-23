@@ -1,6 +1,11 @@
 .footer {
   background: $darkblue;
   padding: 38px 0 88px;
+  @media (max-width: $mobile) {
+    .container.u-flex {
+      display: block;
+    }
+  }
 }
 
 .footer-navigation {
@@ -38,6 +43,10 @@
   @include display-flex;
   @include justify-content(flex-end);
   margin-bottom: 74px;
+  @media (max-width: $mobile) {
+    margin-top: 20px;
+    @include justify-content(flex-start);
+  }
 }
 
 .footer-socialitem {
@@ -52,7 +61,6 @@
   @include display-flex;
   @include align-items(center);
   @include justify-content(center);
-  background: $electricblue;
   border-radius: 50%;
   height: 24px;
   min-width: 24px;

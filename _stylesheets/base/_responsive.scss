@@ -1,9 +1,14 @@
-
+.u-showMobile {
+  display: none;
+}
 
 
 @media (max-width: $mobile) {
   .u-hideMobile {
     display: none;
+  }
+  .u-showMobile {
+    display: block;
   }
   .list--threeItems .list-item,
   .list--twoItems .list-item,
@@ -124,4 +129,53 @@
       padding-bottom: 0;
     }
   }
+  .section--areas {
+    .map-info {
+      display: block !important;
+      position: static;
+      margin-bottom: 20px;
+      width: auto;
+      transform: translateX(0);
+    }
+    .map-close {
+      display: none;
+    }
+    .map-infoMedia svg {
+      width: 100%;
+      height: 100%;
+    }
+    .tabs.tabs--lightbox {
+      @include display-flex;
+      width: auto;
+    }
+  }
+  .list.list--groups {
+    display: block;
+    margin: 0;
+    .card-highlight .card-highlightTxt {
+      transition: none;
+    }
+    .list-item {
+      margin: 0 0 20px 0 !important;
+    }
+    .card-highlight {
+      position: static;
+    }
+    .card-highlight::before {
+      display: none;
+    }
+    a.card-highlight {
+      background: rgba(7,33,70,.8);
+    }
+    .card-highlight .card-highlightTxt {
+      position: static;
+      padding: 20px;
+      h2 {
+        display: block;
+        height: auto;
+      }
+    }
+
+  }
+
 }

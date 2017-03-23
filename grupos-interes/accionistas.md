@@ -46,7 +46,7 @@ headerTitle: Informe anual BBVA 2016
     <ul class="list-box">
       <li class="list-boxItem">
         <h3 class="list-boxItemTitle">ACCIONES EN  CIRCULACIÓN</h3>
-        <p class="txt-number is-small">6.567 <small>M</small></p>
+        <p class="txt-number is-small">6.567 <small>Millones</small></p>
       </li>
       <li class="list-boxItem">
         <h3 class="list-boxItemTitle">VALOR CONTABLE POR ACCIÓN</h3>
@@ -54,23 +54,23 @@ headerTitle: Informe anual BBVA 2016
       </li>
       <li class="list-boxItem">
         <h3 class="list-boxItemTitle">COTIZACIÓN ÚLTIMA</h3>
-        <p class="txt-number is-small">6,61 <small>€</small></p>
+        <p class="txt-number is-small">6,61 <small>€/acción</small></p>
       </li>
       <li class="list-boxItem">
         <h3 class="list-boxItemTitle">CAPITALIZACIÓN BURSÁTIL</h3>
-        <p class="txt-number is-small">42.118 <small>M€</small></p>
+        <p class="txt-number is-small">42.118 <small>Mill. €</small></p>
       </li>
     </ul>
     <hr class="break" />
 
-    <p class="paragraph paragraph--medium is-huge is-dark u-txt-center">Cotiza en las principales bolsas de valores mundiales</p>
+    <p class="u-txt-center title-section title-section--inside">Cotiza en las principales bolsas de valores mundiales</p>
 
     <div class="section-media is-center">
       <img src="{{site.baseurl}}/images/map-acciones.svg" />
     </div>
 
     <hr class="break" />
-    <p class="paragraph no-margin is-dark u-txt-center u-upperCase">ponderación de la acción BBVA en los principales índices bursátiles</p>
+    <p class="u-txt-center title-section title-section--inside">Ponderación de la acción BBVA en los principales índices bursátiles</p>
     <p class="paragraph is-s paragraph--medium u-txt-center">(31 - 12 - 2016)</p>
     <ul class="list-box">
       <li class="list-boxItem">
