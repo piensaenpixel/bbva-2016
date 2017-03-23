@@ -1038,13 +1038,15 @@ span.highlight {
 
   @media (max-width: $mobile) {
     display: block;
+    &.is-show {
+      cursor: pointer;
+      pointer-events: all;
+      opacity: 1;
+      visibility: visible;
+      z-index: 1000;
+    }
   }
-  &.is-show {
-    cursor: pointer;
-    pointer-events: all;
-    opacity: 1;
-    visibility: visible;
-  }
+
   &:hover {
     text-decoration: underline;
   }

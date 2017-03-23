@@ -115,7 +115,7 @@ and create opportunities for people</p>
       </li>
     </ul>
     <div class="section-media is-center">
-        <img style="max-width: 710px;" src="{{site.baseurl}}/images/sociedad-programa-sociales_eng.svg" />
+        <img style="max-width: 710px;" src="{{site.baseurl}}/images/spcen.svg" />
     </div>
 
     <p class="link-more">
