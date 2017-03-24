@@ -416,7 +416,7 @@ for an adequate management and oversight of the Bank </p>
 established an adequate risk management system, in line with the
 Entity's risk profile and strategy</p>
         <p class="link-more is-left">
-          <a href="https://accionistaseinversores.bbva.com/TLBB/micros/bbva2016/en/cuentas/notas-estados-financieros/index.html" target="_blank">
+          <a href="https://accionistaseinversores.bbva.com/TLBB/micros/bbva2016/en/cuentas/notas-estados-financieros/index.html#7-risk-management" target="_blank">
             Read more
           </a>
         </p>
