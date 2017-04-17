@@ -55,7 +55,7 @@
     {% endfor %}
   </ul>
 
-    {% for options in site.data.header.options %}
+    {%   for options in site.data.header.options %}
       {% if forloop.index == 1 %}
       {% else %}
         <p class="download-mobile">
@@ -68,8 +68,14 @@
     {% endfor %}
 
   <p class="download-mobile">
-    <a href="{% if lang == site.default_lang %} {{site.baseurl}}/downloads/bbva_2016.pdf {% else %} {{site.baseurl}}/downloads/bbva_2016_en.pdf {% endif %}" target="_blank">
-      {{ options.title }}
-    </a>
+    {% if lang == site.default_lang %}
+      <a href="{{site.baseurl}}/downloads/bbva_2016.pdf" target="_blank">
+        Descargar
+      </a>
+    {% else %}
+      <a href="{{site.baseurl}}/downloads/bbva_2016_en.pdf" target="_blank">
+        Download
+      </a>
+    {% endif %}
   </p>
 </nav>

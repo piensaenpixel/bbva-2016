@@ -1016,7 +1016,6 @@ span.highlight {
 }
 
 .content-up {
-  display: none;
   @include display-flex;
   @include align-items(center);
   @inlude justify-content(center);
@@ -1035,16 +1034,14 @@ span.highlight {
   padding: 4px 12px;
   border-radius: 2px;
   box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+  height: 34px;
 
-  @media (max-width: $mobile) {
-    display: block;
-    &.is-show {
-      cursor: pointer;
-      pointer-events: all;
-      opacity: 1;
-      visibility: visible;
-      z-index: 1000;
-    }
+  &.is-show {
+    cursor: pointer;
+    pointer-events: all;
+    opacity: 1;
+    visibility: visible;
+    z-index: 1000;
   }
 
   &:hover {

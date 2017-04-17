@@ -145,7 +145,7 @@ and create opportunities for people</p>
 
 <section class="section section--blue section--piramids-light">
   <div class="container container--small">
-    <h2 class="u-txt-center title-section">Financial Education</h2>
+    <h2 class="u-txt-center title-section">Financial education</h2>
     <ul class="list list--threeItems">
       <li class="list-item">
         <p class="paragraph u-upperCase"><b>Children and young adults</b></p>
@@ -371,14 +371,14 @@ and publication of socioeconomic reports.</p>
     <dl class="descriptions">
       <dt><img src="{{site.baseurl}}/images/logo-research.png" /></dt>
       <dd>
-        <p class="paragraph">BBVA makes available to shareholders, investors and the public in general a wide range of reports, analyses and studies on developments in the economy and the financial sector, both nationally and internationally</p>
+        <p class="paragraph">BBVA makes available to shareholders, investors and the public in general a wide range of reports, analyses and studies on developments in the economy and the financial sector, both nationally and internationally.</p>
       </dd>
     </dl>
     <hr class="break" />
     <dl class="descriptions">
       <dt><p class="paragraph is-l is-dark"><b>Education in values</b></p></dt>
       <dd>
-        <p class="paragraph">To promote social integration and training among children and young people</p>
+        <p class="paragraph">To promote social integration and training among children and young people.</p>
       </dd>
     </dl>
 
@@ -436,8 +436,11 @@ and publication of socioeconomic reports.</p>
 
 <section class="section">
   <div class="container container--small">
-    <h2 class="u-txt-center title-section--inside title-section">Environment</h2>
-    <p class="paragraph paragraph--big">In 2016 we launched our third Global Eco-efficiency Plan (GEP) until 2020 and worked to minimize our environmental footprint</p>
+    <h2 class="u-txt-center title-section--inside title-section">Enviroment</h2>
+    <p class="paragraph paragraph--80g">In 2016 we launched our third Global Eco-efficiency Plan (GEP) until 2020 and worked to minimize our environmental footprint</p>
+    <h3 class="u-txt-center paragraph paragraph--medium is-huge">Consumption reduction</h3>
+
+
     <div class="section-media is-center is-space--30 ">
         <img style="max-width: 710px;" src="{{site.baseurl}}/images/sociedad-medioambiente-eng.svg" />
     </div>

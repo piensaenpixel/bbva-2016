@@ -355,7 +355,7 @@ and Ethical Accountability AA1000 standard.</p>
         <a href="#">BBVA in 2016</a>
       </li>
       <li class="list-buttonsItem">
-        <a href="https://accionistaseinversores.bbva.com/TLBB/fbinir/mult/CuentasAnualesConsolidadasBBVA2016_tcm926-643412.pdf" target="_blank">Consolidated financial statements, management report and auditor's report</a>
+        <a href="https://shareholdersandinvestors.bbva.com//TLBB/fbinir/mult/CuentasAnualesConsolidadasBBVA2016_tcm927-643412.pdf" target="_blank">Consolidated financial statements, management report and auditor's report</a>
       </li>
       <li class="list-buttonsItem">
         <a href="https://shareholdersandinvestors.bbva.com//TLBB/fbinir/mult/InformePilarIII2016_tcm927-643321.pdf" target="_blank">Information of Prudential Relevance. Basel Accords, Pilar III</a>
@@ -384,7 +384,7 @@ guide relations between the Company, its management,
 shareholders and other stakeholders, allowing, at the same time,
 for an adequate management and oversight of the Bank </p>
         <p class="link-more is-left">
-          <a href="#">
+          <a href="{{site.baseurl}}/downloads/gobierno_corporativo_en.pdf" target="_blank">
             <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                viewBox="0 0 15.2 20.3" style="enable-background:new 0 0 15.2 20.3;" xml:space="preserve" width="18">
             <style type="text/css">

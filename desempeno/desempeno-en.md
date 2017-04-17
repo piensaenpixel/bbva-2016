@@ -247,16 +247,16 @@ economies in which BBVA operates</p>
         <div class="tabs-header"><h3 class="tabs-title">Contribution to growth and welfare</h3></div>
         <ul class="list list--threeItems u-txt-center">
           <li class="list-item">
-            <h4 class="txt-number is-small">70  <small>million</small></h4>
+            <h4 class="txt-number is-small">70 <small>million</small></h4>
             <p class="paragraph is-small"><b>customers</b> in 35 countries; 18 million digital customers</p>
           </li>
           <li class="list-item">
-            <h4 class="txt-number is-small">€122,758 <small>M of homes financed</small></h4>
-            <p class="paragraph is-small">We <b>finance homes</b> for a total amount of</p>
+            <h4 class="txt-number is-small">€122,758 <small>M</small></h4>
+            <p class="paragraph is-small">of <b>homes financed</b></p>
           </li>
           <li class="list-item">
-            <h4 class="txt-number is-small">€33,418 <small>M of pension funds managed</small></h4>
-            <p class="paragraph is-small">We <b>manage pension plans</b> for a total value of </p>
+            <h4 class="txt-number is-small">€33,418 <small>M</small></h4>
+            <p class="paragraph is-small">of <b>pension funds</b> managed</p>
           </li>
           <li class="list-item">
             <h4 class="txt-number is-small">2.5 <small>million</small></h4>
